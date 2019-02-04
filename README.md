@@ -41,7 +41,7 @@ Test file (References)
 
 Offical IPTV Host (By Subscription):
 ------------------------------------
-1. BEST IPTV SHOP (Link: https://www.best-iptv-shop.com/)
+1. BEST IPTV SHOP, offers 48Hours IPTV Trial (Link: https://www.best-iptv-shop.com/)
 
 2.
 
