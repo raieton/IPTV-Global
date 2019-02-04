@@ -1,37 +1,4380 @@
 #EXTM3U
-#EXTINF:-1,AR: 2M
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/62.ts
-#EXTINF:-1,AR: Medi1
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/61.ts
-#EXTINF:-1,AR: MBC
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/60.ts
-#EXTINF:-1,AR:  MBC 2
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/498.ts
-#EXTINF:-1,AR:  MBC 3
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/504.ts
-#EXTINF:-1,AR:  MBC 4
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/499.ts
-#EXTINF:-1,AR:  MBC Max
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/501.ts
-#EXTINF:-1,AR:  MBC action
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/500.ts
-#EXTINF:-1,AR:  MBC Drama
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/502.ts
-#EXTINF:-1,AR:  MBC Bollywood
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/503.ts
-#EXTINF:-1,AR: AD SPORT 1 HD
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/14.ts
-#EXTINF:-1,AR:AD SPORT 2 HD
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/15.ts
-#EXTINF:-1,AR: BEIN SPORT 1
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/1.ts
-#EXTINF:-1,AR: BEIN SPORT 2
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/2.ts
-#EXTINF:-1,AR: BEIN SPORT 3
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/3.ts
-#EXTINF:-1,AR: BEIN SPORT 4
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/4.ts
-#EXTINF:-1,AR: BEIN SPORT 5
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/5.ts
-#EXTINF:-1,AR: BEIN SPORT 6
-http://93.118.32.94:8000/live/3101-www.ipmagtv.com/ftDUWOa77L/484.ts
+#EXTINF:-1,NILE:Art_Aflam 1
+http://egyman.net:1978/fady/fady/4629
+#EXTINF:-1,NILE:Art_Aflam 2
+http://egyman.net:1978/fady/fady/4628
+#EXTINF:-1,NILE:Art_Cinema
+http://egyman.net:1978/fady/fady/4627
+#EXTINF:-1,NILE:Art_Hekayat 1
+http://egyman.net:1978/fady/fady/4626
+#EXTINF:-1,NILE:Art_Hekayat 2
+http://egyman.net:1978/fady/fady/4625
+#EXTINF:-1,AR:BEIN-MOVIES-1
+http://egyman.net:1978/fady/fady/4621
+#EXTINF:-1,AR:BEIN-MOVIES-2
+http://egyman.net:1978/fady/fady/4622
+#EXTINF:-1,AR:BEIN-MOVIES-3
+http://egyman.net:1978/fady/fady/4623
+#EXTINF:-1,AR:BEIN-MOVIES-4
+http://egyman.net:1978/fady/fady/4624
+#EXTINF:-1,AR:-OSN-ALYOUM
+http://egyman.net:1978/fady/fady/4889
+#EXTINF:-1,OSN-Cinema-1
+http://egyman.net:1978/fady/fady/4608
+#EXTINF:-1,OSN-Cinema-2
+http://egyman.net:1978/fady/fady/4606
+#EXTINF:-1,OSN-BoxOffice-1
+http://egyman.net:1978/fady/fady/4605
+#EXTINF:-1,OSN-BOXOFFICE-2
+http://egyman.net:1978/fady/fady/4604
+#EXTINF:-1,OSN-BoxOFFICE-3-HD
+http://egyman.net:1978/fady/fady/4603
+#EXTINF:-1,AR:-OSN-WWE
+http://egyman.net:1978/fady/fady/4556
+#EXTINF:-1,OSN-YAHALLA-CENIMA
+http://egyman.net:1978/fady/fady/4557
+#EXTINF:-1,VIP AR: OSN Discovery Science HD
+http://egyman.net:1978/fady/fady/4575
+#EXTINF:-1,OSN-Movies-2HD
+http://egyman.net:1978/fady/fady/4571
+#EXTINF:-1,OSN-Movies-Action-2
+http://egyman.net:1978/fady/fady/4570
+#EXTINF:-1,OSN-Movies-Action-HD
+http://egyman.net:1978/fady/fady/4569
+#EXTINF:-1,OSN-Movies-Comedy-HD
+http://egyman.net:1978/fady/fady/4568
+#EXTINF:-1,OSN-MOVIES-DRAMA-2
+http://egyman.net:1978/fady/fady/4567
+#EXTINF:-1,OSN-Movies-Drama-HD
+http://egyman.net:1978/fady/fady/4566
+#EXTINF:-1,OSN-Movies-Family-HD
+http://egyman.net:1978/fady/fady/4565
+#EXTINF:-1,OSN-Movies-Festival-HD
+http://egyman.net:1978/fady/fady/4564
+#EXTINF:-1,OSN-Movies-HD
+http://egyman.net:1978/fady/fady/4563
+#EXTINF:-1,OSN-Movies-Kids-HD
+http://egyman.net:1978/fady/fady/4562
+#EXTINF:-1,OSN-Movies-Prem2
+http://egyman.net:1978/fady/fady/4561
+#EXTINF:-1,OSN-SPORT-1-HD
+http://egyman.net:1978/fady/fady/4559
+#EXTINF:-1,OSN-SPORT-2-HD
+http://egyman.net:1978/fady/fady/4558
+#EXTINF:-1,OSN-SPORT-3-HD
+http://egyman.net:1978/fady/fady/4573
+#EXTINF:-1,OSN-AlSafwa
+http://egyman.net:1978/fady/fady/4602
+#EXTINF:-1,OSN-Comedy-Central-HD
+http://egyman.net:1978/fady/fady/4601
+#EXTINF:-1,OSN-Fann
+http://egyman.net:1978/fady/fady/4599
+#EXTINF:-1,OSN-Fox-Movies-HD
+http://egyman.net:1978/fady/fady/4593
+#EXTINF:-1,OSN-MusalSat
+http://egyman.net:1978/fady/fady/4590
+#EXTINF:-1,OSN-YaHala
+http://egyman.net:1978/fady/fady/4583
+#EXTINF:-1,OSN-YaHala-Cinema
+http://egyman.net:1978/fady/fady/4581
+#EXTINF:-1,OSN-YaHala-Drama
+http://egyman.net:1978/fady/fady/4580
+#EXTINF:-1,OSN-YaHala-Shabab
+http://egyman.net:1978/fady/fady/4579
+#EXTINF:-1,MBC-MASR-1
+http://egyman.net:1978/fady/fady/8506
+#EXTINF:-1,BEIN-SPORT-1=LOW
+http://egyman.net:1978/fady/fady/4937
+#EXTINF:-1,BEIN-SPORT-2=LOW
+http://egyman.net:1978/fady/fady/4936
+#EXTINF:-1,BEIN-SPORT-3=LOW
+http://egyman.net:1978/fady/fady/4935
+#EXTINF:-1,BEIN-SPORT-4=LOW
+http://egyman.net:1978/fady/fady/4934
+#EXTINF:-1,BEIN-SPORT-5=LOW
+http://egyman.net:1978/fady/fady/4933
+#EXTINF:-1,BEIN-SPORT-6=LOW
+http://egyman.net:1978/fady/fady/4932
+#EXTINF:-1,BEIN-SPORT-7=LOW
+http://egyman.net:1978/fady/fady/4931
+#EXTINF:-1,BEIN-SPORT-8=LOW
+http://egyman.net:1978/fady/fady/4930
+#EXTINF:-1,BEIN-SPORT-9=LOW
+http://egyman.net:1978/fady/fady/4929
+#EXTINF:-1,BEIN-SPORT-10=LOW
+http://egyman.net:1978/fady/fady/4928
+#EXTINF:-1,BEIN-SPORT-1=512
+http://egyman.net:1978/fady/fady/2
+#EXTINF:-1,BEIN-SPORT-2=512
+http://egyman.net:1978/fady/fady/3
+#EXTINF:-1,BEIN-SPORT-3=512
+http://egyman.net:1978/fady/fady/4
+#EXTINF:-1,BEIN-SPORT-4=512
+http://egyman.net:1978/fady/fady/6
+#EXTINF:-1,BEIN-SPORT-5=512
+http://egyman.net:1978/fady/fady/7
+#EXTINF:-1,BEIN-SPORT-6=512
+http://egyman.net:1978/fady/fady/8
+#EXTINF:-1,BEIN-SPORT-7=512
+http://egyman.net:1978/fady/fady/9
+#EXTINF:-1,BEIN-SPORT-8=512
+http://egyman.net:1978/fady/fady/10
+#EXTINF:-1,BEIN-SPORT-9=512
+http://egyman.net:1978/fady/fady/11
+#EXTINF:-1,BEIN-SPORT-10=512
+http://egyman.net:1978/fady/fady/12
+#EXTINF:-1,BEIN-SPORT-1=SD
+http://egyman.net:1978/fady/fady/22
+#EXTINF:-1,BEIN-SPORT-2=SD
+http://egyman.net:1978/fady/fady/21
+#EXTINF:-1,BEIN-SPORT-3=SD
+http://egyman.net:1978/fady/fady/20
+#EXTINF:-1,BEIN-SPORT-4=SD
+http://egyman.net:1978/fady/fady/19
+#EXTINF:-1,BEIN-SPORT-5=SD
+http://egyman.net:1978/fady/fady/18
+#EXTINF:-1,BEIN-SPORT-6=SD
+http://egyman.net:1978/fady/fady/17
+#EXTINF:-1,BEIN-SPORT-7=SD
+http://egyman.net:1978/fady/fady/16
+#EXTINF:-1,BEIN-SPORT-8=SD
+http://egyman.net:1978/fady/fady/15
+#EXTINF:-1,BEIN-SPORT-9=SD
+http://egyman.net:1978/fady/fady/14
+#EXTINF:-1,BEIN-SPORT-10=SD
+http://egyman.net:1978/fady/fady/13
+#EXTINF:-1,BEIN-SPORT-1=HD
+http://egyman.net:1978/fady/fady/4555
+#EXTINF:-1,BEIN-SPORT-2=HD
+http://egyman.net:1978/fady/fady/4554
+#EXTINF:-1,BEIN-SPORT-3=HD
+http://egyman.net:1978/fady/fady/4553
+#EXTINF:-1,BEIN-SPORT-4=HD
+http://egyman.net:1978/fady/fady/4552
+#EXTINF:-1,BEIN-SPORT-5=HD
+http://egyman.net:1978/fady/fady/4551
+#EXTINF:-1,BEIN-SPORT-6=HD
+http://egyman.net:1978/fady/fady/4550
+#EXTINF:-1,BEIN-SPORT-7=HD
+http://egyman.net:1978/fady/fady/4549
+#EXTINF:-1,BEIN-SPORT-8=HD
+http://egyman.net:1978/fady/fady/4548
+#EXTINF:-1,BEIN-SPORT-9=HD
+http://egyman.net:1978/fady/fady/4547
+#EXTINF:-1,BEIN-SPORT-10=HD
+http://egyman.net:1978/fady/fady/4546
+#EXTINF:-1,BEIN-SPORT-1=FULL-HD
+http://egyman.net:1978/fady/fady/4885
+#EXTINF:-1,BEIN-SPORT-2=FULL-HD
+http://egyman.net:1978/fady/fady/4884
+#EXTINF:-1,BEIN-SPORT-3=FULL-HD
+http://egyman.net:1978/fady/fady/4883
+#EXTINF:-1,BEIN-SPORT-4=FULL-HD
+http://egyman.net:1978/fady/fady/4882
+#EXTINF:-1,BEIN-SPORT-5=FULL-HD
+http://egyman.net:1978/fady/fady/4881
+#EXTINF:-1,BEIN-SPORT-6=FULL-HD
+http://egyman.net:1978/fady/fady/4880
+#EXTINF:-1,BEIN-SPORT-7=FULL-HD
+http://egyman.net:1978/fady/fady/4879
+#EXTINF:-1,BEIN-SPORT-8=FULL-HD
+http://egyman.net:1978/fady/fady/4878
+#EXTINF:-1,BEIN-SPORT-9=FULL-HD
+http://egyman.net:1978/fady/fady/4877
+#EXTINF:-1,BEIN-SPORT-10=FULL-HD
+http://egyman.net:1978/fady/fady/4876
+#EXTINF:-1,BEIN-SPORT-1=4K
+http://egyman.net:1978/fady/fady/4609
+#EXTINF:-1,BEIN-SPORT-2=4K
+http://egyman.net:1978/fady/fady/4610
+#EXTINF:-1,BEIN-SPORT-3=4K
+http://egyman.net:1978/fady/fady/4611
+#EXTINF:-1,BEIN-SPORT-4=4K
+http://egyman.net:1978/fady/fady/4612
+#EXTINF:-1,BEIN-SPORT-5=4K
+http://egyman.net:1978/fady/fady/4613
+#EXTINF:-1,BEIN-SPORT-6=4K
+http://egyman.net:1978/fady/fady/4614
+#EXTINF:-1,BEIN-SPORT-7=4K
+http://egyman.net:1978/fady/fady/4615
+#EXTINF:-1,BEIN-SPORT-8=4K
+http://egyman.net:1978/fady/fady/4616
+#EXTINF:-1,BEIN-SPORT-9=4K
+http://egyman.net:1978/fady/fady/4617
+#EXTINF:-1,BEIN-SPORT-10=4K
+http://egyman.net:1978/fady/fady/4618
+#EXTINF:-1,AD SPORT HD1
+http://egyman.net:1978/fady/fady/6859
+#EXTINF:-1,AD SPORT HD2
+http://egyman.net:1978/fady/fady/6860
+#EXTINF:-1,AD SPORT HD3
+http://egyman.net:1978/fady/fady/6861
+#EXTINF:-1,AD SPORT HD4
+http://egyman.net:1978/fady/fady/6862
+#EXTINF:-1,NILE:Al-Nahar-Drama
+http://egyman.net:1978/fady/fady/8476
+#EXTINF:-1,NILE:AlHayat
+http://egyman.net:1978/fady/fady/8478
+#EXTINF:-1,NILE:AlHayat2
+http://egyman.net:1978/fady/fady/8477
+#EXTINF:-1,NILE:Alkahera Wa Alnas 2
+http://egyman.net:1978/fady/fady/8463
+#EXTINF:-1,NILE:AlKAHERA_WALNAS
+http://egyman.net:1978/fady/fady/8462
+#EXTINF:-1,NILE:AlNahar
+http://egyman.net:1978/fady/fady/8460
+#EXTINF:-1,NILE:AlNahar-drama
+http://egyman.net:1978/fady/fady/8459
+#EXTINF:-1,NILE:B4U_Aflam
+http://egyman.net:1978/fady/fady/8451
+#EXTINF:-1,NILE:B4U_PLUS
+http://egyman.net:1978/fady/fady/8450
+#EXTINF:-1,NILE:Beur-tv
+http://egyman.net:1978/fady/fady/8449
+#EXTINF:-1,NILE:CAIRO_AFLAM
+http://egyman.net:1978/fady/fady/8479
+#EXTINF:-1,NILE:CATV
+http://egyman.net:1978/fady/fady/8475
+#EXTINF:-1,NILE:CBC
+http://egyman.net:1978/fady/fady/8499
+#EXTINF:-1,NILE:CBC_DRAMA
+http://egyman.net:1978/fady/fady/8498
+#EXTINF:-1,NILE:CBC_EXTRA
+http://egyman.net:1978/fady/fady/8497
+#EXTINF:-1,NILE:CBC_SOFRA
+http://egyman.net:1978/fady/fady/8496
+#EXTINF:-1,NILE:Cima Alibaba
+http://egyman.net:1978/fady/fady/8473
+#EXTINF:-1,NILE:Cinema
+http://egyman.net:1978/fady/fady/8474
+#EXTINF:-1,NILE:CNBC ARABIYA
+http://egyman.net:1978/fady/fady/8469
+#EXTINF:-1,NILE:CNN
+http://egyman.net:1978/fady/fady/8461
+#EXTINF:-1,NILE:darbaka_aflam
+http://egyman.net:1978/fady/fady/8472
+#EXTINF:-1,NILE:DMC_DREAMA
+http://egyman.net:1978/fady/fady/8491
+#EXTINF:-1,NILE:DMC_HD
+http://egyman.net:1978/fady/fady/8492
+#EXTINF:-1,NILE:DREAM
+http://egyman.net:1978/fady/fady/8471
+#EXTINF:-1,NILE:dream 2
+http://egyman.net:1978/fady/fady/8470
+#EXTINF:-1,NILE:Mazzika
+http://egyman.net:1978/fady/fady/8467
+#EXTINF:-1,NILE:Mekameleen
+http://egyman.net:1978/fady/fady/8456
+#EXTINF:-1,NILE:Melody Hits
+http://egyman.net:1978/fady/fady/8455
+#EXTINF:-1,NILE:Melody_CINEMA
+http://egyman.net:1978/fady/fady/8490
+#EXTINF:-1,NILE:MELODY_CLASSIC
+http://egyman.net:1978/fady/fady/8489
+#EXTINF:-1,MBC-MASR
+http://egyman.net:1978/fady/fady/8488
+#EXTINF:-1,NILE:Nile Life
+http://egyman.net:1978/fady/fady/8454
+#EXTINF:-1,NILE:Nile_Cinema
+http://egyman.net:1978/fady/fady/8495
+#EXTINF:-1,NILE:Nile_Comedy
+http://egyman.net:1978/fady/fady/8494
+#EXTINF:-1,NILE:NILE_Drama
+http://egyman.net:1978/fady/fady/8453
+#EXTINF:-1,NILE:Nile_Family
+http://egyman.net:1978/fady/fady/8493
+#EXTINF:-1,NILE:Nile_News
+http://egyman.net:1978/fady/fady/8452
+#EXTINF:-1,NILE:ON E HD
+http://egyman.net:1978/fady/fady/8458
+#EXTINF:-1,NILE:ON_SPORT
+http://egyman.net:1978/fady/fady/8448
+#EXTINF:-1,NILE:ON_TV
+http://egyman.net:1978/fady/fady/8457
+#EXTINF:-1,NILE:Panorama Food
+http://egyman.net:1978/fady/fady/8447
+#EXTINF:-1,NILE:panorama_film
+http://egyman.net:1978/fady/fady/8444
+#EXTINF:-1,NILE:Panorama-Drama1
+http://egyman.net:1978/fady/fady/8446
+#EXTINF:-1,NILE:Panorama-Drama2
+http://egyman.net:1978/fady/fady/8445
+#EXTINF:-1,NILE:Rotana_Classic
+http://egyman.net:1978/fady/fady/8484
+#EXTINF:-1,NILE:ROTANA_CLIP
+http://egyman.net:1978/fady/fady/8480
+#EXTINF:-1,NILE:Rotana_drama
+http://egyman.net:1978/fady/fady/8483
+#EXTINF:-1,NILE:Rotana_Khalijia
+http://egyman.net:1978/fady/fady/8482
+#EXTINF:-1,NILE:ROTANA_MASRIA
+http://egyman.net:1978/fady/fady/8481
+#EXTINF:-1,NILE:rotana_music
+http://egyman.net:1978/fady/fady/8487
+#EXTINF:-1,NILE:Rotana-Aflem
+http://egyman.net:1978/fady/fady/8486
+#EXTINF:-1,NILE:rotana-cinema
+http://egyman.net:1978/fady/fady/8485
+#EXTINF:-1,NILE:Sada Drama
+http://egyman.net:1978/fady/fady/8443
+#EXTINF:-1,NILE:Sada ElBalad Drama
+http://egyman.net:1978/fady/fady/8468
+#EXTINF:-1,NILE:Sudan-SPORT
+http://egyman.net:1978/fady/fady/8466
+#EXTINF:-1,NILE:ZEE_ALWAN
+http://egyman.net:1978/fady/fady/8464
+#EXTINF:-1,NILE:Zee-Aflam
+http://egyman.net:1978/fady/fady/8465
+#EXTINF:-1,ALG:AL NAHAR
+http://egyman.net:1978/fady/fady/8376
+#EXTINF:-1,ALG:Algeria 5
+http://egyman.net:1978/fady/fady/8441
+#EXTINF:-1,ALG:algerie
+http://egyman.net:1978/fady/fady/8442
+#EXTINF:-1,ALG:BAHIA
+http://egyman.net:1978/fady/fady/8440
+#EXTINF:-1,ALG:Benna
+http://egyman.net:1978/fady/fady/8439
+#EXTINF:-1,ALG:Berbère Jeunesse
+http://egyman.net:1978/fady/fady/8375
+#EXTINF:-1,ALG:Berbère Télévision
+http://egyman.net:1978/fady/fady/8374
+#EXTINF:-1,ALG:BEUR_TV
+http://egyman.net:1978/fady/fady/8373
+#EXTINF:-1,ALG:CHOUROUK
+http://egyman.net:1978/fady/fady/8438
+#EXTINF:-1,ALG:D-zair-news
+http://egyman.net:1978/fady/fady/8437
+#EXTINF:-1,ALG:DZAIR_TV
+http://egyman.net:1978/fady/fady/8436
+#EXTINF:-1,ALG:EL_FADJR TV
+http://egyman.net:1978/fady/fady/8434
+#EXTINF:-1,ALG:EL-BILAD-TV
+http://egyman.net:1978/fady/fady/8435
+#EXTINF:-1,ALG:rai music1
+http://egyman.net:1978/fady/fady/8372
+#EXTINF:-1,ALG:rai music2
+http://egyman.net:1978/fady/fady/8371
+#EXTINF:-1,ALG:SAMIRA TV
+http://egyman.net:1978/fady/fady/8370
+#EXTINF:-1,Emarat
+http://egyman.net:1978/fady/fady/8369
+#EXTINF:-1,Emarat:Abu_Dubai_1
+http://egyman.net:1978/fady/fady/8368
+#EXTINF:-1,Emarat:Dubai
+http://egyman.net:1978/fady/fady/8367
+#EXTINF:-1,Emarat:Dubai_Sports-3
+http://egyman.net:1978/fady/fady/8363
+#EXTINF:-1,Emarat:Dubai_Sports-4
+http://egyman.net:1978/fady/fady/8362
+#EXTINF:-1,EMARAT:DUBAI-SPORT
+http://egyman.net:1978/fady/fady/8366
+#EXTINF:-1,Emarat:Dubai-Sport_1.HD
+http://egyman.net:1978/fady/fady/8365
+#EXTINF:-1,Emarat:DubaiSport2_HD
+http://egyman.net:1978/fady/fady/8364
+#EXTINF:-1,Emarat:Nat.Geo-Abudhabi
+http://egyman.net:1978/fady/fady/8361
+#EXTINF:-1,Emarat:Noor.Dubai
+http://egyman.net:1978/fady/fady/8360
+#EXTINF:-1,Emarat:One.Dubai
+http://egyman.net:1978/fady/fady/8359
+#EXTINF:-1,Emarat:Sama.Dubai
+http://egyman.net:1978/fady/fady/8358
+#EXTINF:-1,Emarat:Zaman.Dubai
+http://egyman.net:1978/fady/fady/8357
+#EXTINF:-1,Jordan:Jorden TV
+http://egyman.net:1978/fady/fady/8433
+#EXTINF:-1,Jordan:Noor
+http://egyman.net:1978/fady/fady/8431
+#EXTINF:-1,Jordan:ONE
+http://egyman.net:1978/fady/fady/8432
+#EXTINF:-1,Jordan:Roya
+http://egyman.net:1978/fady/fady/8430
+#EXTINF:-1,Kuwait:Alaraby
+http://egyman.net:1978/fady/fady/8356
+#EXTINF:-1,Kuwait:Almajlis
+http://egyman.net:1978/fady/fady/8355
+#EXTINF:-1,Kuwait:Ethraa
+http://egyman.net:1978/fady/fady/8354
+#EXTINF:-1,Kuwait:Kuwait 1
+http://egyman.net:1978/fady/fady/8353
+#EXTINF:-1,Kuwait:Kuwait2
+http://egyman.net:1978/fady/fady/8352
+#EXTINF:-1,Kuwait:Plus
+http://egyman.net:1978/fady/fady/8351
+#EXTINF:-1,Kuwait:Sport-Plus
+http://egyman.net:1978/fady/fady/8350
+#EXTINF:-1,LEBANON:Al-Janoubia
+http://egyman.net:1978/fady/fady/8429
+#EXTINF:-1,LEBANON:ALJADEED
+http://egyman.net:1978/fady/fady/8428
+#EXTINF:-1,LEBANON:ALMANAR
+http://egyman.net:1978/fady/fady/8427
+#EXTINF:-1,LEBANON:Almayadeen
+http://egyman.net:1978/fady/fady/8426
+#EXTINF:-1,LEBANON:FUTURE
+http://egyman.net:1978/fady/fady/8425
+#EXTINF:-1,LIBYA:LIBYA ONE
+http://egyman.net:1978/fady/fady/8424
+#EXTINF:-1,LIBYA:LIBYA TV
+http://egyman.net:1978/fady/fady/8423
+#EXTINF:-1,LIBYA:libya_Alhadath
+http://egyman.net:1978/fady/fady/8422
+#EXTINF:-1,LIBYA:naba
+http://egyman.net:1978/fady/fady/8421
+#EXTINF:-1,LIBYA:Panorama
+http://egyman.net:1978/fady/fady/8420
+#EXTINF:-1,MAR:2M_MARoc
+http://egyman.net:1978/fady/fady/8419
+#EXTINF:-1,MAR:Al_Oula_HD
+http://egyman.net:1978/fady/fady/8417
+#EXTINF:-1,MAR:ALMAGHRIBIA HD
+http://egyman.net:1978/fady/fady/8418
+#EXTINF:-1,MAR:ARrabiaa HD
+http://egyman.net:1978/fady/fady/8416
+#EXTINF:-1,MAR:Arryadia HD
+http://egyman.net:1978/fady/fady/8415
+#EXTINF:-1,MAR:Assadissa HD
+http://egyman.net:1978/fady/fady/8414
+#EXTINF:-1,MAR:Medi1_SAT
+http://egyman.net:1978/fady/fady/8413
+#EXTINF:-1,MAR:TAMAZIGHT_HD
+http://egyman.net:1978/fady/fady/8411
+#EXTINF:-1,MAR:Téle maroc
+http://egyman.net:1978/fady/fady/8412
+#EXTINF:-1,NEWS:Al MANAR TV
+http://egyman.net:1978/fady/fady/8386
+#EXTINF:-1,NEWS:AlArabiya
+http://egyman.net:1978/fady/fady/8385
+#EXTINF:-1,NEWS:alhadath
+http://egyman.net:1978/fady/fady/8384
+#EXTINF:-1,NEWS:Alhiwar
+http://egyman.net:1978/fady/fady/8383
+#EXTINF:-1,NEWS:AlJazeera
+http://egyman.net:1978/fady/fady/8382
+#EXTINF:-1,NEWS:Aljazeera mubasher
+http://egyman.net:1978/fady/fady/8381
+#EXTINF:-1,NEWS:AlJazeera_Documentary
+http://egyman.net:1978/fady/fady/8380
+#EXTINF:-1,NEWS:AlJazeera_Mubasher
+http://egyman.net:1978/fady/fady/8379
+#EXTINF:-1,NEWS:ANN
+http://egyman.net:1978/fady/fady/8378
+#EXTINF:-1,NEWS:ARAB
+http://egyman.net:1978/fady/fady/8377
+#EXTINF:-1,Saudi:Ajyal
+http://egyman.net:1978/fady/fady/8408
+#EXTINF:-1,Saudi:Almajd Edu
+http://egyman.net:1978/fady/fady/8407
+#EXTINF:-1,Saudi:SAUDI_24
+http://egyman.net:1978/fady/fady/8406
+#EXTINF:-1,Saudi:Sport
+http://egyman.net:1978/fady/fady/8405
+#EXTINF:-1,SAUDI:SUNNA
+http://egyman.net:1978/fady/fady/8404
+#EXTINF:-1,Saudi.Tv1
+http://egyman.net:1978/fady/fady/8410
+#EXTINF:-1,Saudi.Tv2
+http://egyman.net:1978/fady/fady/8409
+#EXTINF:-1,SYRIA:Medical
+http://egyman.net:1978/fady/fady/8393
+#EXTINF:-1,SYRIA:NUUR_Acham_SYRIA
+http://egyman.net:1978/fady/fady/8394
+#EXTINF:-1,TUN:ALMUSTAKILLAH
+http://egyman.net:1978/fady/fady/8403
+#EXTINF:-1,TUN:Attessia
+http://egyman.net:1978/fady/fady/8398
+#EXTINF:-1,TUN:Hannibal
+http://egyman.net:1978/fady/fady/8397
+#EXTINF:-1,TUN:TN_Tunisna
+http://egyman.net:1978/fady/fady/8396
+#EXTINF:-1,TUN:TN_Zaytouna
+http://egyman.net:1978/fady/fady/8395
+#EXTINF:-1,TUN:Tunisia-NAT_1
+http://egyman.net:1978/fady/fady/8402
+#EXTINF:-1,TUN:TUNISNA
+http://egyman.net:1978/fady/fady/8401
+#EXTINF:-1,TUN:Zaytouna_Hidaya
+http://egyman.net:1978/fady/fady/8400
+#EXTINF:-1,TUN:Zitouna-TV
+http://egyman.net:1978/fady/fady/8399
+#EXTINF:-1,YEMEN:Al Saeedah
+http://egyman.net:1978/fady/fady/8392
+#EXTINF:-1,YEMEN:Almasira
+http://egyman.net:1978/fady/fady/8390
+#EXTINF:-1,YEMEN:Rushd TV
+http://egyman.net:1978/fady/fady/8389
+#EXTINF:-1,YEMEN:shabab
+http://egyman.net:1978/fady/fady/8388
+#EXTINF:-1,YEMEN:Today
+http://egyman.net:1978/fady/fady/8387
+#EXTINF:-1,YEMEN:YEMEN TV
+http://egyman.net:1978/fady/fady/8391
+
+#EXTINF:-1,beIN SPORTS News HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3047.m3u8
+#EXTINF:-1,beIN SPORTS HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3046.m3u8
+#EXTINF:-1,beIN SPORTS HD1
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3066.m3u8
+#EXTINF:-1,beIN-SPORTS-HD2
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/18372.m3u8
+#EXTINF:-1,beIN SPORTS HD3
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3064.m3u8
+#EXTINF:-1,beIN SPORTS HD4
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3063.m3u8
+#EXTINF:-1,beIN SPORTS HD5
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3062.m3u8
+#EXTINF:-1,beIN SPORTS HD6
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3061.m3u8
+#EXTINF:-1,beIN SPORTS HD7
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3060.m3u8
+#EXTINF:-1,beIN SPORTS HD8
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3059.m3u8
+#EXTINF:-1,beIN SPORTS HD9
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3058.m3u8
+#EXTINF:-1,beIN SPORTS HD10
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3057.m3u8
+#EXTINF:-1,beIN SPORTS HD11
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/8259.m3u8
+#EXTINF:-1,beIN SPORTS HD12
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/8260.m3u8
+#EXTINF:-1,beIN-SPORTS SD1
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3076.m3u8
+#EXTINF:-1,beIN-SPORTS-SD2
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/18373.m3u8
+#EXTINF:-1,beIN-SPORTS SD3
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3074.m3u8
+#EXTINF:-1,beIN-SPORTS SD4
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3073.m3u8
+#EXTINF:-1,beIN-SPORTS SD5
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3072.m3u8
+#EXTINF:-1,beIN-SPORTS SD6
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3071.m3u8
+#EXTINF:-1,beIN-SPORTS SD7
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3070.m3u8
+#EXTINF:-1,beIN-SPORTS SD9
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3068.m3u8
+#EXTINF:-1,beIN-SPORTS SD10
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/3067.m3u8
+#EXTINF:-1,beIN_MOVIES-1 HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1474.m3u8
+#EXTINF:-1,beIN_MOVIES-2 HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1473.m3u8
+#EXTINF:-1,beIN_MOVIES-3 HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1472.m3u8
+#EXTINF:-1,beIN_MOVIES-4 HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1471.m3u8
+#EXTINF:-1,beIN SERIES HD1
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1469.m3u8
+#EXTINF:-1,beIN SERIES HD2
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/5177.m3u8
+#EXTINF:-1,beIN-DRAMA-HD1
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/5051.m3u8
+#EXTINF:-1,beIN BARAEM
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1464.m3u8
+#EXTINF:-1,beIN JEEM HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1462.m3u8
+#EXTINF:-1,be Junior HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2241.m3u8
+#EXTINF:-1,beIN ANIMAL PLANET
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1466.m3u8
+#EXTINF:-1,beIN DISCOVERY
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2547.m3u8
+#EXTINF:-1,beIN DISCOVERY SC
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1468.m3u8
+#EXTINF:-1,beIN DMAX
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2238.m3u8
+#EXTINF:-1,beIN FATAFEAT HD
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1465.m3u8
+#EXTINF:-1,beIN GOURMET
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1692.m3u8
+#EXTINF:-1,FILM BOX
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2250.m3u8
+#EXTINF:-1,FILM BOX ARTHOUSE
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2249.m3u8
+#EXTINF:-1,FOX REWAYAT
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2251.m3u8
+#EXTINF:-1,FOX HD ARB
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2252.m3u8
+#EXTINF:-1,FOX MOVIES
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/1470.m3u8
+#EXTINF:-1,FOX MOVIES FAMILY
+http://pro.smartgotv.com:8005/live/bassam_bein/Zs4KgMDkmh/2548.m3u8
+
+#EXTINF:-1,Bein1 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1286.m3u8
+#EXTINF:-1,Bein2 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1285.m3u8
+#EXTINF:-1,Bein3 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1284.m3u8
+#EXTINF:-1,Bein4 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1283.m3u8
+#EXTINF:-1,Bein5 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1282.m3u8
+#EXTINF:-1,Bein6 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1281.m3u8
+#EXTINF:-1,Bein7 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1280.m3u8
+#EXTINF:-1,Bein8 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1279.m3u8
+#EXTINF:-1,Bein9 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1278.m3u8
+#EXTINF:-1,Bein10 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1277.m3u8
+#EXTINF:-1,Bein1 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1296.m3u8
+#EXTINF:-1,Bein2 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1295.m3u8
+#EXTINF:-1,Bein3 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1294.m3u8
+#EXTINF:-1,Bein4 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1293.m3u8
+#EXTINF:-1,Bein5 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1292.m3u8
+#EXTINF:-1,Bein6 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1291.m3u8
+#EXTINF:-1,Bein7 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1290.m3u8
+#EXTINF:-1,Bein8 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1289.m3u8
+#EXTINF:-1,Bein9 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1288.m3u8
+#EXTINF:-1,Bein10 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1287.m3u8
+#EXTINF:-1,BEIN_SPORT1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1336.m3u8
+#EXTINF:-1,BEIN_SPORT2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1335.m3u8
+#EXTINF:-1,BEIN_SPORT3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1334.m3u8
+#EXTINF:-1,BEIN_SPORT4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1333.m3u8
+#EXTINF:-1,BEIN_SPORT5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1332.m3u8
+#EXTINF:-1,BEIN_SPORT6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1331.m3u8
+#EXTINF:-1,BEIN_SPORT7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1330.m3u8
+#EXTINF:-1,BEIN_SPORT8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1329.m3u8
+#EXTINF:-1,BEIN_SPORT9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1328.m3u8
+#EXTINF:-1,BEIN_SPORT10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1327.m3u8
+#EXTINF:-1,BEIN_SPORT 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1356.m3u8
+#EXTINF:-1,BEIN_SPORT 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1355.m3u8
+#EXTINF:-1,BEIN_SPORT 3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1354.m3u8
+#EXTINF:-1,BEIN_SPORT 4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1353.m3u8
+#EXTINF:-1,BEIN_SPORT 5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1352.m3u8
+#EXTINF:-1,BEIN_SPORT 6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1351.m3u8
+#EXTINF:-1,BEIN_SPORT 7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1350.m3u8
+#EXTINF:-1,BEIN_SPORT 8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1349.m3u8
+#EXTINF:-1,BEIN_SPORT 9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1348.m3u8
+#EXTINF:-1,BEIN_SPORT 10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1347.m3u8
+#EXTINF:-1,Bein__Sport1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1326.m3u8
+#EXTINF:-1,BEIN__SPORT2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1325.m3u8
+#EXTINF:-1,BEIN__SPORT3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1324.m3u8
+#EXTINF:-1,BEIN__SPORT4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1323.m3u8
+#EXTINF:-1,BEIN__SPORT5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1322.m3u8
+#EXTINF:-1,BEIN__SPORT6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1321.m3u8
+#EXTINF:-1,BEIN__SPORT7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1320.m3u8
+#EXTINF:-1,BEIN__SPORT8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1319.m3u8
+#EXTINF:-1,BEIN__SPORT9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1318.m3u8
+#EXTINF:-1,BEIN__SPORT10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1317.m3u8
+#EXTINF:-1,BEIN_SPORT__1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1346.m3u8
+#EXTINF:-1,BEIN_SPORT__2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1345.m3u8
+#EXTINF:-1,BEIN_SPORT__3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1344.m3u8
+#EXTINF:-1,BEIN_SPORTS__4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1343.m3u8
+#EXTINF:-1,BEIN_SPORT__5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1342.m3u8
+#EXTINF:-1,BEIN_SPORT__6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1341.m3u8
+#EXTINF:-1,BEIN_SPORT__7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1340.m3u8
+#EXTINF:-1,BEIN_SPORT__8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1339.m3u8
+#EXTINF:-1,BEIN_SPORT__9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1338.m3u8
+#EXTINF:-1,BEIN_SPORT__10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1337.m3u8
+#EXTINF:-1,BeinSport1 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1316.m3u8
+#EXTINF:-1,BeinSport2 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1315.m3u8
+#EXTINF:-1,BeinSport3 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1314.m3u8
+#EXTINF:-1,BeinSport4 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1313.m3u8
+#EXTINF:-1,BeinSport5 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1312.m3u8
+#EXTINF:-1,BeinSport6 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1311.m3u8
+#EXTINF:-1,BeinSport7 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1310.m3u8
+#EXTINF:-1,BeinSport8 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1309.m3u8
+#EXTINF:-1,BeinSport9 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1308.m3u8
+#EXTINF:-1,BeinSport10 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1307.m3u8
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1306.m3u8
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1305.m3u8
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1304.m3u8
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1303.m3u8
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1302.m3u8
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1301.m3u8
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1300.m3u8
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1299.m3u8
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1298.m3u8
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1297.m3u8
+#EXTINF:-1,Bein Sports1 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1276.m3u8
+#EXTINF:-1,Bein Sports2 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1275.m3u8
+#EXTINF:-1,Bein Sports3 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1274.m3u8
+#EXTINF:-1,Bein Sports4 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1273.m3u8
+#EXTINF:-1,Bein Sports5 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1272.m3u8
+#EXTINF:-1,Bein Sports6 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1271.m3u8
+#EXTINF:-1,Bein Sports7 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1270.m3u8
+#EXTINF:-1,Bein Sports8 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1269.m3u8
+#EXTINF:-1,Bein Sports9 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1268.m3u8
+#EXTINF:-1,Bein Sports10 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1267.m3u8
+
+#EXTINF:-1,Chourouk TV
+http://cdnp.cli.tn/iptv/ch719?code=150116111662064&key=19833
+#EXTINF:-1,Chourouk News
+http://cdnp.cli.tn/iptv/ch754?code=150116111662064&key=10131
+#EXTINF:-1,El Bilad TV
+http://cdnp.cli.tn/iptv/ch795?code=150116111662064&key=56291
+#EXTINF:-1,Chourouk Benna
+http://cdnp.cli.tn/iptv/ch726?code=150116111662064&key=11682
+#EXTINF:-1,Ennahar Algerie
+http://cdnp.cli.tn/iptv/ch724?code=150116111662064&key=54367
+#EXTINF:-1,Programme National
+http://cdnp.cli.tn/iptv/ch1014?code=150116111662064&key=62867
+#EXTINF:-1,Canal ALGERIE 1
+http://cdnp.cli.tn/iptv/ch60?code=150116111662064&key=32270
+#EXTINF:-1,Canal 3
+http://cdnp.cli.tn/iptv/ch137?code=150116111662064&key=23556
+#EXTINF:-1,Dzaier News
+http://cdnp.cli.tn/iptv/ch156?code=150116111662064&key=57568
+#EXTINF:-1,Dzaier TV
+http://cdnp.cli.tn/iptv/ch157?code=150116111662064&key=10673
+#EXTINF:-1,TV Tamazight Alger
+http://cdnp.cli.tn/iptv/ch735?code=150116111662064&key=46393
+#EXTINF:-1,Beur TV
+http://cdnp.cli.tn/iptv/ch161?code=150116111662064&key=53291
+#EXTINF:-1,Haddef Algerie
+http://cdnp.cli.tn/iptv/ch191?code=150116111662064&key=10835
+#EXTINF:-1,Al Jazairya TV
+http://cdnp.cli.tn/iptv/ch496?code=150116111662064&key=45295
+#EXTINF:-1,Al Magharibia
+http://cdnp.cli.tn/iptv/ch172?code=150116111662064&key=46605
+#EXTINF:-1,Al Magharibia 2
+http://cdnp.cli.tn/iptv/ch780?code=150116111662064&key=40460
+#EXTINF:-1,Berbere Music
+http://cdnp.cli.tn/iptv/ch1011?code=150116111662064&key=53698
+#EXTINF:-1,Berbere TV
+http://cdnp.cli.tn/iptv/ch1012?code=150116111662064&key=21498
+#EXTINF:-1,Berbere jeunesse
+http://cdnp.cli.tn/iptv/ch1010?code=150116111662064&key=49216
+#EXTINF:-1,Numidia TV
+http://cdnp.cli.tn/iptv/ch474?code=150116111662064&key=28849
+#EXTINF:-1,Al Fajr TV
+http://cdnp.cli.tn/iptv/ch847?code=150116111662064&key=62779
+#EXTINF:-1,Bahia Tv
+http://cdnp.cli.tn/iptv/ch700?code=150116111662064&key=18578
+#EXTINF:-1,Chams Tv
+http://cdnp.cli.tn/iptv/ch162?code=150116111662064&key=26841
+#EXTINF:-1,Adjwaa
+http://cdnp.cli.tn/iptv/ch560?code=150116111662064&key=43848
+#EXTINF:-1,Programme Nat. +4
+http://cdnp.cli.tn/iptv/ch4101?code=150116111662064&key=26055
+#EXTINF:-1,Canal ALGERIE 1 +4
+http://cdnp.cli.tn/iptv/ch4060?code=150116111662064&key=61780
+#EXTINF:-1,Chourouk TV +4
+http://cdnp.cli.tn/iptv/ch4719?code=150116111662064&key=20248
+#EXTINF:-1,Ennahar Algerie +4
+http://cdnp.cli.tn/iptv/ch4724?code=150116111662064&key=54842
+#EXTINF:-1,Canal 3 +4
+http://cdnp.cli.tn/iptv/ch4137?code=150116111662064&key=42838
+#EXTINF:-1 group-title="Tunisia",Ettounsia Tv
+http://cdnp.cli.tn/iptv/ch19?code=150116111662064&key=11989
+#EXTINF:-1,Tunisia Live Events
+http://cdnp.cli.tn/iptv/ch949?code=150116111662064&key=57999
+#EXTINF:-1,Sahel Tv
+http://cdnp.cli.tn/iptv/ch1194?code=150116111662064&key=39284
+#EXTINF:-1,National 1
+http://cdnp.cli.tn/iptv/ch1?code=150116111662064&key=24318
+#EXTINF:-1,National 2
+http://cdnp.cli.tn/iptv/ch2?code=150116111662064&key=38581
+#EXTINF:-1,Al Hiwar Ettounsi
+http://cdnp.cli.tn/iptv/ch3?code=150116111662064&key=34412
+#EXTINF:-1,Attasia TV
+http://cdnp.cli.tn/iptv/ch4?code=150116111662064&key=14484
+#EXTINF:-1,Nessma TV
+http://cdnp.cli.tn/iptv/ch5?code=150116111662064&key=38450
+#EXTINF:-1,Hannibal TV
+http://cdnp.cli.tn/iptv/ch6?code=150116111662064&key=43121
+#EXTINF:-1,Carthage tv
+http://cdnp.cli.tn/iptv/ch801?code=150116111662064&key=12802
+#EXTINF:-1,Telvza TV
+http://cdnp.cli.tn/iptv/ch12?code=150116111662064&key=49083
+#EXTINF:-1,Musicana
+http://cdnp.cli.tn/iptv/ch451?code=150116111662064&key=45254
+#EXTINF:-1,Al Janoubia
+http://cdnp.cli.tn/iptv/ch7?code=150116111662064&key=45532
+#EXTINF:-1,M Tunisia
+http://cdnp.cli.tn/iptv/ch14?code=150116111662064&key=35527
+#EXTINF:-1,Tounesna
+http://cdnp.cli.tn/iptv/ch8?code=150116111662064&key=52687
+#EXTINF:-1,Al Mustakilla
+http://cdnp.cli.tn/iptv/ch77?code=150116111662064&key=44859
+#EXTINF:-1,Zaytouna TV
+http://cdnp.cli.tn/iptv/ch9?code=150116111662064&key=54134
+#EXTINF:-1,Zaytouna Hedaya
+http://cdnp.cli.tn/iptv/ch478?code=150116111662064&key=64397
+#EXTINF:-1,National 1 TNT
+http://cdnp.cli.tn/iptv/ch10?code=150116111662064&key=30141
+#EXTINF:-1,National 2 TNT
+http://cdnp.cli.tn/iptv/ch11?code=150116111662064&key=16292
+#EXTINF:-1,Al Hiwar Ettounsi TNT
+http://cdnp.cli.tn/iptv/ch13?code=150116111662064&key=29347
+#EXTINF:-1,Nessma TV TNT
+http://cdnp.cli.tn/iptv/ch17?code=150116111662064&key=11292
+#EXTINF:-1,Hannibal TV TNT
+http://cdnp.cli.tn/iptv/ch18?code=150116111662064&key=18514
+#EXTINF:-1,National 1 +4
+http://cdnp.cli.tn/iptv/ch4001?code=150116111662064&key=20768
+#EXTINF:-1,National 2 +4
+http://cdnp.cli.tn/iptv/ch4002?code=150116111662064&key=49452
+#EXTINF:-1,Attasia TV +4
+http://cdnp.cli.tn/iptv/ch4004?code=150116111662064&key=39666
+#EXTINF:-1,Hannibal TV +4
+http://cdnp.cli.tn/iptv/ch4006?code=150116111662064&key=59714
+#EXTINF:-1,Nessma TV +4
+http://cdnp.cli.tn/iptv/ch4005?code=150116111662064&key=52672
+#EXTINF:-1,Al Hiwar Ettounsi +4
+http://cdnp.cli.tn/iptv/ch4003?code=150116111662064&key=29418
+#EXTINF:-1 group-title="Morocco",Oula Maroc HD
+http://cdnp.cli.tn/iptv/ch729?code=150116111662064&key=64416
+#EXTINF:-1,Al Oula Laayoun
+http://cdnp.cli.tn/iptv/ch611?code=150116111662064&key=28693
+#EXTINF:-1,Oula Maroc HD TNT
+http://cdnp.cli.tn/iptv/ch350?code=150116111662064&key=27488
+#EXTINF:-1,2M Maroc
+http://cdnp.cli.tn/iptv/ch121?code=150116111662064&key=35132
+#EXTINF:-1,Medi1 HD
+http://cdnp.cli.tn/iptv/ch166?code=150116111662064&key=14374
+#EXTINF:-1,Arrabiaa
+http://cdnp.cli.tn/iptv/ch761?code=150116111662064&key=53908
+#EXTINF:-1,Arriadhia
+http://cdnp.cli.tn/iptv/ch733?code=150116111662064&key=10719
+#EXTINF:-1,Arriadhia TNT
+http://cdnp.cli.tn/iptv/ch351?code=150116111662064&key=64890
+#EXTINF:-1,Arriadhia Live HD
+http://cdnp.cli.tn/iptv/ch377?code=150116111662064&key=25457
+#EXTINF:-1,Assadissa
+http://cdnp.cli.tn/iptv/ch147?code=150116111662064&key=32599
+#EXTINF:-1,Assabiaa TNT
+http://cdnp.cli.tn/iptv/ch352?code=150116111662064&key=62088
+#EXTINF:-1,Al Maghribia
+http://cdnp.cli.tn/iptv/ch56?code=150116111662064&key=41375
+#EXTINF:-1,Tamazight Maroc
+http://cdnp.cli.tn/iptv/ch487?code=150116111662064&key=52346
+#EXTINF:-1,GM Aflam
+http://cdnp.cli.tn/iptv/ch941?code=150116111662064&key=26555
+#EXTINF:-1,GM Afrohits
+http://cdnp.cli.tn/iptv/ch942?code=150116111662064&key=15847
+#EXTINF:-1,GM Chaabi
+http://cdnp.cli.tn/iptv/ch943?code=150116111662064&key=64659
+#EXTINF:-1,GM Comedia
+http://cdnp.cli.tn/iptv/ch944?code=150116111662064&key=46697
+#EXTINF:-1,GM doc.
+http://cdnp.cli.tn/iptv/ch945?code=150116111662064&key=26714
+#EXTINF:-1,GM Drama
+http://cdnp.cli.tn/iptv/ch946?code=150116111662064&key=10262
+#EXTINF:-1,GM Katakit
+http://cdnp.cli.tn/iptv/ch947?code=150116111662064&key=12674
+#EXTINF:-1,GM Music
+http://cdnp.cli.tn/iptv/ch948?code=150116111662064&key=17875
+#EXTINF:-1,GM Rap Arab
+http://cdnp.cli.tn/iptv/ch957?code=150116111662064&key=47472
+#EXTINF:-1,Sud 24
+http://cdnp.cli.tn/iptv/ch959?code=150116111662064&key=64113
+#EXTINF:-1,Tele Maroc
+http://cdnp.cli.tn/iptv/ch1142?code=150116111662064&key=52734
+#EXTINF:-1,Chada TV
+http://cdnp.cli.tn/iptv/ch666?code=150116111662064&key=41179
+#EXTINF:-1,Canal Atlas
+http://cdnp.cli.tn/iptv/ch615?code=150116111662064&key=44766
+#EXTINF:-1,2M Maroc +4
+http://cdnp.cli.tn/iptv/ch4121?code=150116111662064&key=51442
+#EXTINF:-1,Medi1 +4
+http://cdnp.cli.tn/iptv/ch4166?code=150116111662064&key=32665
+#EXTINF:-1,Oula Maroc HD +4
+http://cdnp.cli.tn/iptv/ch4729?code=150116111662064&key=33997
+#EXTINF:-1 group-title="Lebanon",MEIE TV
+http://cdnp.cli.tn/iptv/ch1530?code=150116111662064&key=54136
+#EXTINF:-1,O-Tv
+http://cdnp.cli.tn/iptv/ch186?code=150116111662064&key=56572
+#EXTINF:-1,MTV Lebanon
+http://cdnp.cli.tn/iptv/ch163?code=150116111662064&key=20482
+#EXTINF:-1,Future TV
+http://cdnp.cli.tn/iptv/ch705?code=150116111662064&key=62159
+#EXTINF:-1,Alaan
+http://cdnp.cli.tn/iptv/ch136?code=150116111662064&key=58215
+#EXTINF:-1,Lebanon TV
+http://cdnp.cli.tn/iptv/ch482?code=150116111662064&key=51232
+#EXTINF:-1,LBC
+http://cdnp.cli.tn/iptv/ch28?code=150116111662064&key=48245
+#EXTINF:-1,LDC Lebanon
+http://cdnp.cli.tn/iptv/ch170?code=150116111662064&key=17955
+#EXTINF:-1,Al Mayadeen
+http://cdnp.cli.tn/iptv/ch132?code=150116111662064&key=63068
+#EXTINF:-1,Al Jadeed TV
+http://cdnp.cli.tn/iptv/ch785?code=150116111662064&key=60579
+#EXTINF:-1,NBN
+http://cdnp.cli.tn/iptv/ch178?code=150116111662064&key=33430
+#EXTINF:-1,Al Manar
+http://cdnp.cli.tn/iptv/ch58?code=150116111662064&key=25297
+#EXTINF:-1,MTV Lebanon +4
+http://cdnp.cli.tn/iptv/ch4163?code=150116111662064&key=11712
+#EXTINF:-1,LBC +4
+http://cdnp.cli.tn/iptv/ch4028?code=150116111662064&key=11951
+#EXTINF:-1,ANB
+http://cdnp.cli.tn/iptv/ch177?code=150116111662064&key=12255
+#EXTINF:-1,Al Falloujah
+http://cdnp.cli.tn/iptv/ch378?code=150116111662064&key=63242
+#EXTINF:-1 group-title="Arabic Premium",Fox Rewayat
+http://cdnp.cli.tn/iptv/ch1191?code=150116111662064&key=21117
+#EXTINF:-1,Star World Ar.
+http://cdnp.cli.tn/iptv/ch1192?code=150116111662064&key=46411
+#EXTINF:-1,Star Movies Ar.
+http://cdnp.cli.tn/iptv/ch1193?code=150116111662064&key=60303
+#EXTINF:-1,MBC Plus Drama
+http://cdnp.cli.tn/iptv/ch502?code=150116111662064&key=44560
+#EXTINF:-1,MBC 1 HD
+http://cdnp.cli.tn/iptv/ch827?code=150116111662064&key=24726
+#EXTINF:-1,MBC 2 HD
+http://cdnp.cli.tn/iptv/ch828?code=150116111662064&key=54458
+#EXTINF:-1,MBC 3 HD
+http://cdnp.cli.tn/iptv/ch2200?code=150116111662064&key=10474
+#EXTINF:-1,MBC 4 HD
+http://cdnp.cli.tn/iptv/ch829?code=150116111662064&key=49676
+#EXTINF:-1,MBC Variety
+http://cdnp.cli.tn/iptv/ch1102?code=150116111662064&key=43203
+#EXTINF:-1,MBC Action HD
+http://cdnp.cli.tn/iptv/ch1109?code=150116111662064&key=13988
+#EXTINF:-1,MBC Max HD
+http://cdnp.cli.tn/iptv/ch2201?code=150116111662064&key=52858
+#EXTINF:-1,MBC Drama HD
+http://cdnp.cli.tn/iptv/ch2202?code=150116111662064&key=14240
+#EXTINF:-1,MBC Bollyood HD
+http://cdnp.cli.tn/iptv/ch347?code=150116111662064&key=22535
+#EXTINF:-1,LBC HD
+http://cdnp.cli.tn/iptv/ch2217?code=150116111662064&key=43975
+#EXTINF:-1,FX HD
+http://cdnp.cli.tn/iptv/ch2204?code=150116111662064&key=54035
+#EXTINF:-1,Fox Movies Action
+http://cdnp.cli.tn/iptv/ch2205?code=150116111662064&key=56063
+#EXTINF:-1,Fox Movies Family
+http://cdnp.cli.tn/iptv/ch2206?code=150116111662064&key=62946
+#EXTINF:-1,ART Aflem 1
+http://cdnp.cli.tn/iptv/ch40?code=150116111662064&key=32919
+#EXTINF:-1,ART Aflem 2
+http://cdnp.cli.tn/iptv/ch41?code=150116111662064&key=51600
+#EXTINF:-1,ART Cinema
+http://cdnp.cli.tn/iptv/ch602?code=150116111662064&key=39720
+#EXTINF:-1,ART Hekayat
+http://cdnp.cli.tn/iptv/ch758?code=150116111662064&key=25335
+#EXTINF:-1,ART Hekayat 2
+http://cdnp.cli.tn/iptv/ch759?code=150116111662064&key=41919
+#EXTINF:-1,ART Hekayat kamen
+http://cdnp.cli.tn/iptv/ch1153?code=150116111662064&key=19247
+#EXTINF:-1,Rotana Cinema HD
+http://cdnp.cli.tn/iptv/ch2216?code=150116111662064&key=46404
+#EXTINF:-1,Rotana Masria HD
+http://cdnp.cli.tn/iptv/ch2215?code=150116111662064&key=61695
+#EXTINF:-1,Rotana Aflam HD
+http://cdnp.cli.tn/iptv/ch2214?code=150116111662064&key=41557
+#EXTINF:-1,Rotana Classic HD
+http://cdnp.cli.tn/iptv/ch2213?code=150116111662064&key=48063
+#EXTINF:-1,Rotana Music HD
+http://cdnp.cli.tn/iptv/ch2212?code=150116111662064&key=12233
+#EXTINF:-1,Rotana Khalijia HD
+http://cdnp.cli.tn/iptv/ch2211?code=150116111662064&key=29834
+#EXTINF:-1,Al Resala HD
+http://cdnp.cli.tn/iptv/ch2210?code=150116111662064&key=18891
+#EXTINF:-1,OSN ON DEMAND 1
+http://cdnp.cli.tn/iptv/ch900?code=150116111662064&key=57595
+#EXTINF:-1,OSN ON DEMAND 2
+http://cdnp.cli.tn/iptv/ch901?code=150116111662064&key=40051
+#EXTINF:-1,OSN ON DEMAND 3
+http://cdnp.cli.tn/iptv/ch902?code=150116111662064&key=21255
+#EXTINF:-1,OSN ON DEMAND 4
+http://cdnp.cli.tn/iptv/ch903?code=150116111662064&key=61486
+#EXTINF:-1,Nat. Geo. Kids
+http://cdnp.cli.tn/iptv/ch381?code=150116111662064&key=61818
+#EXTINF:-1,Gulli Arabia
+http://cdnp.cli.tn/iptv/ch348?code=150116111662064&key=18882
+#EXTINF:-1,Fix and Foxi
+http://cdnp.cli.tn/iptv/ch2209?code=150116111662064&key=47393
+#EXTINF:-1,Myme
+http://cdnp.cli.tn/iptv/ch2207?code=150116111662064&key=30528
+#EXTINF:-1,Nat. Geo. Wild Ar.
+http://cdnp.cli.tn/iptv/ch1190?code=150116111662064&key=52148
+#EXTINF:-1,Nat. Geo. Ar.
+http://cdnp.cli.tn/iptv/ch1119?code=150116111662064&key=15142
+#EXTINF:-1,Animal Planet
+http://cdnp.cli.tn/iptv/ch1104?code=150116111662064&key=12972
+#EXTINF:-1,Discovery Science
+http://cdnp.cli.tn/iptv/ch1103?code=150116111662064&key=10765
+#EXTINF:-1,DocuBox
+http://cdnp.cli.tn/iptv/ch1105?code=150116111662064&key=28759
+#EXTINF:-1,Planet Earth Tv
+http://cdnp.cli.tn/iptv/ch349?code=150116111662064&key=31115
+#EXTINF:-1,H-2
+http://cdnp.cli.tn/iptv/ch1101?code=150116111662064&key=14462
+#EXTINF:-1,Fight Box
+http://cdnp.cli.tn/iptv/ch1100?code=150116111662064&key=33226
+#EXTINF:-1,KSA SPORT 1
+http://cdnp.cli.tn/iptv/ch823?code=150116111662064&key=17584
+#EXTINF:-1,KSA SPORT 2
+http://cdnp.cli.tn/iptv/ch824?code=150116111662064&key=19680
+#EXTINF:-1,KSA SPORT +1
+http://cdnp.cli.tn/iptv/ch825?code=150116111662064&key=30472
+#EXTINF:-1,KSA SPORT +2
+http://cdnp.cli.tn/iptv/ch826?code=150116111662064&key=43931
+#EXTINF:-1,AD Sport 1 HD
+http://cdnp.cli.tn/iptv/ch122?code=150116111662064&key=45225
+#EXTINF:-1,AD Sport 2 HD
+http://cdnp.cli.tn/iptv/ch603?code=150116111662064&key=42690
+#EXTINF:-1,AD Sport 3 HD
+http://cdnp.cli.tn/iptv/ch5519?code=150116111662064&key=63342
+#EXTINF:-1 group-title="Middle East",MBC 1
+http://cdnp.cli.tn/iptv/ch30?code=150116111662064&key=41406
+#EXTINF:-1,MBC 2
+http://cdnp.cli.tn/iptv/ch31?code=150116111662064&key=35738
+#EXTINF:-1,MBC 3
+http://cdnp.cli.tn/iptv/ch32?code=150116111662064&key=50850
+#EXTINF:-1,MBC 4
+http://cdnp.cli.tn/iptv/ch33?code=150116111662064&key=33450
+#EXTINF:-1,MBC Action
+http://cdnp.cli.tn/iptv/ch34?code=150116111662064&key=37670
+#EXTINF:-1,MBC Bollywood
+http://cdnp.cli.tn/iptv/ch35?code=150116111662064&key=55272
+#EXTINF:-1,MBC Drama
+http://cdnp.cli.tn/iptv/ch36?code=150116111662064&key=10019
+#EXTINF:-1,MBC MAX
+http://cdnp.cli.tn/iptv/ch38?code=150116111662064&key=22373
+#EXTINF:-1,MBC Masr
+http://cdnp.cli.tn/iptv/ch37?code=150116111662064&key=53560
+#EXTINF:-1,MBC Masr 2
+http://cdnp.cli.tn/iptv/ch480?code=150116111662064&key=63069
+#EXTINF:-1,MBC 1 +4
+http://cdnp.cli.tn/iptv/ch4030?code=150116111662064&key=48448
+#EXTINF:-1,MBC 4 +4
+http://cdnp.cli.tn/iptv/ch4033?code=150116111662064&key=46194
+#EXTINF:-1,MBC Masr +4
+http://cdnp.cli.tn/iptv/ch4037?code=150116111662064&key=42810
+#EXTINF:-1,Rotana Cinema
+http://cdnp.cli.tn/iptv/ch45?code=150116111662064&key=56813
+#EXTINF:-1,Rotana Masria
+http://cdnp.cli.tn/iptv/ch42?code=150116111662064&key=41636
+#EXTINF:-1,Rotana Classic
+http://cdnp.cli.tn/iptv/ch44?code=150116111662064&key=58156
+#EXTINF:-1,Rotana Music
+http://cdnp.cli.tn/iptv/ch43?code=150116111662064&key=46646
+#EXTINF:-1,Rotana Clip
+http://cdnp.cli.tn/iptv/ch190?code=150116111662064&key=52748
+#EXTINF:-1,CBC
+http://cdnp.cli.tn/iptv/ch23?code=150116111662064&key=32789
+#EXTINF:-1,CBC Sofra
+http://cdnp.cli.tn/iptv/ch760?code=150116111662064&key=28783
+#EXTINF:-1,CBC EXTRA
+http://cdnp.cli.tn/iptv/ch782?code=150116111662064&key=39652
+#EXTINF:-1,CBC Drama
+http://cdnp.cli.tn/iptv/ch22?code=150116111662064&key=53637
+#EXTINF:-1,CBC +4
+http://cdnp.cli.tn/iptv/ch4023?code=150116111662064&key=41443
+#EXTINF:-1,CBC EXTRA +4
+http://cdnp.cli.tn/iptv/ch4782?code=150116111662064&key=13838
+#EXTINF:-1,Nile TV
+http://cdnp.cli.tn/iptv/ch181?code=150116111662064&key=38925
+#EXTINF:-1,Nile Cinema
+http://cdnp.cli.tn/iptv/ch180?code=150116111662064&key=17365
+#EXTINF:-1,Nile Drama
+http://cdnp.cli.tn/iptv/ch69?code=150116111662064&key=30258
+#EXTINF:-1,Nile Culture
+http://cdnp.cli.tn/iptv/ch185?code=150116111662064&key=56636
+#EXTINF:-1,Nile Comedy
+http://cdnp.cli.tn/iptv/ch68?code=150116111662064&key=14558
+#EXTINF:-1,Nile Family
+http://cdnp.cli.tn/iptv/ch70?code=150116111662064&key=49655
+#EXTINF:-1,Nile Life
+http://cdnp.cli.tn/iptv/ch781?code=150116111662064&key=20166
+#EXTINF:-1,Hayat Mousalsalet
+http://cdnp.cli.tn/iptv/ch21?code=150116111662064&key=53888
+#EXTINF:-1,Dream 2
+http://cdnp.cli.tn/iptv/ch714?code=150116111662064&key=35366
+#EXTINF:-1,Al Hayat
+http://cdnp.cli.tn/iptv/ch138?code=150116111662064&key=27862
+#EXTINF:-1,Al Hayat 2
+http://cdnp.cli.tn/iptv/ch777?code=150116111662064&key=23096
+#EXTINF:-1,B4U Aflem
+http://cdnp.cli.tn/iptv/ch768?code=150116111662064&key=44152
+#EXTINF:-1,B4U Plus
+http://cdnp.cli.tn/iptv/ch763?code=150116111662064&key=52341
+#EXTINF:-1,Zee Alwen
+http://cdnp.cli.tn/iptv/ch48?code=150116111662064&key=35813
+#EXTINF:-1,Zee Aflem
+http://cdnp.cli.tn/iptv/ch74?code=150116111662064&key=64502
+#EXTINF:-1,Cairo Cinema
+http://cdnp.cli.tn/iptv/ch63?code=150116111662064&key=49871
+#EXTINF:-1,Cairo Drama
+http://cdnp.cli.tn/iptv/ch64?code=150116111662064&key=58356
+#EXTINF:-1,Cimaa
+http://cdnp.cli.tn/iptv/ch66?code=150116111662064&key=56977
+#EXTINF:-1,I-film
+http://cdnp.cli.tn/iptv/ch492?code=150116111662064&key=63358
+#EXTINF:-1,Athania Masr
+http://cdnp.cli.tn/iptv/ch67?code=150116111662064&key=34250
+#EXTINF:-1,Syria Drama
+http://cdnp.cli.tn/iptv/ch71?code=150116111662064&key=23914
+#EXTINF:-1,Syria Sat
+http://cdnp.cli.tn/iptv/ch197?code=150116111662064&key=50259
+#EXTINF:-1,Jordan Tv
+http://cdnp.cli.tn/iptv/ch450?code=150116111662064&key=53165
+#EXTINF:-1,Annahar TV
+http://cdnp.cli.tn/iptv/ch772?code=150116111662064&key=52667
+#EXTINF:-1,JSC Documentaire
+http://cdnp.cli.tn/iptv/ch76?code=150116111662064&key=49525
+#EXTINF:-1,Nahar Nour
+http://cdnp.cli.tn/iptv/ch453?code=150116111662064&key=47771
+#EXTINF:-1,Nahar 2
+http://cdnp.cli.tn/iptv/ch765?code=150116111662064&key=58867
+#EXTINF:-1,Nahar Drama
+http://cdnp.cli.tn/iptv/ch59?code=150116111662064&key=31479
+#EXTINF:-1,Nahar Al Yaoum
+http://cdnp.cli.tn/iptv/ch752?code=150116111662064&key=51373
+#EXTINF:-1,Bahrain Tv
+http://cdnp.cli.tn/iptv/ch554?code=150116111662064&key=59348
+#EXTINF:-1,Bahrain Quran
+http://cdnp.cli.tn/iptv/ch558?code=150116111662064&key=46693
+#EXTINF:-1,Bahrain Sport 1
+http://cdnp.cli.tn/iptv/ch557?code=150116111662064&key=47289
+#EXTINF:-1,Bahrain Sport 2
+http://cdnp.cli.tn/iptv/ch556?code=150116111662064&key=12806
+#EXTINF:-1,Bahrain Int.
+http://cdnp.cli.tn/iptv/ch555?code=150116111662064&key=45604
+#EXTINF:-1,Oman Tv
+http://cdnp.cli.tn/iptv/ch550?code=150116111662064&key=46469
+#EXTINF:-1,Oman Tv Live
+http://cdnp.cli.tn/iptv/ch551?code=150116111662064&key=25671
+#EXTINF:-1,Oman Tv Sport
+http://cdnp.cli.tn/iptv/ch552?code=150116111662064&key=24288
+#EXTINF:-1,Oman Tv Cultur
+http://cdnp.cli.tn/iptv/ch553?code=150116111662064&key=57305
+#EXTINF:-1,Yemen TV
+http://cdnp.cli.tn/iptv/ch364?code=150116111662064&key=40791
+#EXTINF:-1,Yemen Shabab
+http://cdnp.cli.tn/iptv/ch562?code=150116111662064&key=56215
+#EXTINF:-1,Aden TV
+http://cdnp.cli.tn/iptv/ch1130?code=150116111662064&key=40522
+#EXTINF:-1,Yemen Today
+http://cdnp.cli.tn/iptv/ch1131?code=150116111662064&key=52283
+#EXTINF:-1,Eimen Tv
+http://cdnp.cli.tn/iptv/ch1132?code=150116111662064&key=44651
+#EXTINF:-1,Sbaa Tv
+http://cdnp.cli.tn/iptv/ch1133?code=150116111662064&key=12469
+#EXTINF:-1,Zarqa Tv
+http://cdnp.cli.tn/iptv/ch1134?code=150116111662064&key=42457
+#EXTINF:-1,Sehha wal Jamal
+http://cdnp.cli.tn/iptv/ch1135?code=150116111662064&key=17524
+#EXTINF:-1,Heya Tv
+http://cdnp.cli.tn/iptv/ch463?code=150116111662064&key=51514
+#EXTINF:-1,Al Eskandaria Tv
+http://cdnp.cli.tn/iptv/ch127?code=150116111662064&key=34105
+#EXTINF:-1,Soumaria
+http://cdnp.cli.tn/iptv/ch130?code=150116111662064&key=43063
+#EXTINF:-1,Al Hurra Tv
+http://cdnp.cli.tn/iptv/ch135?code=150116111662064&key=23099
+#EXTINF:-1,Al Assema Tv
+http://cdnp.cli.tn/iptv/ch140?code=150116111662064&key=46086
+#EXTINF:-1,Al Assema 2 Tv
+http://cdnp.cli.tn/iptv/ch814?code=150116111662064&key=36247
+#EXTINF:-1,Mehwar
+http://cdnp.cli.tn/iptv/ch175?code=150116111662064&key=10733
+#EXTINF:-1,Roya Tv
+http://cdnp.cli.tn/iptv/ch797?code=150116111662064&key=15394
+#EXTINF:-1,ON-Tv
+http://cdnp.cli.tn/iptv/ch187?code=150116111662064&key=58801
+#EXTINF:-1,ON-Tv Sport
+http://cdnp.cli.tn/iptv/ch458?code=150116111662064&key=28046
+#EXTINF:-1,ON-Tv Live
+http://cdnp.cli.tn/iptv/ch746?code=150116111662064&key=61398
+#EXTINF:-1,ON-Tv Drama
+http://cdnp.cli.tn/iptv/ch1121?code=150116111662064&key=64520
+#EXTINF:-1,DMC Masraheyat
+http://cdnp.cli.tn/iptv/ch509?code=150116111662064&key=49786
+#EXTINF:-1,DMC Drama
+http://cdnp.cli.tn/iptv/ch508?code=150116111662064&key=14083
+#EXTINF:-1,DMC Kids
+http://cdnp.cli.tn/iptv/ch507?code=150116111662064&key=56541
+#EXTINF:-1,DMC News
+http://cdnp.cli.tn/iptv/ch506?code=150116111662064&key=11089
+#EXTINF:-1,DMC Sport
+http://cdnp.cli.tn/iptv/ch505?code=150116111662064&key=10820
+#EXTINF:-1,DMC HD
+http://cdnp.cli.tn/iptv/ch432?code=150116111662064&key=52135
+#EXTINF:-1,Al hayat we alnas
+http://cdnp.cli.tn/iptv/ch1052?code=150116111662064&key=31315
+#EXTINF:-1,Misr El balad
+http://cdnp.cli.tn/iptv/ch1051?code=150116111662064&key=54165
+#EXTINF:-1,Mekameleen TV
+http://cdnp.cli.tn/iptv/ch439?code=150116111662064&key=49880
+#EXTINF:-1,AL Sharq
+http://cdnp.cli.tn/iptv/ch491?code=150116111662064&key=33074
+#EXTINF:-1,Panorama Film
+http://cdnp.cli.tn/iptv/ch189?code=150116111662064&key=26782
+#EXTINF:-1,TV5 Monde
+http://cdnp.cli.tn/iptv/ch192?code=150116111662064&key=53509
+#EXTINF:-1,Star Cinema 1
+http://cdnp.cli.tn/iptv/ch196?code=150116111662064&key=21563
+#EXTINF:-1,Faraeen TV
+http://cdnp.cli.tn/iptv/ch133?code=150116111662064&key=38053
+#EXTINF:-1,Balkis TV
+http://cdnp.cli.tn/iptv/ch443?code=150116111662064&key=19826
+#EXTINF:-1,Al Masriya
+http://cdnp.cli.tn/iptv/ch479?code=150116111662064&key=37126
+#EXTINF:-1,Qatar Today
+http://cdnp.cli.tn/iptv/ch1145?code=150116111662064&key=25956
+#EXTINF:-1,Qatar TV
+http://cdnp.cli.tn/iptv/ch195?code=150116111662064&key=18351
+#EXTINF:-1,Alrayyan 1
+http://cdnp.cli.tn/iptv/ch561?code=150116111662064&key=39462
+#EXTINF:-1,Alrayyan 2
+http://cdnp.cli.tn/iptv/ch139?code=150116111662064&key=38415
+#EXTINF:-1,AD Oula
+http://cdnp.cli.tn/iptv/ch55?code=150116111662064&key=53020
+#EXTINF:-1,Abu Dhabi Drama
+http://cdnp.cli.tn/iptv/ch54?code=150116111662064&key=16815
+#EXTINF:-1,Abou Dhabi Emarat
+http://cdnp.cli.tn/iptv/ch123?code=150116111662064&key=22365
+#EXTINF:-1,Dubai One
+http://cdnp.cli.tn/iptv/ch153?code=150116111662064&key=40692
+#EXTINF:-1,Nour Dubai
+http://cdnp.cli.tn/iptv/ch184?code=150116111662064&key=42447
+#EXTINF:-1,Dubai TV
+http://cdnp.cli.tn/iptv/ch358?code=150116111662064&key=47688
+#EXTINF:-1,Dubai Oula
+http://cdnp.cli.tn/iptv/ch25?code=150116111662064&key=18996
+#EXTINF:-1,Sama Dubai
+http://cdnp.cli.tn/iptv/ch193?code=150116111662064&key=59282
+#EXTINF:-1,Dubai Zaman
+http://cdnp.cli.tn/iptv/ch757?code=150116111662064&key=43260
+#EXTINF:-1,Nat Geo AD
+http://cdnp.cli.tn/iptv/ch75?code=150116111662064&key=57315
+#EXTINF:-1,Maspero Zaman
+http://cdnp.cli.tn/iptv/ch1125?code=150116111662064&key=17978
+#EXTINF:-1,Lana TV
+http://cdnp.cli.tn/iptv/ch820?code=150116111662064&key=48696
+#EXTINF:-1,Al Oula Masr
+http://cdnp.cli.tn/iptv/ch483?code=150116111662064&key=13262
+#EXTINF:-1,AL Naas
+http://cdnp.cli.tn/iptv/ch1147?code=150116111662064&key=14405
+#EXTINF:-1,Direct Egy
+http://cdnp.cli.tn/iptv/ch1124?code=150116111662064&key=44774
+#EXTINF:-1,Anbar TV
+http://cdnp.cli.tn/iptv/ch488?code=150116111662064&key=21656
+#EXTINF:-1,Al hurra
+http://cdnp.cli.tn/iptv/ch433?code=150116111662064&key=37382
+#EXTINF:-1,7C Iraq
+http://cdnp.cli.tn/iptv/ch1122?code=150116111662064&key=61372
+#EXTINF:-1,Iraquiya TV
+http://cdnp.cli.tn/iptv/ch494?code=150116111662064&key=21510
+#EXTINF:-1,Iraq Future Tv
+http://cdnp.cli.tn/iptv/ch1136?code=150116111662064&key=53730
+#EXTINF:-1,Iraqi Edu Tv
+http://cdnp.cli.tn/iptv/ch1137?code=150116111662064&key=43682
+#EXTINF:-1,Baghdad Tv
+http://cdnp.cli.tn/iptv/ch1138?code=150116111662064&key=49438
+#EXTINF:-1,Samarra Tv
+http://cdnp.cli.tn/iptv/ch1139?code=150116111662064&key=22096
+#EXTINF:-1,Hona Baghdad
+http://cdnp.cli.tn/iptv/ch1140?code=150116111662064&key=11474
+#EXTINF:-1,Dijla Tv
+http://cdnp.cli.tn/iptv/ch1141?code=150116111662064&key=62664
+#EXTINF:-1,Al Huda
+http://cdnp.cli.tn/iptv/ch1123?code=150116111662064&key=52541
+#EXTINF:-1,Beladi
+http://cdnp.cli.tn/iptv/ch495?code=150116111662064&key=30332
+#EXTINF:-1,Fourat TV
+http://cdnp.cli.tn/iptv/ch72?code=150116111662064&key=32646
+#EXTINF:-1,Moga Comedy
+http://cdnp.cli.tn/iptv/ch725?code=150116111662064&key=26049
+#EXTINF:-1,Sama
+http://cdnp.cli.tn/iptv/ch198?code=150116111662064&key=22327
+#EXTINF:-1,Al Saeed TV
+http://cdnp.cli.tn/iptv/ch769?code=150116111662064&key=39369
+#EXTINF:-1,Al Kanal
+http://cdnp.cli.tn/iptv/ch503?code=150116111662064&key=39678
+#EXTINF:-1,Masriya Aflem
+http://cdnp.cli.tn/iptv/ch701?code=150116111662064&key=31696
+#EXTINF:-1,Time Cinema
+http://cdnp.cli.tn/iptv/ch702?code=150116111662064&key=48165
+#EXTINF:-1,Majestic Cinema
+http://cdnp.cli.tn/iptv/ch708?code=150116111662064&key=14427
+#EXTINF:-1,Al Kahera
+http://cdnp.cli.tn/iptv/ch709?code=150116111662064&key=26682
+#EXTINF:-1,Wanasah
+http://cdnp.cli.tn/iptv/ch722?code=150116111662064&key=51304
+#EXTINF:-1,Saudi Thaquafia
+http://cdnp.cli.tn/iptv/ch810?code=150116111662064&key=59564
+#EXTINF:-1,Amaken Drama
+http://cdnp.cli.tn/iptv/ch712?code=150116111662064&key=54052
+#EXTINF:-1,Nada Tv
+http://cdnp.cli.tn/iptv/ch818?code=150116111662064&key=13572
+#EXTINF:-1,Safa Tv
+http://cdnp.cli.tn/iptv/ch144?code=150116111662064&key=13922
+#EXTINF:-1,Saudi 24
+http://cdnp.cli.tn/iptv/ch703?code=150116111662064&key=56607
+#EXTINF:-1,Panorama Food
+http://cdnp.cli.tn/iptv/ch839?code=150116111662064&key=12150
+#EXTINF:-1,Al Ghad Al Araby
+http://cdnp.cli.tn/iptv/ch485?code=150116111662064&key=46533
+#EXTINF:-1,Cima Alibaba
+http://cdnp.cli.tn/iptv/ch706?code=150116111662064&key=49274
+#EXTINF:-1,Cinema Pro
+http://cdnp.cli.tn/iptv/ch764?code=150116111662064&key=15884
+#EXTINF:-1,Star Cinema 2
+http://cdnp.cli.tn/iptv/ch742?code=150116111662064&key=51731
+#EXTINF:-1,Imagine Movies
+http://cdnp.cli.tn/iptv/ch718?code=150116111662064&key=48653
+#EXTINF:-1,Darbaka Cinema
+http://cdnp.cli.tn/iptv/ch738?code=150116111662064&key=27689
+#EXTINF:-1,Ten
+http://cdnp.cli.tn/iptv/ch2000?code=150116111662064&key=37073
+#EXTINF:-1,Dhafra
+http://cdnp.cli.tn/iptv/ch766?code=150116111662064&key=41633
+#EXTINF:-1,Melody Classic
+http://cdnp.cli.tn/iptv/ch770?code=150116111662064&key=42207
+#EXTINF:-1,Sada Al Balad Drama
+http://cdnp.cli.tn/iptv/ch778?code=150116111662064&key=51774
+#EXTINF:-1,Kahera Wa Ness
+http://cdnp.cli.tn/iptv/ch790?code=150116111662064&key=34555
+#EXTINF:-1,Kaher Wa Ness 2
+http://cdnp.cli.tn/iptv/ch169?code=150116111662064&key=46143
+#EXTINF:-1,Time Taxi
+http://cdnp.cli.tn/iptv/ch1023?code=150116111662064&key=40018
+#EXTINF:-1,Al Ahd
+http://cdnp.cli.tn/iptv/ch563?code=150116111662064&key=36492
+#EXTINF:-1,Panorama Drama 2
+http://cdnp.cli.tn/iptv/ch793?code=150116111662064&key=18004
+#EXTINF:-1,Panorama Drama
+http://cdnp.cli.tn/iptv/ch164?code=150116111662064&key=58277
+#EXTINF:-1,Sada El Balad 2
+http://cdnp.cli.tn/iptv/ch1120?code=150116111662064&key=51372
+#EXTINF:-1,Sada El Balad
+http://cdnp.cli.tn/iptv/ch794?code=150116111662064&key=55632
+#EXTINF:-1,Al Ettijah
+http://cdnp.cli.tn/iptv/ch128?code=150116111662064&key=56204
+#EXTINF:-1,Massaya TV
+http://cdnp.cli.tn/iptv/ch444?code=150116111662064&key=35250
+#EXTINF:-1,Sharqyia
+http://cdnp.cli.tn/iptv/ch446?code=150116111662064&key=15014
+#EXTINF:-1,Missrata
+http://cdnp.cli.tn/iptv/ch452?code=150116111662064&key=61862
+#EXTINF:-1,Al Delta TV
+http://cdnp.cli.tn/iptv/ch457?code=150116111662064&key=19863
+#EXTINF:-1,Al Fath
+http://cdnp.cli.tn/iptv/ch461?code=150116111662064&key=37630
+#EXTINF:-1,Hawacom TV
+http://cdnp.cli.tn/iptv/ch462?code=150116111662064&key=47731
+#EXTINF:-1,Quest Arabia
+http://cdnp.cli.tn/iptv/ch438?code=150116111662064&key=55642
+#EXTINF:-1,Josat Tv
+http://cdnp.cli.tn/iptv/ch732?code=150116111662064&key=62446
+#EXTINF:-1,Saiida TV
+http://cdnp.cli.tn/iptv/ch464?code=150116111662064&key=11422
+#EXTINF:-1,Baghdada Tv
+http://cdnp.cli.tn/iptv/ch628?code=150116111662064&key=32390
+#EXTINF:-1,Al Sahat
+http://cdnp.cli.tn/iptv/ch627?code=150116111662064&key=17332
+#EXTINF:-1,Al Hadath
+http://cdnp.cli.tn/iptv/ch355?code=150116111662064&key=61267
+#EXTINF:-1,Al Gadir
+http://cdnp.cli.tn/iptv/ch354?code=150116111662064&key=59802
+#EXTINF:-1,Al Rafiden
+http://cdnp.cli.tn/iptv/ch361?code=150116111662064&key=10621
+#EXTINF:-1,Al Mawsliya
+http://cdnp.cli.tn/iptv/ch626?code=150116111662064&key=53195
+#EXTINF:-1,Majan Tv
+http://cdnp.cli.tn/iptv/ch1144?code=150116111662064&key=24658
+#EXTINF:-1,Kuwait TV 1
+http://cdnp.cli.tn/iptv/ch430?code=150116111662064&key=17019
+#EXTINF:-1,Kuwait TV 2
+http://cdnp.cli.tn/iptv/ch431?code=150116111662064&key=50482
+#EXTINF:-1,KTV Arabic
+http://cdnp.cli.tn/iptv/ch436?code=150116111662064&key=50299
+#EXTINF:-1,KTV Plus
+http://cdnp.cli.tn/iptv/ch356?code=150116111662064&key=17077
+#EXTINF:-1,KTV Ethraa
+http://cdnp.cli.tn/iptv/ch359?code=150116111662064&key=61065
+#EXTINF:-1,LTC TV
+http://cdnp.cli.tn/iptv/ch468?code=150116111662064&key=21756
+#EXTINF:-1,Al Seraj
+http://cdnp.cli.tn/iptv/ch1751?code=150116111662064&key=63064
+#EXTINF:-1,Palestine
+http://cdnp.cli.tn/iptv/ch188?code=150116111662064&key=38138
+#EXTINF:-1,Palastinian Tv
+http://cdnp.cli.tn/iptv/ch435?code=150116111662064&key=46741
+#EXTINF:-1,Palastine Today
+http://cdnp.cli.tn/iptv/ch484?code=150116111662064&key=50120
+#EXTINF:-1,Palastine Sport
+http://cdnp.cli.tn/iptv/ch434?code=150116111662064&key=27373
+#EXTINF:-1,Palastine News
+http://cdnp.cli.tn/iptv/ch449?code=150116111662064&key=12073
+#EXTINF:-1,Al falastiniah Tv
+http://cdnp.cli.tn/iptv/ch448?code=150116111662064&key=26122
+#EXTINF:-1,Annajah Tv
+http://cdnp.cli.tn/iptv/ch447?code=150116111662064&key=50618
+#EXTINF:-1,Musawa Tv
+http://cdnp.cli.tn/iptv/ch454?code=150116111662064&key=59342
+#EXTINF:-1,Awdah Tv
+http://cdnp.cli.tn/iptv/ch455?code=150116111662064&key=25386
+#EXTINF:-1,Palastine Live
+http://cdnp.cli.tn/iptv/ch460?code=150116111662064&key=42384
+#EXTINF:-1,Libya errasmia
+http://cdnp.cli.tn/iptv/ch467?code=150116111662064&key=24131
+#EXTINF:-1,Libya Al Ahrar
+http://cdnp.cli.tn/iptv/ch476?code=150116111662064&key=29222
+#EXTINF:-1,Akhbar Lybia 24
+http://cdnp.cli.tn/iptv/ch477?code=150116111662064&key=40185
+#EXTINF:-1,Libya panorama
+http://cdnp.cli.tn/iptv/ch1127?code=150116111662064&key=46309
+#EXTINF:-1,Libya today
+http://cdnp.cli.tn/iptv/ch1128?code=150116111662064&key=33252
+#EXTINF:-1,Libya TV
+http://cdnp.cli.tn/iptv/ch1050?code=150116111662064&key=55113
+#EXTINF:-1,Libya el watan
+http://cdnp.cli.tn/iptv/ch499?code=150116111662064&key=15155
+#EXTINF:-1 group-title="Arabic News",France 24
+http://cdnp.cli.tn/iptv/ch159?code=150116111662064&key=14570
+#EXTINF:-1,France 24 FR
+http://cdnp.cli.tn/iptv/ch498?code=150116111662064&key=16034
+#EXTINF:-1,France 24 EN
+http://cdnp.cli.tn/iptv/ch786?code=150116111662064&key=12388
+#EXTINF:-1,Al Masdar TV
+http://cdnp.cli.tn/iptv/ch486?code=150116111662064&key=10195
+#EXTINF:-1,Russia Al Yaoum
+http://cdnp.cli.tn/iptv/ch15?code=150116111662064&key=27127
+#EXTINF:-1,AL Arabiya
+http://cdnp.cli.tn/iptv/ch53?code=150116111662064&key=11668
+#EXTINF:-1,Al Araby TV
+http://cdnp.cli.tn/iptv/ch855?code=150116111662064&key=10305
+#EXTINF:-1,Al HIWAR
+http://cdnp.cli.tn/iptv/ch1605?code=150116111662064&key=11669
+#EXTINF:-1,Euro News
+http://cdnp.cli.tn/iptv/ch146?code=150116111662064&key=44070
+#EXTINF:-1,Orient News
+http://cdnp.cli.tn/iptv/ch437?code=150116111662064&key=13218
+#EXTINF:-1,Aljazeera
+http://cdnp.cli.tn/iptv/ch142?code=150116111662064&key=35295
+#EXTINF:-1,Sky News Arabia
+http://cdnp.cli.tn/iptv/ch150?code=150116111662064&key=56724
+#EXTINF:-1,CNBC Arabia
+http://cdnp.cli.tn/iptv/ch151?code=150116111662064&key=51663
+#EXTINF:-1,Aljazeera Moubasher
+http://cdnp.cli.tn/iptv/ch755?code=150116111662064&key=29447
+#EXTINF:-1,JSC English
+http://cdnp.cli.tn/iptv/ch779?code=150116111662064&key=57066
+#EXTINF:-1,DW-TV
+http://cdnp.cli.tn/iptv/ch789?code=150116111662064&key=14965
+#EXTINF:-1,Al Ekhbarya essouria
+http://cdnp.cli.tn/iptv/ch441?code=150116111662064&key=12732
+#EXTINF:-1,Al Shahed Tv
+http://cdnp.cli.tn/iptv/ch489?code=150116111662064&key=56803
+#EXTINF:-1,Al Arabya Hadath
+http://cdnp.cli.tn/iptv/ch784?code=150116111662064&key=12290
+#EXTINF:-1,Al Alam TV
+http://cdnp.cli.tn/iptv/ch504?code=150116111662064&key=59858
+#EXTINF:-1,ANN
+http://cdnp.cli.tn/iptv/ch52?code=150116111662064&key=19331
+#EXTINF:-1,BBC World Arabic
+http://cdnp.cli.tn/iptv/ch148?code=150116111662064&key=13178
+#EXTINF:-1,Asia Tv
+http://cdnp.cli.tn/iptv/ch1149?code=150116111662064&key=17124
+#EXTINF:-1,Nile news
+http://cdnp.cli.tn/iptv/ch182?code=150116111662064&key=43152
+#EXTINF:-1,Al Sharquia News
+http://cdnp.cli.tn/iptv/ch559?code=150116111662064&key=33412
+#EXTINF:-1,Iraqiya News
+http://cdnp.cli.tn/iptv/ch141?code=150116111662064&key=30683
+#EXTINF:-1,Saoudi  Ekhbarya
+http://cdnp.cli.tn/iptv/ch493?code=150116111662064&key=20487
+#EXTINF:-1 group-title="Arabic Sport",Gear One
+http://cdnp.cli.tn/iptv/ch753?code=150116111662064&key=58661
+#EXTINF:-1,Nile Sport
+http://cdnp.cli.tn/iptv/ch183?code=150116111662064&key=23294
+#EXTINF:-1,Kuwait Sport
+http://cdnp.cli.tn/iptv/ch792?code=150116111662064&key=10817
+#EXTINF:-1,Jordan Sport
+http://cdnp.cli.tn/iptv/ch773?code=150116111662064&key=55928
+#EXTINF:-1,Al Kaas
+http://cdnp.cli.tn/iptv/ch497?code=150116111662064&key=31492
+#EXTINF:-1,Al Kaas 2
+http://cdnp.cli.tn/iptv/ch442?code=150116111662064&key=63527
+#EXTINF:-1,Al Kaas 4
+http://cdnp.cli.tn/iptv/ch545?code=150116111662064&key=61070
+#EXTINF:-1,Yas Sports
+http://cdnp.cli.tn/iptv/ch629?code=150116111662064&key=22161
+#EXTINF:-1,Ahly Channel
+http://cdnp.cli.tn/iptv/ch783?code=150116111662064&key=60349
+#EXTINF:-1,Nahar Sport
+http://cdnp.cli.tn/iptv/ch179?code=150116111662064&key=53946
+#EXTINF:-1,Dubai Sport 1
+http://cdnp.cli.tn/iptv/ch154?code=150116111662064&key=44009
+#EXTINF:-1,Dubai Racing 2
+http://cdnp.cli.tn/iptv/ch1031?code=150116111662064&key=36936
+#EXTINF:-1,Dubai Sport 4
+http://cdnp.cli.tn/iptv/ch155?code=150116111662064&key=33263
+#EXTINF:-1,Saudie Sport
+http://cdnp.cli.tn/iptv/ch747?code=150116111662064&key=33522
+#EXTINF:-1,Al Iraqya Sport
+http://cdnp.cli.tn/iptv/ch841?code=150116111662064&key=37521
+#EXTINF:-1 group-title="Islamic",Al Rahma
+http://cdnp.cli.tn/iptv/ch1015?code=150116111662064&key=32926
+#EXTINF:-1,Al Afasy
+http://cdnp.cli.tn/iptv/ch1148?code=150116111662064&key=40016
+#EXTINF:-1,Mecca
+http://cdnp.cli.tn/iptv/ch796?code=150116111662064&key=22944
+#EXTINF:-1,Saudi 1
+http://cdnp.cli.tn/iptv/ch167?code=150116111662064&key=20765
+#EXTINF:-1,Saudi 2
+http://cdnp.cli.tn/iptv/ch774?code=150116111662064&key=44667
+#EXTINF:-1,Saudi Haj
+http://cdnp.cli.tn/iptv/ch363?code=150116111662064&key=33998
+#EXTINF:-1,Saudi Family
+http://cdnp.cli.tn/iptv/ch357?code=150116111662064&key=41756
+#EXTINF:-1,Saudie Quran
+http://cdnp.cli.tn/iptv/ch749?code=150116111662064&key=17731
+#EXTINF:-1,Saudie Sunnah
+http://cdnp.cli.tn/iptv/ch750?code=150116111662064&key=10735
+#EXTINF:-1,Iqra
+http://cdnp.cli.tn/iptv/ch165?code=150116111662064&key=18233
+#EXTINF:-1,Iqraa Khaier
+http://cdnp.cli.tn/iptv/ch771?code=150116111662064&key=45211
+#EXTINF:-1,Bin Outhaimin Tv
+http://cdnp.cli.tn/iptv/ch730?code=150116111662064&key=61165
+#EXTINF:-1,Time Quran TV
+http://cdnp.cli.tn/iptv/ch715?code=150116111662064&key=12199
+#EXTINF:-1,Al Azhari TV
+http://cdnp.cli.tn/iptv/ch756?code=150116111662064&key=42822
+#EXTINF:-1,Resalat Al Islem
+http://cdnp.cli.tn/iptv/ch134?code=150116111662064&key=60970
+#EXTINF:-1,Ressala
+http://cdnp.cli.tn/iptv/ch727?code=150116111662064&key=50072
+#EXTINF:-1,Menhag Ennouboua
+http://cdnp.cli.tn/iptv/ch473?code=150116111662064&key=41153
+#EXTINF:-1,Alanis TV
+http://cdnp.cli.tn/iptv/ch624?code=150116111662064&key=60664
+#EXTINF:-1,Quran TV
+http://cdnp.cli.tn/iptv/ch707?code=150116111662064&key=48403
+#EXTINF:-1,Saudi Eqtisadia
+http://cdnp.cli.tn/iptv/ch469?code=150116111662064&key=62084
+#EXTINF:-1,Al Quds
+http://cdnp.cli.tn/iptv/ch143?code=150116111662064&key=57446
+#EXTINF:-1,CORAN TV
+http://cdnp.cli.tn/iptv/ch152?code=150116111662064&key=23108
+#EXTINF:-1,Ahl El Coran
+http://cdnp.cli.tn/iptv/ch776?code=150116111662064&key=15359
+#EXTINF:-1,Shareia TV
+http://cdnp.cli.tn/iptv/ch1143?code=150116111662064&key=15782
+#EXTINF:-1 group-title="Al Majd",Almajd Sciences
+http://cdnp.cli.tn/iptv/ch704?code=150116111662064&key=53133
+#EXTINF:-1,Al Majd Quran
+http://cdnp.cli.tn/iptv/ch710?code=150116111662064&key=14824
+#EXTINF:-1,Al Majd Kids
+http://cdnp.cli.tn/iptv/ch176?code=150116111662064&key=24953
+#EXTINF:-1,Al Majd Hadeeth
+http://cdnp.cli.tn/iptv/ch125?code=150116111662064&key=49569
+#EXTINF:-1,Al Majd TV
+http://cdnp.cli.tn/iptv/ch720?code=150116111662064&key=28258
+#EXTINF:-1 group-title="Mauritanie",Mouritania
+http://cdnp.cli.tn/iptv/ch171?code=150116111662064&key=56279
+#EXTINF:-1,Mouritania 2
+http://cdnp.cli.tn/iptv/ch633?code=150116111662064&key=20207
+#EXTINF:-1,Watania Mouritania
+http://cdnp.cli.tn/iptv/ch632?code=150116111662064&key=49819
+#EXTINF:-1,Tawazon Tv
+http://cdnp.cli.tn/iptv/ch631?code=150116111662064&key=12728
+#EXTINF:-1,Al Mourabitoune
+http://cdnp.cli.tn/iptv/ch630?code=150116111662064&key=50457
+#EXTINF:-1,Chinguit TV Mouritan
+http://cdnp.cli.tn/iptv/ch838?code=150116111662064&key=48450
+#EXTINF:-1,Dava TV Mouritanie
+http://cdnp.cli.tn/iptv/ch1032?code=150116111662064&key=61153
+#EXTINF:-1,El Mahadra Mouritani
+http://cdnp.cli.tn/iptv/ch711?code=150116111662064&key=10166
+#EXTINF:-1,Sahel TV
+http://cdnp.cli.tn/iptv/ch158?code=150116111662064&key=24015
+#EXTINF:-1 group-title="Soudan",Sudan TV
+http://cdnp.cli.tn/iptv/ch713?code=150116111662064&key=17565
+#EXTINF:-1,Chourouk Sudan
+http://cdnp.cli.tn/iptv/ch471?code=150116111662064&key=53824
+#EXTINF:-1,Blue Nile tv
+http://cdnp.cli.tn/iptv/ch149?code=150116111662064&key=49306
+#EXTINF:-1,Tanasuh TV
+http://cdnp.cli.tn/iptv/ch1029?code=150116111662064&key=62359
+#EXTINF:-1,Neelain TV
+http://cdnp.cli.tn/iptv/ch1028?code=150116111662064&key=14004
+#EXTINF:-1,Soudan drama
+http://cdnp.cli.tn/iptv/ch1035?code=150116111662064&key=46578
+#EXTINF:-1,Soudan Monawaat
+http://cdnp.cli.tn/iptv/ch360?code=150116111662064&key=21902
+#EXTINF:-1,Khaer Soudan
+http://cdnp.cli.tn/iptv/ch1037?code=150116111662064&key=30555
+#EXTINF:-1,Africa 1
+http://cdnp.cli.tn/iptv/ch1024?code=150116111662064&key=50425
+#EXTINF:-1,Africa 2
+http://cdnp.cli.tn/iptv/ch1025?code=150116111662064&key=21736
+#EXTINF:-1,Africa 3
+http://cdnp.cli.tn/iptv/ch1026?code=150116111662064&key=16539
+#EXTINF:-1,Africa 4
+http://cdnp.cli.tn/iptv/ch1027?code=150116111662064&key=60147
+#EXTINF:-1,Soudan roqia
+http://cdnp.cli.tn/iptv/ch1110?code=150116111662064&key=22510
+#EXTINF:-1,Dabanga Soudan
+http://cdnp.cli.tn/iptv/ch1154?code=150116111662064&key=57519
+#EXTINF:-1 group-title="Music",Arabica
+http://cdnp.cli.tn/iptv/ch124?code=150116111662064&key=37588
+#EXTINF:-1,Aghani
+http://cdnp.cli.tn/iptv/ch751?code=150116111662064&key=16710
+#EXTINF:-1,Music Haneen
+http://cdnp.cli.tn/iptv/ch126?code=150116111662064&key=18072
+#EXTINF:-1,Sham FM
+http://cdnp.cli.tn/iptv/ch787?code=150116111662064&key=45143
+#EXTINF:-1,Mazzikh
+http://cdnp.cli.tn/iptv/ch1150?code=150116111662064&key=58603
+#EXTINF:-1,Funoon
+http://cdnp.cli.tn/iptv/ch160?code=150116111662064&key=12712
+#EXTINF:-1,Free Tv
+http://cdnp.cli.tn/iptv/ch61?code=150116111662064&key=39360
+#EXTINF:-1,Maestro
+http://cdnp.cli.tn/iptv/ch1152?code=150116111662064&key=64942
+#EXTINF:-1,Noughoum FM
+http://cdnp.cli.tn/iptv/ch1151?code=150116111662064&key=54418
+#EXTINF:-1,Mazzika
+http://cdnp.cli.tn/iptv/ch29?code=150116111662064&key=38542
+#EXTINF:-1,Rotana Khaligia
+http://cdnp.cli.tn/iptv/ch46?code=150116111662064&key=19014
+#EXTINF:-1 group-title="Arabic Kids",Majed Kids TV
+http://cdnp.cli.tn/iptv/ch1752?code=150116111662064&key=31815
+#EXTINF:-1,Baynouna TV
+http://cdnp.cli.tn/iptv/ch799?code=150116111662064&key=21418
+#EXTINF:-1,Toyour Baby
+http://cdnp.cli.tn/iptv/ch472?code=150116111662064&key=10943
+#EXTINF:-1,Toyour Al Jannah
+http://cdnp.cli.tn/iptv/ch73?code=150116111662064&key=64027
+#EXTINF:-1,SpaceToon
+http://cdnp.cli.tn/iptv/ch49?code=150116111662064&key=57635
+#EXTINF:-1,Cartoon Network Arab
+http://cdnp.cli.tn/iptv/ch65?code=150116111662064&key=36291
+#EXTINF:-1,Mickey Channel
+http://cdnp.cli.tn/iptv/ch788?code=150116111662064&key=20389
+#EXTINF:-1,Koky Kids
+http://cdnp.cli.tn/iptv/ch736?code=150116111662064&key=26192
+#EXTINF:-1,Mody Kids
+http://cdnp.cli.tn/iptv/ch717?code=150116111662064&key=32453
+#EXTINF:-1,Kidzania TV
+http://cdnp.cli.tn/iptv/ch731?code=150116111662064&key=31254
+#EXTINF:-1,Semsem TV
+http://cdnp.cli.tn/iptv/ch445?code=150116111662064&key=34620
+#EXTINF:-1,Karameesh
+http://cdnp.cli.tn/iptv/ch199?code=150116111662064&key=21970
+#EXTINF:-1,Taha
+http://cdnp.cli.tn/iptv/ch748?code=150116111662064&key=34095
+#EXTINF:-1 group-title="BeInSport",Bein Sports News
+http://cdnp.cli.tn/iptv/ch110?code=150116111662064&key=52512
+#EXTINF:-1,Bein Sport
+http://cdnp.cli.tn/iptv/ch400?code=150116111662064&key=18558
+#EXTINF:-1,BeInSport 1 HD
+http://cdnp.cli.tn/iptv/ch111?code=150116111662064&key=51329
+#EXTINF:-1,BeInSport 2 HD
+http://cdnp.cli.tn/iptv/ch112?code=150116111662064&key=14773
+#EXTINF:-1,BeInSport 3 HD
+http://cdnp.cli.tn/iptv/ch113?code=150116111662064&key=28283
+#EXTINF:-1,BeInSport 4 HD
+http://cdnp.cli.tn/iptv/ch114?code=150116111662064&key=26610
+#EXTINF:-1,BeInSport 5 HD
+http://cdnp.cli.tn/iptv/ch115?code=150116111662064&key=54145
+#EXTINF:-1,BeInSport 6 HD
+http://cdnp.cli.tn/iptv/ch116?code=150116111662064&key=20154
+#EXTINF:-1,BeInSport 7 HD
+http://cdnp.cli.tn/iptv/ch117?code=150116111662064&key=43536
+#EXTINF:-1,BeInSport 8 HD
+http://cdnp.cli.tn/iptv/ch118?code=150116111662064&key=16256
+#EXTINF:-1,BeInSport 9 HD
+http://cdnp.cli.tn/iptv/ch510?code=150116111662064&key=36112
+#EXTINF:-1,BeInSport 10 HD
+http://cdnp.cli.tn/iptv/ch511?code=150116111662064&key=22706
+#EXTINF:-1,BeInSport 11 HD
+http://cdnp.cli.tn/iptv/ch512?code=150116111662064&key=61255
+#EXTINF:-1,BeInSport 12 HD
+http://cdnp.cli.tn/iptv/ch513?code=150116111662064&key=11789
+#EXTINF:-1,BeInSport 13 HD
+http://cdnp.cli.tn/iptv/ch514?code=150116111662064&key=32210
+#EXTINF:-1,BeInSport 14 HD
+http://cdnp.cli.tn/iptv/ch515?code=150116111662064&key=61598
+#EXTINF:-1,BeInSport 15 HD
+http://cdnp.cli.tn/iptv/ch516?code=150116111662064&key=30163
+#EXTINF:-1,BeInSport 16 HD
+http://cdnp.cli.tn/iptv/ch517?code=150116111662064&key=54960
+#EXTINF:-1,BeInSport 17 HD
+http://cdnp.cli.tn/iptv/ch522?code=150116111662064&key=47224
+
+#EXTINF:-1,##### BEIN MOVIES #####
+http://193.200.164.163:80/live/nabil/nabil123/27980.ts
+#EXTINF:-1,AR - 4K - BEIN MOVIES 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/27974.ts
+#EXTINF:-1,AR - 4K - BEIN MOVIES 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/27973.ts
+#EXTINF:-1,AR - 4K - BEIN MOVIES 3 HD
+http://193.200.164.163:80/live/nabil/nabil123/27972.ts
+#EXTINF:-1,AR - 4K - BEIN MOVIES 4 HD
+http://193.200.164.163:80/live/nabil/nabil123/27971.ts
+#EXTINF:-1,AR - BEIN AMC HD
+http://193.200.164.163:80/live/nabil/nabil123/27954.ts
+#EXTINF:-1,AR - BEIN FOX ACTION MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/27948.ts
+#EXTINF:-1,AR - BEIN FOX FAMILY MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/27947.ts
+#EXTINF:-1,##### BEIN MOVIES 4K #####
+http://193.200.164.163:80/live/nabil/nabil123/27975.ts
+#EXTINF:-1,AR - BEIN MOVIES 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/27979.ts
+#EXTINF:-1,AR - BEIN MOVIES 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/27978.ts
+#EXTINF:-1,AR - BEIN MOVIES 3 HD
+http://193.200.164.163:80/live/nabil/nabil123/27977.ts
+#EXTINF:-1,AR - BEIN MOVIES 4 HD
+http://193.200.164.163:80/live/nabil/nabil123/27976.ts
+#EXTINF:-1,##### BEIN SERIAL & MOVIES #####
+http://193.200.164.163:80/live/nabil/nabil123/27970.ts
+#EXTINF:-1,AR - BEIN SERIES 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/27969.ts
+#EXTINF:-1,AR - BEIN SERIES 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/27968.ts
+#EXTINF:-1,AR - BEIN BARAEM HD
+http://193.200.164.163:80/live/nabil/nabil123/27964.ts
+#EXTINF:-1,AR - BEIN DRAMA 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/27967.ts
+#EXTINF:-1,AR - BEIN FOX HD
+http://193.200.164.163:80/live/nabil/nabil123/27960.ts
+#EXTINF:-1,AR - BEIN BEJUNIOR
+http://193.200.164.163:80/live/nabil/nabil123/27963.ts
+#EXTINF:-1,AR - BEIN BOOMERANG HD
+http://193.200.164.163:80/live/nabil/nabil123/27953.ts
+#EXTINF:-1,AR - BEIN CARTON NETWORK HD
+http://193.200.164.163:80/live/nabil/nabil123/27962.ts
+#EXTINF:-1,AR - BEIN FATAFEAT
+http://193.200.164.163:80/live/nabil/nabil123/27961.ts
+#EXTINF:-1,AR - BEIN JEEM HD
+http://193.200.164.163:80/live/nabil/nabil123/27958.ts
+#EXTINF:-1,AR - BEIN DISCOVERY KIDS HD
+http://193.200.164.163:80/live/nabil/nabil123/27952.ts
+#EXTINF:-1,AR - BEIN DISCOVERY LIFE HD
+http://193.200.164.163:80/live/nabil/nabil123/27951.ts
+#EXTINF:-1,AR - BEIN DISCOVERY MAX HD
+http://193.200.164.163:80/live/nabil/nabil123/27950.ts
+#EXTINF:-1,AR - BEIN DISCOVERY TURBO XTRA
+http://193.200.164.163:80/live/nabil/nabil123/27949.ts
+#EXTINF:-1,AR - BEIN GOURMETHD
+http://193.200.164.163:80/live/nabil/nabil123/27965.ts
+#EXTINF:-1,AR - BEIN HGTV HD
+http://193.200.164.163:80/live/nabil/nabil123/27959.ts
+#EXTINF:-1,AR - BEIN NAT GEO
+http://193.200.164.163:80/live/nabil/nabil123/27957.ts
+#EXTINF:-1,AR - BEIN NAT PEOPLE
+http://193.200.164.163:80/live/nabil/nabil123/27956.ts
+#EXTINF:-1,AR - BEIN NAT WILD
+http://193.200.164.163:80/live/nabil/nabil123/27955.ts
+#EXTINF:-1,AR - BEIN TRAVEL HD
+http://193.200.164.163:80/live/nabil/nabil123/27966.ts
+#EXTINF:-1,##### BEIN SPORT #####
+http://193.200.164.163:80/live/nabil/nabil123/27924.ts
+#EXTINF:-1,BEIN SPORT 1 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18114.ts
+#EXTINF:-1,BEIN SPORT 2 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18113.ts
+#EXTINF:-1,BEIN SPORT 3 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18112.ts
+#EXTINF:-1,BEIN SPORT 4 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18111.ts
+#EXTINF:-1,BEIN SPORT 5 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18110.ts
+#EXTINF:-1,BEIN SPORT 6 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18109.ts
+#EXTINF:-1,BEIN SPORT 7 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18108.ts
+#EXTINF:-1,BEIN SPORT 8 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18107.ts
+#EXTINF:-1,BEIN SPORT 9 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18106.ts
+#EXTINF:-1,BEIN SPORT 10 1.2MB
+http://193.200.164.163:80/live/nabil/nabil123/18105.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS HD
+http://193.200.164.163:80/live/nabil/nabil123/27923.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS NEWS HD
+http://193.200.164.163:80/live/nabil/nabil123/27922.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/27921.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/27920.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 3 HD
+http://193.200.164.163:80/live/nabil/nabil123/27919.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 4 HD
+http://193.200.164.163:80/live/nabil/nabil123/27918.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 5 HD
+http://193.200.164.163:80/live/nabil/nabil123/27917.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 6 HD
+http://193.200.164.163:80/live/nabil/nabil123/27916.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 7 HD
+http://193.200.164.163:80/live/nabil/nabil123/27915.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 8 HD
+http://193.200.164.163:80/live/nabil/nabil123/27914.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 9 HD
+http://193.200.164.163:80/live/nabil/nabil123/27913.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 10 HD
+http://193.200.164.163:80/live/nabil/nabil123/27912.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 11 HD
+http://193.200.164.163:80/live/nabil/nabil123/27911.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 12 HD
+http://193.200.164.163:80/live/nabil/nabil123/27910.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 13 HD
+http://193.200.164.163:80/live/nabil/nabil123/27909.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 14 HD
+http://193.200.164.163:80/live/nabil/nabil123/27908.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 15 HD
+http://193.200.164.163:80/live/nabil/nabil123/27907.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 16 HD
+http://193.200.164.163:80/live/nabil/nabil123/27906.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS 17 HD
+http://193.200.164.163:80/live/nabil/nabil123/27905.ts
+#EXTINF:-1,AR - QHD BEIN SPORTS NBA HD
+http://193.200.164.163:80/live/nabil/nabil123/27904.ts
+#EXTINF:-1,##### BEIN SPORT 4K #####
+http://193.200.164.163:80/live/nabil/nabil123/27903.ts
+#EXTINF:-1,AR - BEIN  SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/27902.ts
+#EXTINF:-1,AR - BEIN SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/27926.ts
+#EXTINF:-1,AR - BEIN SPORT NEWS HD
+http://193.200.164.163:80/live/nabil/nabil123/27925.ts
+#EXTINF:-1,AR - BEIN SPORTS 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/27901.ts
+#EXTINF:-1,AR - BEIN SPORTS 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/27900.ts
+#EXTINF:-1,AR - BEIN SPORTS 3 HD
+http://193.200.164.163:80/live/nabil/nabil123/27899.ts
+#EXTINF:-1,AR - BEIN SPORTS 4 HD
+http://193.200.164.163:80/live/nabil/nabil123/27898.ts
+#EXTINF:-1,AR - BEIN SPORTS 5 HD
+http://193.200.164.163:80/live/nabil/nabil123/27897.ts
+#EXTINF:-1,AR - BEIN SPORTS 6 HD
+http://193.200.164.163:80/live/nabil/nabil123/27896.ts
+#EXTINF:-1,AR - BEIN SPORTS 7 HD
+http://193.200.164.163:80/live/nabil/nabil123/27895.ts
+#EXTINF:-1,AR - BEIN SPORTS 8 HD
+http://193.200.164.163:80/live/nabil/nabil123/27894.ts
+#EXTINF:-1,AR - BEIN SPORTS 9 HD
+http://193.200.164.163:80/live/nabil/nabil123/27893.ts
+#EXTINF:-1,AR - BEIN SPORTS 10 HD
+http://193.200.164.163:80/live/nabil/nabil123/27892.ts
+#EXTINF:-1,AR - BEIN SPORTS 11 HD EN
+http://193.200.164.163:80/live/nabil/nabil123/27891.ts
+#EXTINF:-1,AR - BEIN SPORTS 12 HD EN
+http://193.200.164.163:80/live/nabil/nabil123/27890.ts
+#EXTINF:-1,AR - BEIN SPORTS 13 HD
+http://193.200.164.163:80/live/nabil/nabil123/27889.ts
+#EXTINF:-1,AR - BEIN SPORTS 14 HD
+http://193.200.164.163:80/live/nabil/nabil123/27888.ts
+#EXTINF:-1,AR - BEIN SPORTS 15 HD
+http://193.200.164.163:80/live/nabil/nabil123/27887.ts
+#EXTINF:-1,AR - BEIN SPORTS 16 HD
+http://193.200.164.163:80/live/nabil/nabil123/27886.ts
+#EXTINF:-1,AR - BEIN SPORTS 17 HD
+http://193.200.164.163:80/live/nabil/nabil123/27885.ts
+#EXTINF:-1,AR - BEIN SPORTS NBA HD
+http://193.200.164.163:80/live/nabil/nabil123/27884.ts
+#EXTINF:-1,AR - BEOUT Q 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/26378.ts
+#EXTINF:-1,AR - BEOUT Q 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/26377.ts
+#EXTINF:-1,AR - BEOUT Q 3 HD
+http://193.200.164.163:80/live/nabil/nabil123/26376.ts
+#EXTINF:-1,AR - BEOUT Q 4 HD
+http://193.200.164.163:80/live/nabil/nabil123/26375.ts
+#EXTINF:-1,AR - BEOUT Q 5 HD
+http://193.200.164.163:80/live/nabil/nabil123/26374.ts
+#EXTINF:-1,AR - BEOUT Q 6 HD
+http://193.200.164.163:80/live/nabil/nabil123/26373.ts
+#EXTINF:-1,AR - BEOUT Q 7 HD
+http://193.200.164.163:80/live/nabil/nabil123/26372.ts
+#EXTINF:-1,AR - AL OULA HD
+http://193.200.164.163:80/live/nabil/nabil123/1057.ts
+#EXTINF:-1,AR - ARRYADIA HD LIVE
+http://193.200.164.163:80/live/nabil/nabil123/1056.ts
+#EXTINF:-1,AR - AL OULA INTER
+http://193.200.164.163:80/live/nabil/nabil123/1053.ts
+#EXTINF:-1,AR - 2M MAROC
+http://193.200.164.163:80/live/nabil/nabil123/1052.ts
+#EXTINF:-1,AR - ARRIADIA
+http://193.200.164.163:80/live/nabil/nabil123/1051.ts
+#EXTINF:-1,AR - ARRABIA
+http://193.200.164.163:80/live/nabil/nabil123/1050.ts
+#EXTINF:-1,AR - AL MAGHRIBIA
+http://193.200.164.163:80/live/nabil/nabil123/1049.ts
+#EXTINF:-1,AR - ASSADISSA
+http://193.200.164.163:80/live/nabil/nabil123/1048.ts
+#EXTINF:-1,AR - ASSABIA
+http://193.200.164.163:80/live/nabil/nabil123/1047.ts
+#EXTINF:-1,AR - MEDI 1 TV
+http://193.200.164.163:80/live/nabil/nabil123/1045.ts
+#EXTINF:-1,AR - AL ONS TV
+http://193.200.164.163:80/live/nabil/nabil123/7173.ts
+#EXTINF:-1,AR - TAMAZIGHT
+http://193.200.164.163:80/live/nabil/nabil123/1046.ts
+#EXTINF:-1,AR - MEDI1TV AFRIQUE HD
+http://193.200.164.163:80/live/nabil/nabil123/1055.ts
+#EXTINF:-1,AR - TELE MAROC
+http://193.200.164.163:80/live/nabil/nabil123/1044.ts
+#EXTINF:-1,AR - CANAL ATLAS
+http://193.200.164.163:80/live/nabil/nabil123/1043.ts
+#EXTINF:-1,AR - TNT 2M MAROC
+http://193.200.164.163:80/live/nabil/nabil123/14792.ts
+#EXTINF:-1,AR - TNT AL MAGHRIBIA
+http://193.200.164.163:80/live/nabil/nabil123/14789.ts
+#EXTINF:-1,AR - TNT AL OULA
+http://193.200.164.163:80/live/nabil/nabil123/14795.ts
+#EXTINF:-1,AR - TNT AL OULA HD
+http://193.200.164.163:80/live/nabil/nabil123/14794.ts
+#EXTINF:-1,AR - TNT AL OULA INTER
+http://193.200.164.163:80/live/nabil/nabil123/14793.ts
+#EXTINF:-1,AR - TNT ARRABIA
+http://193.200.164.163:80/live/nabil/nabil123/14790.ts
+#EXTINF:-1,AR - TNT ARRIADIA
+http://193.200.164.163:80/live/nabil/nabil123/14791.ts
+#EXTINF:-1,AR - TNT ASSABIA
+http://193.200.164.163:80/live/nabil/nabil123/14787.ts
+#EXTINF:-1,AR - TNT ASSADISSA
+http://193.200.164.163:80/live/nabil/nabil123/14788.ts
+#EXTINF:-1,AR - TNT MEDI 1 TV
+http://193.200.164.163:80/live/nabil/nabil123/14785.ts
+#EXTINF:-1,AR - TNT TAMAZIGHT
+http://193.200.164.163:80/live/nabil/nabil123/14786.ts
+#EXTINF:-1,AR - GM ALWAN HD
+http://193.200.164.163:80/live/nabil/nabil123/27468.ts
+#EXTINF:-1,AR - GM CHAABI
+http://193.200.164.163:80/live/nabil/nabil123/27463.ts
+#EXTINF:-1,AR - GM COMEDIA
+http://193.200.164.163:80/live/nabil/nabil123/27464.ts
+#EXTINF:-1,AR - GM MOVIES
+http://193.200.164.163:80/live/nabil/nabil123/27462.ts
+#EXTINF:-1,AR - GM MUSIC TV HD
+http://193.200.164.163:80/live/nabil/nabil123/27467.ts
+#EXTINF:-1,AR - GM RAP ARAB
+http://193.200.164.163:80/live/nabil/nabil123/27465.ts
+#EXTINF:-1,AR - GM TAMAZIGHT
+http://193.200.164.163:80/live/nabil/nabil123/27466.ts
+#EXTINF:-1,AR - S7T  AFLAM
+http://193.200.164.163:80/live/nabil/nabil123/27461.ts
+#EXTINF:-1,AR - S7T  AFLAM HD
+http://193.200.164.163:80/live/nabil/nabil123/27460.ts
+#EXTINF:-1,AR - S7T  ANIME
+http://193.200.164.163:80/live/nabil/nabil123/27459.ts
+#EXTINF:-1,AR - S7T  BOLLYWOOD
+http://193.200.164.163:80/live/nabil/nabil123/27458.ts
+#EXTINF:-1,AR - S7T  CARTOO
+http://193.200.164.163:80/live/nabil/nabil123/27457.ts
+#EXTINF:-1,AR - S7T  CLASSIC
+http://193.200.164.163:80/live/nabil/nabil123/27456.ts
+#EXTINF:-1,AR - S7T  DOCUMENTAIRE
+http://193.200.164.163:80/live/nabil/nabil123/27455.ts
+#EXTINF:-1,AR - S7T  HITS HD
+http://193.200.164.163:80/live/nabil/nabil123/27454.ts
+#EXTINF:-1,AR - S7T  KOREAN
+http://193.200.164.163:80/live/nabil/nabil123/27453.ts
+#EXTINF:-1,AR - S7T  MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/27452.ts
+#EXTINF:-1,AR - S7T  MUSIC HD
+http://193.200.164.163:80/live/nabil/nabil123/27451.ts
+#EXTINF:-1,AR - S7T  SERIES
+http://193.200.164.163:80/live/nabil/nabil123/27450.ts
+#EXTINF:-1,AR - S7T  SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/27449.ts
+#EXTINF:-1,AR - S7T  TOURISME
+http://193.200.164.163:80/live/nabil/nabil123/27448.ts
+#EXTINF:-1,AR - S7T  TURK
+http://193.200.164.163:80/live/nabil/nabil123/27447.ts
+#EXTINF:-1,AR - HALA BOLLYWOOD
+http://193.200.164.163:80/live/nabil/nabil123/32852.ts
+#EXTINF:-1,AR - HALA DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/32851.ts
+#EXTINF:-1,AR - HALA MIX
+http://193.200.164.163:80/live/nabil/nabil123/32850.ts
+#EXTINF:-1,AR - HALA MOVIES
+http://193.200.164.163:80/live/nabil/nabil123/32849.ts
+#EXTINF:-1,AR - HALA SERIES
+http://193.200.164.163:80/live/nabil/nabil123/32848.ts
+#EXTINF:-1,AR - HALA TURK
+http://193.200.164.163:80/live/nabil/nabil123/32847.ts
+#EXTINF:-1,AR - AL JAZEERA HD
+http://193.200.164.163:80/live/nabil/nabil123/941.ts
+#EXTINF:-1,AR - AL JAZEERA
+http://193.200.164.163:80/live/nabil/nabil123/936.ts
+#EXTINF:-1,AR - AL ARABIYA
+http://193.200.164.163:80/live/nabil/nabil123/931.ts
+#EXTINF:-1,AR - AL ARABIYA AL HADATH
+http://193.200.164.163:80/live/nabil/nabil123/930.ts
+#EXTINF:-1,AR - AL ARABY HD
+http://193.200.164.163:80/live/nabil/nabil123/937.ts
+#EXTINF:-1,AR - BBC ARABIC
+http://193.200.164.163:80/live/nabil/nabil123/929.ts
+#EXTINF:-1,AR - FRANCE 24
+http://193.200.164.163:80/live/nabil/nabil123/922.ts
+#EXTINF:-1,AR - AL JAZEERA ENGLISH
+http://193.200.164.163:80/live/nabil/nabil123/919.ts
+#EXTINF:-1,AR - AL JAZEERA ENGLISH HD
+http://193.200.164.163:80/live/nabil/nabil123/940.ts
+#EXTINF:-1,AR - AL JAZEERA DOCUMENTARY
+http://193.200.164.163:80/live/nabil/nabil123/920.ts
+#EXTINF:-1,AR - AL JAZEERA DOCUMENTARY HD
+http://193.200.164.163:80/live/nabil/nabil123/939.ts
+#EXTINF:-1,AR - AL JAZEERA MUBASHER
+http://193.200.164.163:80/live/nabil/nabil123/935.ts
+#EXTINF:-1,AR - CHOUROUK NEWS HD
+http://193.200.164.163:80/live/nabil/nabil123/1036.ts
+#EXTINF:-1,AR - DW ARABIC
+http://193.200.164.163:80/live/nabil/nabil123/17707.ts
+#EXTINF:-1,AR - TRT ARABIC
+http://193.200.164.163:80/live/nabil/nabil123/17706.ts
+#EXTINF:-1,AR - AL HURRA
+http://193.200.164.163:80/live/nabil/nabil123/924.ts
+#EXTINF:-1,AR - I24 NEWS FRENCH HD
+http://193.200.164.163:80/live/nabil/nabil123/918.ts
+#EXTINF:-1,AR - BBC WORLD NEWS
+http://193.200.164.163:80/live/nabil/nabil123/923.ts
+#EXTINF:-1,AR - QUEST ARABIA
+http://193.200.164.163:80/live/nabil/nabil123/912.ts
+#EXTINF:-1,AR - AL ALAM NEWS CHANNEL
+http://193.200.164.163:80/live/nabil/nabil123/934.ts
+#EXTINF:-1,AR - SKY NEWS ARABIA
+http://193.200.164.163:80/live/nabil/nabil123/933.ts
+#EXTINF:-1,AR - RT ARAB
+http://193.200.164.163:80/live/nabil/nabil123/926.ts
+#EXTINF:-1,AR - ANN TV
+http://193.200.164.163:80/live/nabil/nabil123/925.ts
+#EXTINF:-1,AR - CNBC ARABIYA
+http://193.200.164.163:80/live/nabil/nabil123/921.ts
+#EXTINF:-1,AR - AL HIWAR HD
+http://193.200.164.163:80/live/nabil/nabil123/916.ts
+#EXTINF:-1,AR - AL GHAD HD
+http://193.200.164.163:80/live/nabil/nabil123/915.ts
+#EXTINF:-1,AR - KAIFA
+http://193.200.164.163:80/live/nabil/nabil123/913.ts
+#EXTINF:-1,AR - ART AFLAM 1
+http://193.200.164.163:80/live/nabil/nabil123/984.ts
+#EXTINF:-1,AR - ART AFLAM 2
+http://193.200.164.163:80/live/nabil/nabil123/983.ts
+#EXTINF:-1,AR - ART CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/982.ts
+#EXTINF:-1,AR - ART HEKAYAT 1
+http://193.200.164.163:80/live/nabil/nabil123/981.ts
+#EXTINF:-1,AR - ART HEKAYAT 2
+http://193.200.164.163:80/live/nabil/nabil123/980.ts
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Kidz HD
+http://193.200.164.163:80/live/nabil/nabil123/31291.ts
+#EXTINF:-1,MYHD PREMIUM - BBC English HD
+http://193.200.164.163:80/live/nabil/nabil123/31292.ts
+#EXTINF:-1,MYHD PREMIUM - CNN HD
+http://193.200.164.163:80/live/nabil/nabil123/31289.ts
+#EXTINF:-1,MYHD PREMIUM - DW HD
+http://193.200.164.163:80/live/nabil/nabil123/31286.ts
+#EXTINF:-1,MYHD PREMIUM - Animal Planet HD
+http://193.200.164.163:80/live/nabil/nabil123/31293.ts
+#EXTINF:-1,MYHD PREMIUM - Discovery SC HD
+http://193.200.164.163:80/live/nabil/nabil123/31288.ts
+#EXTINF:-1,MYHD PREMIUM - PLANET EARTH HD
+http://193.200.164.163:80/live/nabil/nabil123/31253.ts
+#EXTINF:-1,MYHD PREMIUM - FIX FOXI HD
+http://193.200.164.163:80/live/nabil/nabil123/31283.ts
+#EXTINF:-1,MYHD PREMIUM - FILM BOX HD
+http://193.200.164.163:80/live/nabil/nabil123/31284.ts
+#EXTINF:-1,MYHD PREMIUM - FOX REWAYAT HD
+http://193.200.164.163:80/live/nabil/nabil123/31278.ts
+#EXTINF:-1,MYHD PREMIUM - FOX CRIME HD
+http://193.200.164.163:80/live/nabil/nabil123/31281.ts
+#EXTINF:-1,MYHD PREMIUM - FX HD
+http://193.200.164.163:80/live/nabil/nabil123/31277.ts
+#EXTINF:-1,MYHD PREMIUM - STAR MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/31252.ts
+#EXTINF:-1,MYHD PREMIUM - STAR WORLD HD
+http://193.200.164.163:80/live/nabil/nabil123/31251.ts
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Movies HD
+http://193.200.164.163:80/live/nabil/nabil123/31290.ts
+#EXTINF:-1,MYHD PREMIUM - Docubox HD
+http://193.200.164.163:80/live/nabil/nabil123/31287.ts
+#EXTINF:-1,MYHD PREMIUM - Fight Box HD
+http://193.200.164.163:80/live/nabil/nabil123/31285.ts
+#EXTINF:-1,MYHD PREMIUM - FOX ACTION MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/31282.ts
+#EXTINF:-1,MYHD PREMIUM - FOX FAMILY MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/31280.ts
+#EXTINF:-1,MYHD PREMIUM - FOX LIFE HD
+http://193.200.164.163:80/live/nabil/nabil123/31279.ts
+#EXTINF:-1,MYHD PREMIUM - GUEST HD
+http://193.200.164.163:80/live/nabil/nabil123/31276.ts
+#EXTINF:-1,MYHD PREMIUM - GULLI BIL ARABIE HD
+http://193.200.164.163:80/live/nabil/nabil123/31275.ts
+#EXTINF:-1,MYHD PREMIUM - ITV CHOICE HD
+http://193.200.164.163:80/live/nabil/nabil123/31274.ts
+#EXTINF:-1,MYHD PREMIUM - LAAB WA JAD HD
+http://193.200.164.163:80/live/nabil/nabil123/31273.ts
+#EXTINF:-1,MYHD PREMIUM - MYZEN HD
+http://193.200.164.163:80/live/nabil/nabil123/31256.ts
+#EXTINF:-1,MYHD PREMIUM - NAHAR DRAMA HD
+http://193.200.164.163:80/live/nabil/nabil123/31255.ts
+#EXTINF:-1,MYHD PREMIUM - NAHAR ONE HD
+http://193.200.164.163:80/live/nabil/nabil123/31254.ts
+#EXTINF:-1,MYHD PREMIUM - MUSIC ALWAYS HD
+http://193.200.164.163:80/live/nabil/nabil123/31260.ts
+#EXTINF:-1,MYHD PREMIUM - MUSIC TROPICAL HD
+http://193.200.164.163:80/live/nabil/nabil123/31259.ts
+#EXTINF:-1,MYHD PREMIUM - MUSIC24 HD
+http://193.200.164.163:80/live/nabil/nabil123/31258.ts
+#EXTINF:-1,MYHD PREMIUM - WOW SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/31250.ts
+#EXTINF:-1,MYHD PREMIUM - MY CINEMA HD
+http://193.200.164.163:80/live/nabil/nabil123/31257.ts
+#EXTINF:-1,AR - ROTANA AFLAM HD
+http://193.200.164.163:80/live/nabil/nabil123/21268.ts
+#EXTINF:-1,AR - ROTANA CINEMA HD
+http://193.200.164.163:80/live/nabil/nabil123/21267.ts
+#EXTINF:-1,AR - ROTANA CLASSIC HD
+http://193.200.164.163:80/live/nabil/nabil123/21266.ts
+#EXTINF:-1,AR - ROTANA KHALIJIA HD
+http://193.200.164.163:80/live/nabil/nabil123/21265.ts
+#EXTINF:-1,AR - ROTANA MASRIYA HD
+http://193.200.164.163:80/live/nabil/nabil123/21264.ts
+#EXTINF:-1,AR - ROTANA MUSIC HD
+http://193.200.164.163:80/live/nabil/nabil123/21263.ts
+#EXTINF:-1,AR - ROTANA
+http://193.200.164.163:80/live/nabil/nabil123/966.ts
+#EXTINF:-1,AR - ROTANA CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/964.ts
+#EXTINF:-1,AR - ROTANA CINEMA KSA
+http://193.200.164.163:80/live/nabil/nabil123/963.ts
+#EXTINF:-1,AR - ROTANA CLASSIC
+http://193.200.164.163:80/live/nabil/nabil123/962.ts
+#EXTINF:-1,AR - ROTANA CLIP
+http://193.200.164.163:80/live/nabil/nabil123/965.ts
+#EXTINF:-1,AR - ROTANA DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/961.ts
+#EXTINF:-1,AR - ROTANA KHALIJIAH
+http://193.200.164.163:80/live/nabil/nabil123/960.ts
+#EXTINF:-1,AR - SUDAN DABANGA
+http://193.200.164.163:80/live/nabil/nabil123/19151.ts
+#EXTINF:-1,AR - SUDAN DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/19150.ts
+#EXTINF:-1,AR - SUDAN MONAWAAT
+http://193.200.164.163:80/live/nabil/nabil123/19149.ts
+#EXTINF:-1,AR - SUDAN MUSIC
+http://193.200.164.163:80/live/nabil/nabil123/19148.ts
+#EXTINF:-1,AR - SUDAN S24
+http://193.200.164.163:80/live/nabil/nabil123/19157.ts
+#EXTINF:-1,AR - SUDAN SPORT
+http://193.200.164.163:80/live/nabil/nabil123/19147.ts
+#EXTINF:-1,AR - SUDAN TV
+http://193.200.164.163:80/live/nabil/nabil123/19146.ts
+#EXTINF:-1,AR - SUDANIA 24 HD
+http://193.200.164.163:80/live/nabil/nabil123/19145.ts
+#EXTINF:-1,AR - NEELAIN SPORT
+http://193.200.164.163:80/live/nabil/nabil123/19152.ts
+#EXTINF:-1,AR - BLUE NILE
+http://193.200.164.163:80/live/nabil/nabil123/19153.ts
+#EXTINF:-1,AR - ASHOROOQ TV
+http://193.200.164.163:80/live/nabil/nabil123/19154.ts
+#EXTINF:-1,AR - TAYBA ACHBAL
+http://193.200.164.163:80/live/nabil/nabil123/20955.ts
+#EXTINF:-1,AR - TAYBA QURAN
+http://193.200.164.163:80/live/nabil/nabil123/19142.ts
+#EXTINF:-1,AR - TAYBA SCHOOL
+http://193.200.164.163:80/live/nabil/nabil123/19141.ts
+#EXTINF:-1,AR - TAYBA TV
+http://193.200.164.163:80/live/nabil/nabil123/19140.ts
+#EXTINF:-1,AR - RED SEA
+http://193.200.164.163:80/live/nabil/nabil123/20954.ts
+#EXTINF:-1,AR - SUDAN SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/20950.ts
+#EXTINF:-1,AR - AL GUBA KEDARAH
+http://193.200.164.163:80/live/nabil/nabil123/20952.ts
+#EXTINF:-1,AR - SOKOR JEDIAN
+http://193.200.164.163:80/live/nabil/nabil123/20951.ts
+#EXTINF:-1,AR - KASSALA
+http://193.200.164.163:80/live/nabil/nabil123/20948.ts
+#EXTINF:-1,AR - AL HILAL
+http://193.200.164.163:80/live/nabil/nabil123/20947.ts
+#EXTINF:-1,AR - KHARTOUM
+http://193.200.164.163:80/live/nabil/nabil123/20946.ts
+#EXTINF:-1,AR - SHAMALIA
+http://193.200.164.163:80/live/nabil/nabil123/20945.ts
+#EXTINF:-1,AR - TARTEEL
+http://193.200.164.163:80/live/nabil/nabil123/19143.ts
+#EXTINF:-1,AR - AL GEZIRA
+http://193.200.164.163:80/live/nabil/nabil123/19139.ts
+#EXTINF:-1,AR - OSN ART AFLAM 1
+http://193.200.164.163:80/live/nabil/nabil123/19831.ts
+#EXTINF:-1,AR - OSN ART AFLAM 2
+http://193.200.164.163:80/live/nabil/nabil123/19830.ts
+#EXTINF:-1,AR - OSN ART CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/19829.ts
+#EXTINF:-1,AR - OSN ART HEKAYAT
+http://193.200.164.163:80/live/nabil/nabil123/19828.ts
+#EXTINF:-1,AR - OSN ART HEKAYAT 2
+http://193.200.164.163:80/live/nabil/nabil123/19827.ts
+#EXTINF:-1,OSN2 - OSN NICKELODEON HD
+http://193.200.164.163:80/live/nabil/nabil123/31105.ts
+#EXTINF:-1,OSN2 - ART AFLAM 1
+http://193.200.164.163:80/live/nabil/nabil123/31134.ts
+#EXTINF:-1,OSN2 - ART AFLAM 2
+http://193.200.164.163:80/live/nabil/nabil123/31133.ts
+#EXTINF:-1,OSN2 - ART CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/31132.ts
+#EXTINF:-1,OSN2 - ART HEKAYAT
+http://193.200.164.163:80/live/nabil/nabil123/31131.ts
+#EXTINF:-1,OSN2 - ART HEKAYAT 2
+http://193.200.164.163:80/live/nabil/nabil123/31130.ts
+#EXTINF:-1,OSN2 - OSN YAHALA OULA HD
+http://193.200.164.163:80/live/nabil/nabil123/31092.ts
+#EXTINF:-1,OSN2 - OSN YAHALA CINEMA HD
+http://193.200.164.163:80/live/nabil/nabil123/31094.ts
+#EXTINF:-1,OSN2 - OSN YAHALA HD
+http://193.200.164.163:80/live/nabil/nabil123/31093.ts
+#EXTINF:-1,OSN2 - OSN ALFA MUSALSALAT HD
+http://193.200.164.163:80/live/nabil/nabil123/31123.ts
+#EXTINF:-1,OSN2 - OSN ALFA ALFANN HD
+http://193.200.164.163:80/live/nabil/nabil123/31128.ts
+#EXTINF:-1,OSN2 - OSN ALFA ALSAFWA HD
+http://193.200.164.163:80/live/nabil/nabil123/31127.ts
+#EXTINF:-1,OSN2 - OSN ALFA ALYOUM HD
+http://193.200.164.163:80/live/nabil/nabil123/31126.ts
+#EXTINF:-1,OSN2 - OSN ALFA CINEMA 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/31125.ts
+#EXTINF:-1,OSN2 - OSN ALFA CINEMA 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/31124.ts
+#EXTINF:-1,OSN2 - OSN ALFA MUSIC NOW HD
+http://193.200.164.163:80/live/nabil/nabil123/31122.ts
+#EXTINF:-1,OSN2 - OSN MOVIES KIDS HD
+http://193.200.164.163:80/live/nabil/nabil123/31109.ts
+#EXTINF:-1,OSN2 - OSN DISCOVERY HD
+http://193.200.164.163:80/live/nabil/nabil123/31120.ts
+#EXTINF:-1,OSN2 - OSN DISCOVERY SC HD
+http://193.200.164.163:80/live/nabil/nabil123/31119.ts
+#EXTINF:-1,OSN2 - OSN ANIMAL PLANET HD
+http://193.200.164.163:80/live/nabil/nabil123/31121.ts
+#EXTINF:-1,OSN2 - OSN NAT GEO WILD HD
+http://193.200.164.163:80/live/nabil/nabil123/31107.ts
+#EXTINF:-1,OSN2 - OSN NAT PEOPLE HD
+http://193.200.164.163:80/live/nabil/nabil123/31106.ts
+#EXTINF:-1,OSN2 - OSN HISTORY HD
+http://193.200.164.163:80/live/nabil/nabil123/31116.ts
+#EXTINF:-1,OSN2 - OSN TRAVEL HD
+http://193.200.164.163:80/live/nabil/nabil123/31096.ts
+#EXTINF:-1,OSN2 - OSN MOVIES ACTION HD
+http://193.200.164.163:80/live/nabil/nabil123/31113.ts
+#EXTINF:-1,OSN2 - OSN MOVIES DISNEY HD
+http://193.200.164.163:80/live/nabil/nabil123/31112.ts
+#EXTINF:-1,OSN2 - OSN MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/31110.ts
+#EXTINF:-1,OSN2 - OSN MOVIES FIRST HD
+http://193.200.164.163:80/live/nabil/nabil123/31111.ts
+#EXTINF:-1,OSN2 - OSN MOVIES THRILLER HD
+http://193.200.164.163:80/live/nabil/nabil123/31108.ts
+#EXTINF:-1,OSN2 - OSN SERIES COMEDY HD
+http://193.200.164.163:80/live/nabil/nabil123/31104.ts
+#EXTINF:-1,OSN2 - OSN SERIES FIRST HD
+http://193.200.164.163:80/live/nabil/nabil123/31103.ts
+#EXTINF:-1,OSN2 - OSN SERIES HD
+http://193.200.164.163:80/live/nabil/nabil123/31102.ts
+#EXTINF:-1,OSN2 - OSN STAR MOVIES HD
+http://193.200.164.163:80/live/nabil/nabil123/31101.ts
+#EXTINF:-1,OSN2 - OSN STAR WORLD HD
+http://193.200.164.163:80/live/nabil/nabil123/31100.ts
+#EXTINF:-1,OSN2 - OSN SYFY HD
+http://193.200.164.163:80/live/nabil/nabil123/31099.ts
+#EXTINF:-1,OSN2 - OSN TLC HD
+http://193.200.164.163:80/live/nabil/nabil123/31097.ts
+#EXTINF:-1,OSN2 - BEIN OUTDOOR HD
+http://193.200.164.163:80/live/nabil/nabil123/31129.ts
+#EXTINF:-1,OSN2 - OSN FIRST HBO HD
+http://193.200.164.163:80/live/nabil/nabil123/31117.ts
+#EXTINF:-1,OSN2 - OSN ITV CHOICE
+http://193.200.164.163:80/live/nabil/nabil123/31115.ts
+#EXTINF:-1,OSN2 - OSN LIVING HD
+http://193.200.164.163:80/live/nabil/nabil123/31114.ts
+#EXTINF:-1,OSN2 - OSN DISNEY JUNIOR HD
+http://193.200.164.163:80/live/nabil/nabil123/31118.ts
+#EXTINF:-1,OSN2 - OSN TEN SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/31098.ts
+#EXTINF:-1,OSN2 - OSN WWE HD
+http://193.200.164.163:80/live/nabil/nabil123/31095.ts
+#EXTINF:-1,AR - ME SAT
+http://193.200.164.163:80/live/nabil/nabil123/689.ts
+#EXTINF:-1,AR - MIRACLE TV
+http://193.200.164.163:80/live/nabil/nabil123/696.ts
+#EXTINF:-1,AR - AGHAPY TV
+http://193.200.164.163:80/live/nabil/nabil123/694.ts
+#EXTINF:-1,AR - AL HAYAT CRISTIAN
+http://193.200.164.163:80/live/nabil/nabil123/690.ts
+#EXTINF:-1,AR - AL KARMA TV
+http://193.200.164.163:80/live/nabil/nabil123/695.ts
+#EXTINF:-1,AR - CTV
+http://193.200.164.163:80/live/nabil/nabil123/688.ts
+#EXTINF:-1,AR - SAT 7 ARABIC
+http://193.200.164.163:80/live/nabil/nabil123/692.ts
+#EXTINF:-1,AR - SAT 7 KIDS
+http://193.200.164.163:80/live/nabil/nabil123/691.ts
+#EXTINF:-1,AR - AL MALAKOOT
+http://193.200.164.163:80/live/nabil/nabil123/697.ts
+#EXTINF:-1,AR - AL FADY
+http://193.200.164.163:80/live/nabil/nabil123/693.ts
+#EXTINF:-1,AR - AL HORREYA TV
+http://193.200.164.163:80/live/nabil/nabil123/19160.ts
+#EXTINF:-1,AR - RESALA HD
+http://193.200.164.163:80/live/nabil/nabil123/21269.ts
+#EXTINF:-1,AR - AL RESALA
+http://193.200.164.163:80/live/nabil/nabil123/879.ts
+#EXTINF:-1,AR - AL MAJD 1
+http://193.200.164.163:80/live/nabil/nabil123/883.ts
+#EXTINF:-1,AR - AL MAJD 2
+http://193.200.164.163:80/live/nabil/nabil123/882.ts
+#EXTINF:-1,AR - AL MAJD 3
+http://193.200.164.163:80/live/nabil/nabil123/881.ts
+#EXTINF:-1,AR - AL MAJD 4
+http://193.200.164.163:80/live/nabil/nabil123/880.ts
+#EXTINF:-1,AR - AL RAHMA TV
+http://193.200.164.163:80/live/nabil/nabil123/884.ts
+#EXTINF:-1,AR - AL-QURAIN
+http://193.200.164.163:80/live/nabil/nabil123/633.ts
+#EXTINF:-1,AR - RESALAT AL ISLAM
+http://193.200.164.163:80/live/nabil/nabil123/885.ts
+#EXTINF:-1,AR - BIN OUTHAYMINE
+http://193.200.164.163:80/live/nabil/nabil123/891.ts
+#EXTINF:-1,AR - DAAWA
+http://193.200.164.163:80/live/nabil/nabil123/890.ts
+#EXTINF:-1,AR - SAFA
+http://193.200.164.163:80/live/nabil/nabil123/889.ts
+#EXTINF:-1,AR - TANASOH
+http://193.200.164.163:80/live/nabil/nabil123/888.ts
+#EXTINF:-1,AR - MECCA TV
+http://193.200.164.163:80/live/nabil/nabil123/878.ts
+#EXTINF:-1,AR - AL HAQIQA
+http://193.200.164.163:80/live/nabil/nabil123/875.ts
+#EXTINF:-1,AR - AHEL AL QURAN
+http://193.200.164.163:80/live/nabil/nabil123/874.ts
+#EXTINF:-1,AR - WESAL
+http://193.200.164.163:80/live/nabil/nabil123/873.ts
+#EXTINF:-1,AR - AL SIRAT
+http://193.200.164.163:80/live/nabil/nabil123/872.ts
+#EXTINF:-1,AR - ALAFASY
+http://193.200.164.163:80/live/nabil/nabil123/871.ts
+#EXTINF:-1,AR - PALESTINE LIVE
+http://193.200.164.163:80/live/nabil/nabil123/617.ts
+#EXTINF:-1,AR - PALESTINE NEWS
+http://193.200.164.163:80/live/nabil/nabil123/618.ts
+#EXTINF:-1,AR - PALESTINE SPORT
+http://193.200.164.163:80/live/nabil/nabil123/619.ts
+#EXTINF:-1,AR - PALESTINE TODAY
+http://193.200.164.163:80/live/nabil/nabil123/620.ts
+#EXTINF:-1,AR - PALESTINE TV
+http://193.200.164.163:80/live/nabil/nabil123/616.ts
+#EXTINF:-1,AR - MAAN TV
+http://193.200.164.163:80/live/nabil/nabil123/622.ts
+#EXTINF:-1,AR - AL QUDS
+http://193.200.164.163:80/live/nabil/nabil123/621.ts
+#EXTINF:-1,AR - FALASTINIAH TV
+http://193.200.164.163:80/live/nabil/nabil123/615.ts
+#EXTINF:-1,AR - AWDEH TV
+http://193.200.164.163:80/live/nabil/nabil123/614.ts
+#EXTINF:-1,AR - ANNAJAH NBC
+http://193.200.164.163:80/live/nabil/nabil123/613.ts
+#EXTINF:-1,AR - AL RAYYAN HD
+http://193.200.164.163:80/live/nabil/nabil123/577.ts
+#EXTINF:-1,AR - AL RAYYAN
+http://193.200.164.163:80/live/nabil/nabil123/575.ts
+#EXTINF:-1,AR - QATAR TV HD
+http://193.200.164.163:80/live/nabil/nabil123/574.ts
+#EXTINF:-1,AR - LEBANON TV
+http://193.200.164.163:80/live/nabil/nabil123/780.ts
+#EXTINF:-1,AR - LBC HD
+http://193.200.164.163:80/live/nabil/nabil123/21270.ts
+#EXTINF:-1,AR - LBC SAT
+http://193.200.164.163:80/live/nabil/nabil123/779.ts
+#EXTINF:-1,AR - LDC
+http://193.200.164.163:80/live/nabil/nabil123/778.ts
+#EXTINF:-1,AR - OTV TV
+http://193.200.164.163:80/live/nabil/nabil123/777.ts
+#EXTINF:-1,AR - MTV LEBANON
+http://193.200.164.163:80/live/nabil/nabil123/776.ts
+#EXTINF:-1,AR - MTV LEBANON HD
+http://193.200.164.163:80/live/nabil/nabil123/19161.ts
+#EXTINF:-1,AR - NBN LEBANON HD
+http://193.200.164.163:80/live/nabil/nabil123/27423.ts
+#EXTINF:-1,AR - FUTURE TV
+http://193.200.164.163:80/live/nabil/nabil123/775.ts
+#EXTINF:-1,AR - AL MAYADEEN
+http://193.200.164.163:80/live/nabil/nabil123/928.ts
+#EXTINF:-1,AR - AL MANAR
+http://193.200.164.163:80/live/nabil/nabil123/917.ts
+#EXTINF:-1,AR - ALAAN TV LEBANON
+http://193.200.164.163:80/live/nabil/nabil123/774.ts
+#EXTINF:-1,AR - AGHANI AGHANI TV
+http://193.200.164.163:80/live/nabil/nabil123/773.ts
+#EXTINF:-1,AR - HEYA TV
+http://193.200.164.163:80/live/nabil/nabil123/772.ts
+#EXTINF:-1,AR - AL ASRAR TV
+http://193.200.164.163:80/live/nabil/nabil123/771.ts
+#EXTINF:-1,AR - AL WAAD
+http://193.200.164.163:80/live/nabil/nabil123/770.ts
+#EXTINF:-1,AR - AL NADA TV
+http://193.200.164.163:80/live/nabil/nabil123/769.ts
+#EXTINF:-1,AR - AL JADEED
+http://193.200.164.163:80/live/nabil/nabil123/766.ts
+#EXTINF:-1,AR - TELELIBAN TV
+http://193.200.164.163:80/live/nabil/nabil123/763.ts
+#EXTINF:-1,AR - AL QANAT
+http://193.200.164.163:80/live/nabil/nabil123/768.ts
+#EXTINF:-1,AR - ANB TV
+http://193.200.164.163:80/live/nabil/nabil123/765.ts
+#EXTINF:-1,AR - MAESTRO
+http://193.200.164.163:80/live/nabil/nabil123/762.ts
+#EXTINF:-1,AR - YEMEN SAMA
+http://193.200.164.163:80/live/nabil/nabil123/588.ts
+#EXTINF:-1,AR - YEMEN TV
+http://193.200.164.163:80/live/nabil/nabil123/587.ts
+#EXTINF:-1,AR - YEMEN SHABAB
+http://193.200.164.163:80/live/nabil/nabil123/586.ts
+#EXTINF:-1,AR - SUHAIL TV
+http://193.200.164.163:80/live/nabil/nabil123/585.ts
+#EXTINF:-1,AR - SHEBA TV
+http://193.200.164.163:80/live/nabil/nabil123/584.ts
+#EXTINF:-1,AR - YEMEN TODAY
+http://193.200.164.163:80/live/nabil/nabil123/583.ts
+#EXTINF:-1,AR - ADEN TV
+http://193.200.164.163:80/live/nabil/nabil123/582.ts
+#EXTINF:-1,AR - OMAN TV
+http://193.200.164.163:80/live/nabil/nabil123/580.ts
+#EXTINF:-1,AR - AL ISTIQAMA
+http://193.200.164.163:80/live/nabil/nabil123/579.ts
+#EXTINF:-1,AR - SYRIA DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/611.ts
+#EXTINF:-1,AR - SYRIA EDUCATION
+http://193.200.164.163:80/live/nabil/nabil123/610.ts
+#EXTINF:-1,AR - SYRIA TV
+http://193.200.164.163:80/live/nabil/nabil123/608.ts
+#EXTINF:-1,AR - AL EKHBARIYA AL SORIYA
+http://193.200.164.163:80/live/nabil/nabil123/609.ts
+#EXTINF:-1,AR - ALYAWM
+http://193.200.164.163:80/live/nabil/nabil123/20944.ts
+#EXTINF:-1,AR - SYRIA EMMAR
+http://193.200.164.163:80/live/nabil/nabil123/20943.ts
+#EXTINF:-1,AR - SYRIA FM
+http://193.200.164.163:80/live/nabil/nabil123/20935.ts
+#EXTINF:-1,AR - SYRIA MEDICAL
+http://193.200.164.163:80/live/nabil/nabil123/20934.ts
+#EXTINF:-1,AR - SYRIA TV HD
+http://193.200.164.163:80/live/nabil/nabil123/20942.ts
+#EXTINF:-1,AR - SAMA TV
+http://193.200.164.163:80/live/nabil/nabil123/607.ts
+#EXTINF:-1,AR - DORAR
+http://193.200.164.163:80/live/nabil/nabil123/20941.ts
+#EXTINF:-1,AR - LANA
+http://193.200.164.163:80/live/nabil/nabil123/20940.ts
+#EXTINF:-1,AR - MARA7
+http://193.200.164.163:80/live/nabil/nabil123/20939.ts
+#EXTINF:-1,AR - MINBIJ
+http://193.200.164.163:80/live/nabil/nabil123/20938.ts
+#EXTINF:-1,AR - SHAM FM
+http://193.200.164.163:80/live/nabil/nabil123/20937.ts
+#EXTINF:-1,AR - SHAM TV
+http://193.200.164.163:80/live/nabil/nabil123/20936.ts
+#EXTINF:-1,AR - NOOR AL SHAM
+http://193.200.164.163:80/live/nabil/nabil123/606.ts
+#EXTINF:-1,AR - ORIENT TV
+http://193.200.164.163:80/live/nabil/nabil123/605.ts
+#EXTINF:-1,AR - FALLUJAH HD
+http://193.200.164.163:80/live/nabil/nabil123/686.ts
+#EXTINF:-1,AR - IMAM REDA HD
+http://193.200.164.163:80/live/nabil/nabil123/685.ts
+#EXTINF:-1,AR - IRAQ NOW
+http://193.200.164.163:80/live/nabil/nabil123/684.ts
+#EXTINF:-1,AR - AL IRAQIA NEWS
+http://193.200.164.163:80/live/nabil/nabil123/641.ts
+#EXTINF:-1,AR - SAMARRAE
+http://193.200.164.163:80/live/nabil/nabil123/683.ts
+#EXTINF:-1,AR - AL AQILA
+http://193.200.164.163:80/live/nabil/nabil123/679.ts
+#EXTINF:-1,AR - AL GHADEER
+http://193.200.164.163:80/live/nabil/nabil123/678.ts
+#EXTINF:-1,AR - AL IRAQIA SPORT
+http://193.200.164.163:80/live/nabil/nabil123/676.ts
+#EXTINF:-1,AR - AL ANWAR
+http://193.200.164.163:80/live/nabil/nabil123/680.ts
+#EXTINF:-1,AR - AL MASSAR
+http://193.200.164.163:80/live/nabil/nabil123/674.ts
+#EXTINF:-1,AR - AL MANHAJ
+http://193.200.164.163:80/live/nabil/nabil123/675.ts
+#EXTINF:-1,AR - AL MASSAR AL OULA
+http://193.200.164.163:80/live/nabil/nabil123/673.ts
+#EXTINF:-1,AR - AL MASSAR ALOULA
+http://193.200.164.163:80/live/nabil/nabil123/662.ts
+#EXTINF:-1,AR - IQRAA
+http://193.200.164.163:80/live/nabil/nabil123/887.ts
+#EXTINF:-1,AR - AL SHARQIA NEWS HD
+http://193.200.164.163:80/live/nabil/nabil123/667.ts
+#EXTINF:-1,AR - AL MAWSLYA
+http://193.200.164.163:80/live/nabil/nabil123/672.ts
+#EXTINF:-1,AR - AL MINHAJ
+http://193.200.164.163:80/live/nabil/nabil123/670.ts
+#EXTINF:-1,AR - AL WALAA
+http://193.200.164.163:80/live/nabil/nabil123/671.ts
+#EXTINF:-1,AR - IRAQI EDUCATION
+http://193.200.164.163:80/live/nabil/nabil123/653.ts
+#EXTINF:-1,AR - AL SHARQIYA HD
+http://193.200.164.163:80/live/nabil/nabil123/668.ts
+#EXTINF:-1,AR - AL IRAQIA TV
+http://193.200.164.163:80/live/nabil/nabil123/658.ts
+#EXTINF:-1,AR - AL RAFIDAYN
+http://193.200.164.163:80/live/nabil/nabil123/669.ts
+#EXTINF:-1,AR - AL RASHEED TV
+http://193.200.164.163:80/live/nabil/nabil123/665.ts
+#EXTINF:-1,AR - AL ITEJAH TV
+http://193.200.164.163:80/live/nabil/nabil123/664.ts
+#EXTINF:-1,AR - AL NOUJABA
+http://193.200.164.163:80/live/nabil/nabil123/663.ts
+#EXTINF:-1,AR - AL NAEEM
+http://193.200.164.163:80/live/nabil/nabil123/661.ts
+#EXTINF:-1,AR - AL SHABAB TV
+http://193.200.164.163:80/live/nabil/nabil123/660.ts
+#EXTINF:-1,AR - AL FORAT TV
+http://193.200.164.163:80/live/nabil/nabil123/659.ts
+#EXTINF:-1,AR - HONA BAGHDAD
+http://193.200.164.163:80/live/nabil/nabil123/657.ts
+#EXTINF:-1,AR - BAGHDAD TV
+http://193.200.164.163:80/live/nabil/nabil123/656.ts
+#EXTINF:-1,AR - AL SHARQIA NEWS
+http://193.200.164.163:80/live/nabil/nabil123/652.ts
+#EXTINF:-1,AR - AL AHD
+http://193.200.164.163:80/live/nabil/nabil123/651.ts
+#EXTINF:-1,AR - KARBALA TV
+http://193.200.164.163:80/live/nabil/nabil123/650.ts
+#EXTINF:-1,AR - AL SUMARIA TV
+http://193.200.164.163:80/live/nabil/nabil123/649.ts
+#EXTINF:-1,AR - AL AWHAD
+http://193.200.164.163:80/live/nabil/nabil123/648.ts
+#EXTINF:-1,AR - AL KAWTHAR
+http://193.200.164.163:80/live/nabil/nabil123/646.ts
+#EXTINF:-1,AR - ASIA TV
+http://193.200.164.163:80/live/nabil/nabil123/645.ts
+#EXTINF:-1,AR - DIJLAH TV
+http://193.200.164.163:80/live/nabil/nabil123/644.ts
+#EXTINF:-1,AR - EL IMAN TV
+http://193.200.164.163:80/live/nabil/nabil123/642.ts
+#EXTINF:-1,AR - AL ANBAR
+http://193.200.164.163:80/live/nabil/nabil123/640.ts
+#EXTINF:-1,AR - AL ESHRAQ TV
+http://193.200.164.163:80/live/nabil/nabil123/639.ts
+#EXTINF:-1,AR - AL HURRA IRAQ
+http://193.200.164.163:80/live/nabil/nabil123/637.ts
+#EXTINF:-1,AR - AL TURKMENIA TV
+http://193.200.164.163:80/live/nabil/nabil123/635.ts
+#EXTINF:-1,AR - ALMASALAH
+http://193.200.164.163:80/live/nabil/nabil123/632.ts
+#EXTINF:-1,AR - BELADI
+http://193.200.164.163:80/live/nabil/nabil123/630.ts
+#EXTINF:-1,AR - DEWAN
+http://193.200.164.163:80/live/nabil/nabil123/629.ts
+#EXTINF:-1,AR - DUA TV
+http://193.200.164.163:80/live/nabil/nabil123/628.ts
+#EXTINF:-1,AR - ETIHAD TV
+http://193.200.164.163:80/live/nabil/nabil123/627.ts
+#EXTINF:-1,AR - I FILM
+http://193.200.164.163:80/live/nabil/nabil123/626.ts
+#EXTINF:-1,AR - AL THAQALAYN TV
+http://193.200.164.163:80/live/nabil/nabil123/625.ts
+#EXTINF:-1,AR - AL QURAIN
+http://193.200.164.163:80/live/nabil/nabil123/19158.ts
+#EXTINF:-1,AR - AL MAJLIS
+http://193.200.164.163:80/live/nabil/nabil123/19159.ts
+#EXTINF:-1,AR - AL BASIRA
+http://193.200.164.163:80/live/nabil/nabil123/655.ts
+#EXTINF:-1,IR - Marjaeyat TV
+http://193.200.164.163:80/live/nabil/nabil123/23962.ts
+#EXTINF:-1,AR - LIBYA 218
+http://193.200.164.163:80/live/nabil/nabil123/704.ts
+#EXTINF:-1,AR - LIBYA AL RSMIA
+http://193.200.164.163:80/live/nabil/nabil123/701.ts
+#EXTINF:-1,AR - LIBYA PANORAMA HD
+http://193.200.164.163:80/live/nabil/nabil123/706.ts
+#EXTINF:-1,AR - KTV 1
+http://193.200.164.163:80/live/nabil/nabil123/596.ts
+#EXTINF:-1,AR - KTV 2
+http://193.200.164.163:80/live/nabil/nabil123/595.ts
+#EXTINF:-1,AR - KTV ETHRAA
+http://193.200.164.163:80/live/nabil/nabil123/590.ts
+#EXTINF:-1,AR - KTV PLUS
+http://193.200.164.163:80/live/nabil/nabil123/593.ts
+#EXTINF:-1,AR - KTV SPORT
+http://193.200.164.163:80/live/nabil/nabil123/594.ts
+#EXTINF:-1,AR - KTV SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/599.ts
+#EXTINF:-1,AR - KTV AL ARABI
+http://193.200.164.163:80/live/nabil/nabil123/592.ts
+#EXTINF:-1,AR - FUNOON TV
+http://193.200.164.163:80/live/nabil/nabil123/597.ts
+#EXTINF:-1,AR - AL SHAHED TV
+http://193.200.164.163:80/live/nabil/nabil123/598.ts
+#EXTINF:-1,AR - ALRAI
+http://193.200.164.163:80/live/nabil/nabil123/21271.ts
+#EXTINF:-1,AR - JORDAN AMEN
+http://193.200.164.163:80/live/nabil/nabil123/714.ts
+#EXTINF:-1,AR - JORDAN DERETNA
+http://193.200.164.163:80/live/nabil/nabil123/708.ts
+#EXTINF:-1,AR - JORDAN HD
+http://193.200.164.163:80/live/nabil/nabil123/727.ts
+#EXTINF:-1,AR - JORDAN MANASEER
+http://193.200.164.163:80/live/nabil/nabil123/716.ts
+#EXTINF:-1,AR - JORDAN NOW
+http://193.200.164.163:80/live/nabil/nabil123/717.ts
+#EXTINF:-1,AR - JORDAN SAMA
+http://193.200.164.163:80/live/nabil/nabil123/718.ts
+#EXTINF:-1,AR - JORDAN SPORT
+http://193.200.164.163:80/live/nabil/nabil123/719.ts
+#EXTINF:-1,AR - JORDAN TV
+http://193.200.164.163:80/live/nabil/nabil123/720.ts
+#EXTINF:-1,AR - ROYA HD
+http://193.200.164.163:80/live/nabil/nabil123/726.ts
+#EXTINF:-1,AR - KARAMEESH
+http://193.200.164.163:80/live/nabil/nabil123/725.ts
+#EXTINF:-1,AR - NOURSAT AL CHABAB
+http://193.200.164.163:80/live/nabil/nabil123/723.ts
+#EXTINF:-1,AR - ZWEINA BALADNA
+http://193.200.164.163:80/live/nabil/nabil123/722.ts
+#EXTINF:-1,AR - NOOR JORDAN
+http://193.200.164.163:80/live/nabil/nabil123/712.ts
+#EXTINF:-1,(ARABIC KIDS)
+http://193.200.164.163:80/live/nabil/nabil123/955.ts
+#EXTINF:-1,AR - MICKEY CHANNEL
+http://193.200.164.163:80/live/nabil/nabil123/954.ts
+#EXTINF:-1,AR - AL MAJD KIDS HD
+http://193.200.164.163:80/live/nabil/nabil123/944.ts
+#EXTINF:-1,AR - CARTOON NETWORK
+http://193.200.164.163:80/live/nabil/nabil123/899.ts
+#EXTINF:-1,AR - SPACETOON
+http://193.200.164.163:80/live/nabil/nabil123/947.ts
+#EXTINF:-1,AR - TAHA KIDS
+http://193.200.164.163:80/live/nabil/nabil123/949.ts
+#EXTINF:-1,AR - TOYOR BABY
+http://193.200.164.163:80/live/nabil/nabil123/945.ts
+#EXTINF:-1,AR - JEEM KIDS
+http://193.200.164.163:80/live/nabil/nabil123/952.ts
+#EXTINF:-1,AR - TOYOR AL JANAH
+http://193.200.164.163:80/live/nabil/nabil123/946.ts
+#EXTINF:-1,AR - SEM SEM TV
+http://193.200.164.163:80/live/nabil/nabil123/898.ts
+#EXTINF:-1,AR - ATFAL & MAWAHEB
+http://193.200.164.163:80/live/nabil/nabil123/951.ts
+#EXTINF:-1,AR - BARAEM KIDS EUROPE
+http://193.200.164.163:80/live/nabil/nabil123/948.ts
+#EXTINF:-1,AR - SAUDI 1
+http://193.200.164.163:80/live/nabil/nabil123/910.ts
+#EXTINF:-1,AR - SAUDI 24
+http://193.200.164.163:80/live/nabil/nabil123/908.ts
+#EXTINF:-1,AR - SAUDI ANTI TERRORISM
+http://193.200.164.163:80/live/nabil/nabil123/905.ts
+#EXTINF:-1,AR - SAUDI FAMILY
+http://193.200.164.163:80/live/nabil/nabil123/907.ts
+#EXTINF:-1,AR - SAUDI QURAN
+http://193.200.164.163:80/live/nabil/nabil123/886.ts
+#EXTINF:-1,AR - SAUDI SPORT
+http://193.200.164.163:80/live/nabil/nabil123/904.ts
+#EXTINF:-1,AR - SAUDI SUNNAH
+http://193.200.164.163:80/live/nabil/nabil123/895.ts
+#EXTINF:-1,AR - KSA SPORTS 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/19164.ts
+#EXTINF:-1,AR - KSA SPORTS 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/26603.ts
+#EXTINF:-1,AR - KSA SPORTS PLUS 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/26602.ts
+#EXTINF:-1,AR - KSA SPORTS PLUS 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/26601.ts
+#EXTINF:-1,AR - DAWRI PLUS 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/26607.ts
+#EXTINF:-1,AR - DAWRI PLUS 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/26606.ts
+#EXTINF:-1,AR - DAWRI PLUS 3 HD
+http://193.200.164.163:80/live/nabil/nabil123/26605.ts
+#EXTINF:-1,AR - AL AMAKEN DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/906.ts
+#EXTINF:-1,AR - AL MERGAB
+http://193.200.164.163:80/live/nabil/nabil123/902.ts
+#EXTINF:-1,AR - MASDAR TV
+http://193.200.164.163:80/live/nabil/nabil123/900.ts
+#EXTINF:-1,AR - BAHRAIN INTERNATIONAL
+http://193.200.164.163:80/live/nabil/nabil123/730.ts
+#EXTINF:-1,AR - BAHRAIN INTERNATIONAL HD
+http://193.200.164.163:80/live/nabil/nabil123/732.ts
+#EXTINF:-1,AR - BAHRAIN QURAN
+http://193.200.164.163:80/live/nabil/nabil123/729.ts
+#EXTINF:-1,AR - BAHRAIN SPORTS 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/735.ts
+#EXTINF:-1,AR - BAHRAIN SPORTS 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/734.ts
+#EXTINF:-1,AR - BAHRAIN TV  HD
+http://193.200.164.163:80/live/nabil/nabil123/733.ts
+#EXTINF:-1,AR - AL MAAREF
+http://193.200.164.163:80/live/nabil/nabil123/731.ts
+#EXTINF:-1,AR - DUBAI ONE
+http://193.200.164.163:80/live/nabil/nabil123/749.ts
+#EXTINF:-1,AR - DUBAI RACING 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/757.ts
+#EXTINF:-1,AR - DUBAI RACING 2
+http://193.200.164.163:80/live/nabil/nabil123/744.ts
+#EXTINF:-1,AR - DUBAI RACING 3
+http://193.200.164.163:80/live/nabil/nabil123/743.ts
+#EXTINF:-1,AR - DUBAI SPORT 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/758.ts
+#EXTINF:-1,AR - DUBAI SPORT 4
+http://193.200.164.163:80/live/nabil/nabil123/745.ts
+#EXTINF:-1,AR - DUBAI TV
+http://193.200.164.163:80/live/nabil/nabil123/747.ts
+#EXTINF:-1,AR - DUBAI TV HD
+http://193.200.164.163:80/live/nabil/nabil123/760.ts
+#EXTINF:-1,AR - DUBAI ZAMAN
+http://193.200.164.163:80/live/nabil/nabil123/748.ts
+#EXTINF:-1,AR - AD SPORT 1 HD
+http://193.200.164.163:80/live/nabil/nabil123/756.ts
+#EXTINF:-1,AR - ABU DHABI AL EMARAT HD
+http://193.200.164.163:80/live/nabil/nabil123/751.ts
+#EXTINF:-1,AR - ABU DHABI DRAMA HD
+http://193.200.164.163:80/live/nabil/nabil123/752.ts
+#EXTINF:-1,AR - ABU DHABI NGC HD
+http://193.200.164.163:80/live/nabil/nabil123/938.ts
+#EXTINF:-1,AR - ABU DHABI SPORT 2 HD
+http://193.200.164.163:80/live/nabil/nabil123/755.ts
+#EXTINF:-1,AR - ABU DHABI TV HD
+http://193.200.164.163:80/live/nabil/nabil123/753.ts
+#EXTINF:-1,AR - YAS SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/754.ts
+#EXTINF:-1,AR - SAMA DUBAI HD
+http://193.200.164.163:80/live/nabil/nabil123/759.ts
+#EXTINF:-1,AR - NOOR DUBAI
+http://193.200.164.163:80/live/nabil/nabil123/750.ts
+#EXTINF:-1,AR - HOD HOD TV
+http://193.200.164.163:80/live/nabil/nabil123/740.ts
+#EXTINF:-1,AR - AL WAHA TV
+http://193.200.164.163:80/live/nabil/nabil123/738.ts
+#EXTINF:-1,AR - NILE CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/855.ts
+#EXTINF:-1,AR - NILE COMEDY
+http://193.200.164.163:80/live/nabil/nabil123/852.ts
+#EXTINF:-1,AR - NILE CULTURE
+http://193.200.164.163:80/live/nabil/nabil123/849.ts
+#EXTINF:-1,AR - NILE DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/854.ts
+#EXTINF:-1,AR - NILE FAMILY
+http://193.200.164.163:80/live/nabil/nabil123/853.ts
+#EXTINF:-1,AR - NILE LIFE
+http://193.200.164.163:80/live/nabil/nabil123/850.ts
+#EXTINF:-1,AR - NILE NEWS
+http://193.200.164.163:80/live/nabil/nabil123/851.ts
+#EXTINF:-1,AR - NILE SPORT
+http://193.200.164.163:80/live/nabil/nabil123/848.ts
+#EXTINF:-1,AR - ON TV
+http://193.200.164.163:80/live/nabil/nabil123/794.ts
+#EXTINF:-1,AR - ON TV DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/807.ts
+#EXTINF:-1,AR - ON TV E
+http://193.200.164.163:80/live/nabil/nabil123/806.ts
+#EXTINF:-1,AR - ON TV E HD
+http://193.200.164.163:80/live/nabil/nabil123/805.ts
+#EXTINF:-1,AR - ON TV HD
+http://193.200.164.163:80/live/nabil/nabil123/804.ts
+#EXTINF:-1,AR - ON TV LIVE
+http://193.200.164.163:80/live/nabil/nabil123/811.ts
+#EXTINF:-1,AR - ON TV LIVE HD
+http://193.200.164.163:80/live/nabil/nabil123/810.ts
+#EXTINF:-1,AR - ON TV SPORT
+http://193.200.164.163:80/live/nabil/nabil123/809.ts
+#EXTINF:-1,AR - ON TV SPORT HD
+http://193.200.164.163:80/live/nabil/nabil123/808.ts
+#EXTINF:-1,AR - DMC
+http://193.200.164.163:80/live/nabil/nabil123/793.ts
+#EXTINF:-1,AR - DMC DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/792.ts
+#EXTINF:-1,AR - DMC HD
+http://193.200.164.163:80/live/nabil/nabil123/812.ts
+#EXTINF:-1,AR - DMC KIDS
+http://193.200.164.163:80/live/nabil/nabil123/950.ts
+#EXTINF:-1,AR - DMC MASRAHEYAT
+http://193.200.164.163:80/live/nabil/nabil123/791.ts
+#EXTINF:-1,AR - DMC NEWS
+http://193.200.164.163:80/live/nabil/nabil123/790.ts
+#EXTINF:-1,AR - DMC SPORTS
+http://193.200.164.163:80/live/nabil/nabil123/789.ts
+#EXTINF:-1,AR - CBC
+http://193.200.164.163:80/live/nabil/nabil123/860.ts
+#EXTINF:-1,AR - CBC DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/798.ts
+#EXTINF:-1,AR - CBC EXTRA NEWS
+http://193.200.164.163:80/live/nabil/nabil123/858.ts
+#EXTINF:-1,AR - CBC SOFRA
+http://193.200.164.163:80/live/nabil/nabil123/859.ts
+#EXTINF:-1,AR - CHADA FM HD
+http://193.200.164.163:80/live/nabil/nabil123/7174.ts
+#EXTINF:-1,AR - CIMA TV
+http://193.200.164.163:80/live/nabil/nabil123/828.ts
+#EXTINF:-1,AR - CINEMA PRO
+http://193.200.164.163:80/live/nabil/nabil123/829.ts
+#EXTINF:-1,AR - DREAM
+http://193.200.164.163:80/live/nabil/nabil123/843.ts
+#EXTINF:-1,AR - PANORAMA DRAMA 1
+http://193.200.164.163:80/live/nabil/nabil123/801.ts
+#EXTINF:-1,AR - PANORAMA DRAMA 2
+http://193.200.164.163:80/live/nabil/nabil123/800.ts
+#EXTINF:-1,AR - PANORAMA FILM
+http://193.200.164.163:80/live/nabil/nabil123/830.ts
+#EXTINF:-1,AR - PANORAMA FOOD
+http://193.200.164.163:80/live/nabil/nabil123/799.ts
+#EXTINF:-1,AR - AL KAHERA WAL NAS  2
+http://193.200.164.163:80/live/nabil/nabil123/819.ts
+#EXTINF:-1,AR - AL KAHERA WE ALNASS
+http://193.200.164.163:80/live/nabil/nabil123/847.ts
+#EXTINF:-1,AR - AL KAHERA WEL NES
+http://193.200.164.163:80/live/nabil/nabil123/846.ts
+#EXTINF:-1,AR - PYRAMIDS F.C TV HD
+http://193.200.164.163:80/live/nabil/nabil123/26604.ts
+#EXTINF:-1,AR - MODY KIDS
+http://193.200.164.163:80/live/nabil/nabil123/953.ts
+#EXTINF:-1,AR - MTA INTERNATIONAL
+http://193.200.164.163:80/live/nabil/nabil123/876.ts
+#EXTINF:-1,AR - MTA MUSLIM TV
+http://193.200.164.163:80/live/nabil/nabil123/877.ts
+#EXTINF:-1,AR - MUSAWA TV
+http://193.200.164.163:80/live/nabil/nabil123/710.ts
+#EXTINF:-1,AR - ALHAYAT RED
+http://193.200.164.163:80/live/nabil/nabil123/17129.ts
+#EXTINF:-1,AR - ALHAYAT 2
+http://193.200.164.163:80/live/nabil/nabil123/787.ts
+#EXTINF:-1,AR - ALHAYAT WE ALNAS
+http://193.200.164.163:80/live/nabil/nabil123/786.ts
+#EXTINF:-1,AR - NABA TV
+http://193.200.164.163:80/live/nabil/nabil123/705.ts
+#EXTINF:-1,AR - MELODY CLASSIC
+http://193.200.164.163:80/live/nabil/nabil123/822.ts
+#EXTINF:-1,AR - AL BAIT BAITAK CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/821.ts
+#EXTINF:-1,AR - AL HAYAT MUSLSALAT
+http://193.200.164.163:80/live/nabil/nabil123/856.ts
+#EXTINF:-1,AR - AL MASRAWIA AFLAM
+http://193.200.164.163:80/live/nabil/nabil123/813.ts
+#EXTINF:-1,AR - SADA EL BALAD
+http://193.200.164.163:80/live/nabil/nabil123/845.ts
+#EXTINF:-1,AR - SADA EL BALAD DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/844.ts
+#EXTINF:-1,AR - STAR CINEMA 1
+http://193.200.164.163:80/live/nabil/nabil123/833.ts
+#EXTINF:-1,AR - STAR CINEMA 2
+http://193.200.164.163:80/live/nabil/nabil123/832.ts
+#EXTINF:-1,AR - TOK TOK AFLAM
+http://193.200.164.163:80/live/nabil/nabil123/782.ts
+#EXTINF:-1,AR - TOK TOK CINEMA
+http://193.200.164.163:80/live/nabil/nabil123/831.ts
+#EXTINF:-1,AR - AL NAHAR DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/839.ts
+#EXTINF:-1,AR - AL NAHAR ONE
+http://193.200.164.163:80/live/nabil/nabil123/840.ts
+#EXTINF:-1,AR - AL MASRIYA
+http://193.200.164.163:80/live/nabil/nabil123/788.ts
+#EXTINF:-1,AR - NILE TV
+http://193.200.164.163:80/live/nabil/nabil123/19163.ts
+#EXTINF:-1,AR -  AL ASSEMA 1
+http://193.200.164.163:80/live/nabil/nabil123/19162.ts
+#EXTINF:-1,AR - MASPERO ZAMAN
+http://193.200.164.163:80/live/nabil/nabil123/797.ts
+#EXTINF:-1,AR - MEHWAR
+http://193.200.164.163:80/live/nabil/nabil123/835.ts
+#EXTINF:-1,AR - MEKAMELEEN
+http://193.200.164.163:80/live/nabil/nabil123/857.ts
+#EXTINF:-1,AR - EL SHARQ
+http://193.200.164.163:80/live/nabil/nabil123/834.ts
+#EXTINF:-1,AR - AL AHLY
+http://193.200.164.163:80/live/nabil/nabil123/866.ts
+#EXTINF:-1,AR - ESC
+http://193.200.164.163:80/live/nabil/nabil123/861.ts
+#EXTINF:-1,AR - AL GHAD TV
+http://193.200.164.163:80/live/nabil/nabil123/842.ts
+#EXTINF:-1,AR - MAZAZIKH TV
+http://193.200.164.163:80/live/nabil/nabil123/827.ts
+#EXTINF:-1,AR - ARABICA TV
+http://193.200.164.163:80/live/nabil/nabil123/826.ts
+#EXTINF:-1,AR - AL GHAD MUSHREQ TV
+http://193.200.164.163:80/live/nabil/nabil123/825.ts
+#EXTINF:-1,AR - AFRAH TV
+http://193.200.164.163:80/live/nabil/nabil123/824.ts
+#EXTINF:-1,AR - HALABA TV
+http://193.200.164.163:80/live/nabil/nabil123/823.ts
+#EXTINF:-1,AR - LTC
+http://193.200.164.163:80/live/nabil/nabil123/818.ts
+#EXTINF:-1,AR - EL MOLED TV
+http://193.200.164.163:80/live/nabil/nabil123/817.ts
+#EXTINF:-1,AR - AL DAWAEIA
+http://193.200.164.163:80/live/nabil/nabil123/815.ts
+#EXTINF:-1,AR - AL SHAREYYAH
+http://193.200.164.163:80/live/nabil/nabil123/814.ts
+#EXTINF:-1,AR - WATAN TV
+http://193.200.164.163:80/live/nabil/nabil123/796.ts
+#EXTINF:-1,AR - AZHARI TV
+http://193.200.164.163:80/live/nabil/nabil123/795.ts
+#EXTINF:-1,AR - ALTHANYA
+http://193.200.164.163:80/live/nabil/nabil123/785.ts
+#EXTINF:-1,AR - DIRECT
+http://193.200.164.163:80/live/nabil/nabil123/784.ts
+#EXTINF:-1,AR - SEHATY
+http://193.200.164.163:80/live/nabil/nabil123/783.ts
+#EXTINF:-1,AR - MBC BOLLYWOOD HD
+http://193.200.164.163:80/live/nabil/nabil123/19165.ts
+#EXTINF:-1,AR - MBC 1
+http://193.200.164.163:80/live/nabil/nabil123/979.ts
+#EXTINF:-1,AR - MBC 2
+http://193.200.164.163:80/live/nabil/nabil123/978.ts
+#EXTINF:-1,AR - MBC 3
+http://193.200.164.163:80/live/nabil/nabil123/977.ts
+#EXTINF:-1,AR - MBC 4
+http://193.200.164.163:80/live/nabil/nabil123/976.ts
+#EXTINF:-1,AR - MBC ACTION
+http://193.200.164.163:80/live/nabil/nabil123/975.ts
+#EXTINF:-1,AR - MBC BOLLYWOOD
+http://193.200.164.163:80/live/nabil/nabil123/968.ts
+#EXTINF:-1,AR - MBC DRAMA
+http://193.200.164.163:80/live/nabil/nabil123/973.ts
+#EXTINF:-1,AR - MBC DRAMA HD
+http://193.200.164.163:80/live/nabil/nabil123/19166.ts
+#EXTINF:-1,AR - MBC MASR
+http://193.200.164.163:80/live/nabil/nabil123/863.ts
+#EXTINF:-1,AR - MBC MASR 2
+http://193.200.164.163:80/live/nabil/nabil123/862.ts
+#EXTINF:-1,AR - MBC MAX
+http://193.200.164.163:80/live/nabil/nabil123/974.ts
+#EXTINF:-1,AR - ZEE ALWAN
+http://193.200.164.163:80/live/nabil/nabil123/959.ts
+#EXTINF:-1,AR - ZEE AFLAM
+http://193.200.164.163:80/live/nabil/nabil123/958.ts
+#EXTINF:-1,AR - B4U PLUS
+http://193.200.164.163:80/live/nabil/nabil123/956.ts
+#EXTINF:-1,AR - B4U AFLAM
+http://193.200.164.163:80/live/nabil/nabil123/957.ts
+#EXTINF:-1,AR - WANASAH TV
+http://193.200.164.163:80/live/nabil/nabil123/967.ts
+#EXTINF:-1,MYHD PREMIUM - MBC1 HD
+http://193.200.164.163:80/live/nabil/nabil123/31264.ts
+#EXTINF:-1,MYHD PREMIUM - MBC2 HD
+http://193.200.164.163:80/live/nabil/nabil123/31263.ts
+#EXTINF:-1,MYHD PREMIUM - MBC3 HD
+http://193.200.164.163:80/live/nabil/nabil123/31262.ts
+#EXTINF:-1,MYHD PREMIUM - MBC4 HD
+http://193.200.164.163:80/live/nabil/nabil123/31261.ts
+#EXTINF:-1,MYHD PREMIUM - MBC  Drama HD
+http://193.200.164.163:80/live/nabil/nabil123/31272.ts
+#EXTINF:-1,MYHD PREMIUM - MBC Action HD
+http://193.200.164.163:80/live/nabil/nabil123/31271.ts
+#EXTINF:-1,MYHD PREMIUM - MBC Bollywood HD
+http://193.200.164.163:80/live/nabil/nabil123/31270.ts
+#EXTINF:-1,MYHD PREMIUM - MBC DRAMA  HD
+http://193.200.164.163:80/live/nabil/nabil123/31269.ts
+#EXTINF:-1,MYHD PREMIUM - MBC Drama HD
+http://193.200.164.163:80/live/nabil/nabil123/31268.ts
+#EXTINF:-1,MYHD PREMIUM - MBC Masir2
+http://193.200.164.163:80/live/nabil/nabil123/31267.ts
+#EXTINF:-1,MYHD PREMIUM - MBC MAX HD
+http://193.200.164.163:80/live/nabil/nabil123/31266.ts
+#EXTINF:-1,MYHD PREMIUM - MBC Variety HD
+http://193.200.164.163:80/live/nabil/nabil123/31265.ts
+#EXTINF:-1,AR - ELMAHADRA
+http://193.200.164.163:80/live/nabil/nabil123/569.ts
+#EXTINF:-1,AR - ELMOURITANIA
+http://193.200.164.163:80/live/nabil/nabil123/568.ts
+#EXTINF:-1,AR - ELMOURITANIA 2
+http://193.200.164.163:80/live/nabil/nabil123/567.ts
+#EXTINF:-1,AR - ELWATANIA TV
+http://193.200.164.163:80/live/nabil/nabil123/566.ts
+#EXTINF:-1,AR - ALMOURABITOUNE
+http://193.200.164.163:80/live/nabil/nabil123/571.ts
+#EXTINF:-1,AR - SAHEL TV
+http://193.200.164.163:80/live/nabil/nabil123/565.ts
+#EXTINF:-1,AR - M TUNISIA
+http://193.200.164.163:80/live/nabil/nabil123/1009.ts
+#EXTINF:-1,AR - TUNISNA
+http://193.200.164.163:80/live/nabil/nabil123/1008.ts
+#EXTINF:-1,AR - HANNIBAL
+http://193.200.164.163:80/live/nabil/nabil123/1007.ts
+#EXTINF:-1,AR - ATTESSIA TV
+http://193.200.164.163:80/live/nabil/nabil123/1006.ts
+#EXTINF:-1,AR - ZITOUNA HEDAYA
+http://193.200.164.163:80/live/nabil/nabil123/1005.ts
+#EXTINF:-1,AR - AL JANOUBIA
+http://193.200.164.163:80/live/nabil/nabil123/1004.ts
+#EXTINF:-1,AR - AL MUSTAKILA
+http://193.200.164.163:80/live/nabil/nabil123/914.ts
+#EXTINF:-1,AR - TUNESIE TELEVISION
+http://193.200.164.163:80/live/nabil/nabil123/1003.ts
+#EXTINF:-1,AR - TUNISIA NATIONAL 1
+http://193.200.164.163:80/live/nabil/nabil123/1002.ts
+#EXTINF:-1,AR - TUNISIA NATIONAL 2
+http://193.200.164.163:80/live/nabil/nabil123/1001.ts
+#EXTINF:-1,AR - AL INSEN
+http://193.200.164.163:80/live/nabil/nabil123/1000.ts
+#EXTINF:-1,AR - ZAYTOONA TV
+http://193.200.164.163:80/live/nabil/nabil123/997.ts
+#EXTINF:-1,AR - TELVZA TV
+http://193.200.164.163:80/live/nabil/nabil123/998.ts
+#EXTINF:-1,AR - AL HIWAR ETTOUNSI
+http://193.200.164.163:80/live/nabil/nabil123/838.ts
+#EXTINF:-1,AR - NESSMA TV
+http://193.200.164.163:80/live/nabil/nabil123/999.ts
+#EXTINF:-1,AR - EN TV ALGERIE
+http://193.200.164.163:80/live/nabil/nabil123/1041.ts
+#EXTINF:-1,AR - CANAL ALGERIE
+http://193.200.164.163:80/live/nabil/nabil123/1040.ts
+#EXTINF:-1,AR - A3 ALGERIE
+http://193.200.164.163:80/live/nabil/nabil123/1039.ts
+#EXTINF:-1,AR - CHOUROUK TV HD
+http://193.200.164.163:80/live/nabil/nabil123/1038.ts
+#EXTINF:-1,AR - ECHOUROUK
+http://193.200.164.163:80/live/nabil/nabil123/1037.ts
+#EXTINF:-1,AR - ECHOUROUK NEWS
+http://193.200.164.163:80/live/nabil/nabil123/1035.ts
+#EXTINF:-1,AR - DZAIR NEWS
+http://193.200.164.163:80/live/nabil/nabil123/1034.ts
+#EXTINF:-1,AR - ECHOROUK BENNA
+http://193.200.164.163:80/live/nabil/nabil123/1032.ts
+#EXTINF:-1,AR - SAMIRA TV
+http://193.200.164.163:80/live/nabil/nabil123/1031.ts
+#EXTINF:-1,AR - EL HEDDAF
+http://193.200.164.163:80/live/nabil/nabil123/1030.ts
+#EXTINF:-1,AR - EL BILAD
+http://193.200.164.163:80/live/nabil/nabil123/1029.ts
+#EXTINF:-1,AR - EL DJAZAIRIA
+http://193.200.164.163:80/live/nabil/nabil123/1027.ts
+#EXTINF:-1,AR - ENNAHAR ALGERIE
+http://193.200.164.163:80/live/nabil/nabil123/1026.ts
+#EXTINF:-1,AR - DZAIR JANNAH
+http://193.200.164.163:80/live/nabil/nabil123/1025.ts
+#EXTINF:-1,AR - DZAIR TV
+http://193.200.164.163:80/live/nabil/nabil123/1024.ts
+#EXTINF:-1,AR - AL ANIS TV
+http://193.200.164.163:80/live/nabil/nabil123/1022.ts
+#EXTINF:-1,AR - AL MAGHARIBIA
+http://193.200.164.163:80/live/nabil/nabil123/1021.ts
+#EXTINF:-1,AR - AL MAGHARIBIA 2
+http://193.200.164.163:80/live/nabil/nabil123/1020.ts
+#EXTINF:-1,AR - BAHIA TV
+http://193.200.164.163:80/live/nabil/nabil123/1019.ts
+#EXTINF:-1,AR - BEUR TV
+http://193.200.164.163:80/live/nabil/nabil123/1018.ts
+#EXTINF:-1,AR - BERBERE JEUNESSE
+http://193.200.164.163:80/live/nabil/nabil123/1016.ts
+#EXTINF:-1,AR - BERBERE MUSIC
+http://193.200.164.163:80/live/nabil/nabil123/1015.ts
+#EXTINF:-1,AR - BERBERE TV
+http://193.200.164.163:80/live/nabil/nabil123/1014.ts
+#EXTINF:-1,AR - CNA
+http://193.200.164.163:80/live/nabil/nabil123/1013.ts
+#EXTINF:-1,AR - DZAIR 24
+http://193.200.164.163:80/live/nabil/nabil123/1012.ts
+#EXTINF:-1,AR - DZAIR 3
+http://193.200.164.163:80/live/nabil/nabil123/1011.ts
+#EXTINF:-1,AR - ALGERIE 4
+http://193.200.164.163:80/live/nabil/nabil123/7266.ts
+#EXTINF:-1,AR - ALGERIE 5
+http://193.200.164.163:80/live/nabil/nabil123/7265.ts
+#EXTINF:-1,AR - EL DJAWHARA
+http://193.200.164.163:80/live/nabil/nabil123/7254.ts
+#EXTINF:-1,AR - HALA TV
+http://193.200.164.163:80/live/nabil/nabil123/19168.ts
+#EXTINF:-1,AR - ENTV ALGERIE
+http://193.200.164.163:80/live/nabil/nabil123/19169.ts
+
+#EXTINF:-1,|AR| BeIN SPORTS NEWS
+http://212.8.248.94:2103/live/nani27/nani27/369.ts
+#EXTINF:-1,|AR| beout Q 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/6263.ts
+#EXTINF:-1,|AR| beout Q 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/6262.ts
+#EXTINF:-1,|AR| beout Q 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/6259.ts
+#EXTINF:-1,|AR| beout Q 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/6258.ts
+#EXTINF:-1,|AR| beout Q 5 HD
+http://212.8.248.94:2103/live/nani27/nani27/6257.ts
+#EXTINF:-1,|AR| beout Q 6 HD
+http://212.8.248.94:2103/live/nani27/nani27/6256.ts
+#EXTINF:-1,|AR| BEIN SPORTS_1 SD
+http://212.8.248.94:2103/live/nani27/nani27/2600.ts
+#EXTINF:-1,|AR| BEIN SPORTS_1 HD
+http://212.8.248.94:2103/live/nani27/nani27/788.ts
+#EXTINF:-1,|AR| BEIN SPORTS 1 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10081.ts
+#EXTINF:-1,|AR| BEIN SPORTS_2 SD
+http://212.8.248.94:2103/live/nani27/nani27/2601.ts
+#EXTINF:-1,|AR| BEIN SPORTS_2 HD
+http://212.8.248.94:2103/live/nani27/nani27/789.ts
+#EXTINF:-1,|AR| BEIN SPORTS_3 SD
+http://212.8.248.94:2103/live/nani27/nani27/2602.ts
+#EXTINF:-1,|AR| BEIN SPORTS_3 HD
+http://212.8.248.94:2103/live/nani27/nani27/790.ts
+#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10080.ts
+#EXTINF:-1,|AR| BEIN SPORTS 3 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10079.ts
+#EXTINF:-1,|AR| BEIN SPORTS_4 SD
+http://212.8.248.94:2103/live/nani27/nani27/2603.ts
+#EXTINF:-1,|AR| BEIN SPORTS_4 HD
+http://212.8.248.94:2103/live/nani27/nani27/791.ts
+#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10078.ts
+#EXTINF:-1,|AR| BEIN SPORTS_5 SD
+http://212.8.248.94:2103/live/nani27/nani27/2604.ts
+#EXTINF:-1,|AR| BEIN SPORTS_5 HD
+http://212.8.248.94:2103/live/nani27/nani27/792.ts
+#EXTINF:-1,|AR| BEIN SPORTS 5 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10077.ts
+#EXTINF:-1,|AR| BEIN SPORTS_6 SD
+http://212.8.248.94:2103/live/nani27/nani27/2605.ts
+#EXTINF:-1,|AR| BEIN SPORTS_6 HD
+http://212.8.248.94:2103/live/nani27/nani27/793.ts
+#EXTINF:-1,|AR| BEIN SPORTS 6 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10076.ts
+#EXTINF:-1,|AR| BEIN SPORTS_7 SD
+http://212.8.248.94:2103/live/nani27/nani27/2606.ts
+#EXTINF:-1,|AR| BEIN SPORTS_7 HD
+http://212.8.248.94:2103/live/nani27/nani27/794.ts
+#EXTINF:-1,|AR| BEIN SPORTS 7 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10075.ts
+#EXTINF:-1,|AR| BEIN SPORTS_8 SD
+http://212.8.248.94:2103/live/nani27/nani27/2607.ts
+#EXTINF:-1,|AR| BEIN SPORTS_8 HD
+http://212.8.248.94:2103/live/nani27/nani27/795.ts
+#EXTINF:-1,|AR| BEIN SPORTS 8 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10074.ts
+#EXTINF:-1,|AR| BEIN SPORTS_9 SD
+http://212.8.248.94:2103/live/nani27/nani27/2608.ts
+#EXTINF:-1,|AR| BEIN SPORTS_9 HD
+http://212.8.248.94:2103/live/nani27/nani27/796.ts
+#EXTINF:-1,|AR| BEIN SPORTS 9 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10073.ts
+#EXTINF:-1,|AR| BEIN SPORTS_10 HD
+http://212.8.248.94:2103/live/nani27/nani27/797.ts
+#EXTINF:-1,|AR| BEIN SPORTS 10 FHD
+http://212.8.248.94:2103/live/nani27/nani27/10072.ts
+#EXTINF:-1,|AR| BEIN SPORTS_10 SD
+http://212.8.248.94:2103/live/nani27/nani27/2609.ts
+#EXTINF:-1,|AR| BEIN SPORTS FHD
+http://212.8.248.94:2103/live/nani27/nani27/1454.ts
+#EXTINF:-1,|AR| BeIN Movies 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/111.ts
+#EXTINF:-1,|AR| BeIN Movies 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/346.ts
+#EXTINF:-1,|AR| BeIN Movies 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/112.ts
+#EXTINF:-1,|AR| BeIN Movies 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/933.ts
+#EXTINF:-1,|AR| BeIN Series HD 1
+http://212.8.248.94:2103/live/nani27/nani27/932.ts
+#EXTINF:-1,|AR| BeIN Series 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/3147.ts
+#EXTINF:-1,|AR| BeIN SERIES DRAMA HD
+http://212.8.248.94:2103/live/nani27/nani27/2830.ts
+#EXTINF:-1,|AR| BeIN DMAX HD
+http://212.8.248.94:2103/live/nani27/nani27/5232.ts
+#EXTINF:-1,|AR| BeIN FOX HD
+http://212.8.248.94:2103/live/nani27/nani27/5231.ts
+#EXTINF:-1,|AR| BeIN GOURMET HD
+http://212.8.248.94:2103/live/nani27/nani27/5239.ts
+#EXTINF:-1,|AR| BeIN TRAVEL CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/5223.ts
+#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_SD
+http://212.8.248.94:2103/live/nani27/nani27/361.ts
+#EXTINF:-1,|ES|BeIN_LALIGA_SD
+http://212.8.248.94:2103/live/nani27/nani27/362.ts
+#EXTINF:-1,------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------
+http://212.8.248.94:2103/live/nani27/nani27/197.ts
+#EXTINF:-1,|DZ| ENTV (PROGRAMME NATIONAL)
+http://212.8.248.94:2103/live/nani27/nani27/171.ts
+#EXTINF:-1,|DZ| Canal Algerie
+http://212.8.248.94:2103/live/nani27/nani27/173.ts
+#EXTINF:-1,|DZ| Canal Algerie HD
+http://212.8.248.94:2103/live/nani27/nani27/2825.ts
+#EXTINF:-1,|DZ| ALGERIE 3
+http://212.8.248.94:2103/live/nani27/nani27/225.ts
+#EXTINF:-1,|DZ| ALGERIE 3 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/1410.ts
+#EXTINF:-1,|DZ| ALGERIE 4
+http://212.8.248.94:2103/live/nani27/nani27/226.ts
+#EXTINF:-1,|DZ| ALGERIE 5
+http://212.8.248.94:2103/live/nani27/nani27/227.ts
+#EXTINF:-1,|DZ| CBC BENNA TV
+http://212.8.248.94:2103/live/nani27/nani27/325.ts
+#EXTINF:-1,|DZ| SAMIRA TV
+http://212.8.248.94:2103/live/nani27/nani27/176.ts
+#EXTINF:-1,|DZ| SAMIRA TV HD
+http://212.8.248.94:2103/live/nani27/nani27/3151.ts
+#EXTINF:-1,|DZ| BEUR TV
+http://212.8.248.94:2103/live/nani27/nani27/228.ts
+#EXTINF:-1,|DZ| BEUR TV SD
+http://212.8.248.94:2103/live/nani27/nani27/2805.ts
+#EXTINF:-1,|DZ| DZAIR TV
+http://212.8.248.94:2103/live/nani27/nani27/174.ts
+#EXTINF:-1,|DZ| DZAIR TV SD
+http://212.8.248.94:2103/live/nani27/nani27/2808.ts
+#EXTINF:-1,|DZ| DZAIR NEWS
+http://212.8.248.94:2103/live/nani27/nani27/229.ts
+#EXTINF:-1,|DZ| ECHOUROUK TV
+http://212.8.248.94:2103/live/nani27/nani27/175.ts
+#EXTINF:-1,|DZ| ECHOUROUK TV FHD
+http://212.8.248.94:2103/live/nani27/nani27/1559.ts
+#EXTINF:-1,|DZ| ECHOUROUK TV -6H
+http://212.8.248.94:2103/live/nani27/nani27/7049.ts
+#EXTINF:-1,|DZ| ECHOUROUK NEWS
+http://212.8.248.94:2103/live/nani27/nani27/230.ts
+#EXTINF:-1,|DZ| ECHOUROUK NEWS HD
+http://212.8.248.94:2103/live/nani27/nani27/1560.ts
+#EXTINF:-1,|DZ| EL BILAD TV
+http://212.8.248.94:2103/live/nani27/nani27/231.ts
+#EXTINF:-1,|DZ| El DJAZAIRIA TV
+http://212.8.248.94:2103/live/nani27/nani27/3016.ts
+#EXTINF:-1,|DZ| El DJAZAIRIA TV SD
+http://212.8.248.94:2103/live/nani27/nani27/232.ts
+#EXTINF:-1,|DZ| ENNAHAR TV
+http://212.8.248.94:2103/live/nani27/nani27/172.ts
+#EXTINF:-1,|DZ| ENNAHAR TV SD
+http://212.8.248.94:2103/live/nani27/nani27/2806.ts
+#EXTINF:-1,|DZ| NUMIDIA NEWS
+http://212.8.248.94:2103/live/nani27/nani27/236.ts
+#EXTINF:-1,|DZ| NUMIDIA NEWS HD
+http://212.8.248.94:2103/live/nani27/nani27/2810.ts
+#EXTINF:-1,|DZ| EL HEDDAF TV
+http://212.8.248.94:2103/live/nani27/nani27/233.ts
+#EXTINF:-1,|DZ| EL HEDDAF TV -6H
+http://212.8.248.94:2103/live/nani27/nani27/2809.ts
+#EXTINF:-1,|DZ| BAHIA TV
+http://212.8.248.94:2103/live/nani27/nani27/1112.ts
+#EXTINF:-1,|DZ| EL FADJR TV
+http://212.8.248.94:2103/live/nani27/nani27/1113.ts
+#EXTINF:-1,|DZ| CHAMS TV HD
+http://212.8.248.94:2103/live/nani27/nani27/3638.ts
+#EXTINF:-1,|DZ| NOSTALGIE TV ALGERIE
+http://212.8.248.94:2103/live/nani27/nani27/1532.ts
+#EXTINF:-1,|DZ| AL MAGHARIBIA
+http://212.8.248.94:2103/live/nani27/nani27/374.ts
+#EXTINF:-1,|DZ| AL MAGHARIBIA 2
+http://212.8.248.94:2103/live/nani27/nani27/2260.ts
+#EXTINF:-1,|DZ| BERBERE TV
+http://212.8.248.94:2103/live/nani27/nani27/949.ts
+#EXTINF:-1,|DZ| BERBERE JEUNESSE
+http://212.8.248.94:2103/live/nani27/nani27/950.ts
+#EXTINF:-1,|DZ| BERBERE MUSIC
+http://212.8.248.94:2103/live/nani27/nani27/1033.ts
+#EXTINF:-1,|MA| AL MAGHRIBIA MAROC
+http://212.8.248.94:2103/live/nani27/nani27/382.ts
+#EXTINF:-1,|MA| AL AOULA INTER MAROC
+http://212.8.248.94:2103/live/nani27/nani27/383.ts
+#EXTINF:-1,|MA| AL AOULA FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/1507.ts
+#EXTINF:-1,|MA| 2M MAROC HD
+http://212.8.248.94:2103/live/nani27/nani27/274.ts
+#EXTINF:-1,|MA| ARRIADIA MAROC HD
+http://212.8.248.94:2103/live/nani27/nani27/644.ts
+#EXTINF:-1,|MA| ARRABIAA
+http://212.8.248.94:2103/live/nani27/nani27/560.ts
+#EXTINF:-1,|MA| Assadissa
+http://212.8.248.94:2103/live/nani27/nani27/535.ts
+#EXTINF:-1,|MA| TAMAZIGHT
+http://212.8.248.94:2103/live/nani27/nani27/559.ts
+#EXTINF:-1,|MA| Medi1_SAT
+http://212.8.248.94:2103/live/nani27/nani27/411.ts
+#EXTINF:-1,|MA| MEDI 1 AFRIQUE FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/1447.ts
+#EXTINF:-1,|MA| TELE MAROC
+http://212.8.248.94:2103/live/nani27/nani27/1114.ts
+#EXTINF:-1,|TN| AL WATANIA 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/4376.ts
+#EXTINF:-1,|TN| AL WATANIA 1
+http://212.8.248.94:2103/live/nani27/nani27/408.ts
+#EXTINF:-1,|TN| AL WATANIA 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/4375.ts
+#EXTINF:-1,|TN| AL WATANIA 2
+http://212.8.248.94:2103/live/nani27/nani27/645.ts
+#EXTINF:-1,|TN| M TUNISIA
+http://212.8.248.94:2103/live/nani27/nani27/698.ts
+#EXTINF:-1,|TN| TUNISNA
+http://212.8.248.94:2103/live/nani27/nani27/409.ts
+#EXTINF:-1,|TN| NESSMA TNT
+http://212.8.248.94:2103/live/nani27/nani27/8724.ts
+#EXTINF:-1,|TN| NESSMA TV HD
+http://212.8.248.94:2103/live/nani27/nani27/334.ts
+#EXTINF:-1,|TN| HANNIBAL
+http://212.8.248.94:2103/live/nani27/nani27/410.ts
+#EXTINF:-1,|TN| ATTESIA TV
+http://212.8.248.94:2103/live/nani27/nani27/564.ts
+#EXTINF:-1,|TN| El Hiwar Ettounsi TV
+http://212.8.248.94:2103/live/nani27/nani27/562.ts
+#EXTINF:-1,|TN| TELVAZA TV
+http://212.8.248.94:2103/live/nani27/nani27/1510.ts
+#EXTINF:-1,|TN| ZAYTOUNA TV
+http://212.8.248.94:2103/live/nani27/nani27/565.ts
+#EXTINF:-1,|TN| AL JANOUBIA
+http://212.8.248.94:2103/live/nani27/nani27/1785.ts
+#EXTINF:-1,|TN| AL INSEN TV
+http://212.8.248.94:2103/live/nani27/nani27/1115.ts
+#EXTINF:-1,|TN| AL MUSTAKILAH
+http://212.8.248.94:2103/live/nani27/nani27/1111.ts
+#EXTINF:-1,|TN| SAHEL TV HD
+http://212.8.248.94:2103/live/nani27/nani27/6974.ts
+#EXTINF:-1,------▼|AE|-CHAINES.ARABE-|AE|▼------
+http://212.8.248.94:2103/live/nani27/nani27/199.ts
+#EXTINF:-1,|AR| MBC 1
+http://212.8.248.94:2103/live/nani27/nani27/1786.ts
+#EXTINF:-1,|AR| MBC 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/94.ts
+#EXTINF:-1,|AR| MBC 2
+http://212.8.248.94:2103/live/nani27/nani27/1787.ts
+#EXTINF:-1,|AR| MBC 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/109.ts
+#EXTINF:-1,|AR| MBC 3
+http://212.8.248.94:2103/live/nani27/nani27/1788.ts
+#EXTINF:-1,|AR| MBC 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/110.ts
+#EXTINF:-1,|AR| MBC 4
+http://212.8.248.94:2103/live/nani27/nani27/1789.ts
+#EXTINF:-1,|AR| MBC 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/319.ts
+#EXTINF:-1,|AR| MBC ACTION
+http://212.8.248.94:2103/live/nani27/nani27/521.ts
+#EXTINF:-1,|AR| MBC ACTION HD
+http://212.8.248.94:2103/live/nani27/nani27/2852.ts
+#EXTINF:-1,|AR| MBC BOLLYWOOD
+http://212.8.248.94:2103/live/nani27/nani27/320.ts
+#EXTINF:-1,|AR| MBC MAX HD
+http://212.8.248.94:2103/live/nani27/nani27/321.ts
+#EXTINF:-1,|AR| MBC DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/215.ts
+#EXTINF:-1,|AR| MBC DRAMA HD
+http://212.8.248.94:2103/live/nani27/nani27/2269.ts
+#EXTINF:-1,|AR| MBC MASR
+http://212.8.248.94:2103/live/nani27/nani27/416.ts
+#EXTINF:-1,|AR| MBC MASR 2
+http://212.8.248.94:2103/live/nani27/nani27/420.ts
+#EXTINF:-1,|AR| MBC DRAMA PLUS HD
+http://212.8.248.94:2103/live/nani27/nani27/616.ts
+#EXTINF:-1,|AR| MY HD MBC VARIETY HD
+http://212.8.248.94:2103/live/nani27/nani27/2256.ts
+#EXTINF:-1,|AR| MY HD FOX ACTION MOVIES HD
+http://212.8.248.94:2103/live/nani27/nani27/954.ts
+#EXTINF:-1,|AR| MY HD FOX FAMILY MOVIES HD
+http://212.8.248.94:2103/live/nani27/nani27/2254.ts
+#EXTINF:-1,|AR| MY HD FX HD
+http://212.8.248.94:2103/live/nani27/nani27/2255.ts
+#EXTINF:-1,|AR| ROTANA AFLAM
+http://212.8.248.94:2103/live/nani27/nani27/385.ts
+#EXTINF:-1,|AR| ROTANA KHALIJIA
+http://212.8.248.94:2103/live/nani27/nani27/598.ts
+#EXTINF:-1,|AR| ROTANA CINEMA
+http://212.8.248.94:2103/live/nani27/nani27/386.ts
+#EXTINF:-1,|AR| ROTANA CINEMA HD
+http://212.8.248.94:2103/live/nani27/nani27/1791.ts
+#EXTINF:-1,|AR| ROTANA MASSRIYA
+http://212.8.248.94:2103/live/nani27/nani27/384.ts
+#EXTINF:-1,|AR| ROTANA CLASSIC
+http://212.8.248.94:2103/live/nani27/nani27/601.ts
+#EXTINF:-1,|AR| ROTANA CLIP
+http://212.8.248.94:2103/live/nani27/nani27/599.ts
+#EXTINF:-1,|AR| ROTANA MUSIC
+http://212.8.248.94:2103/live/nani27/nani27/600.ts
+#EXTINF:-1,|AR| AGHANI AGHANI
+http://212.8.248.94:2103/live/nani27/nani27/1586.ts
+#EXTINF:-1,|AR| ARABICA TV
+http://212.8.248.94:2103/live/nani27/nani27/1784.ts
+#EXTINF:-1,|AR| ART AFLAM 1
+http://212.8.248.94:2103/live/nani27/nani27/352.ts
+#EXTINF:-1,|AR| ART AFLAM 2
+http://212.8.248.94:2103/live/nani27/nani27/353.ts
+#EXTINF:-1,|AR| ART HEKAYAT 1
+http://212.8.248.94:2103/live/nani27/nani27/647.ts
+#EXTINF:-1,|AR| ART HEKAYAT 2
+http://212.8.248.94:2103/live/nani27/nani27/648.ts
+#EXTINF:-1,|AR| ART CINEMA
+http://212.8.248.94:2103/live/nani27/nani27/658.ts
+#EXTINF:-1,|AR| ZEE AFLAM
+http://212.8.248.94:2103/live/nani27/nani27/415.ts
+#EXTINF:-1,|AR| ZEE ALWAN
+http://212.8.248.94:2103/live/nani27/nani27/413.ts
+#EXTINF:-1,|AR| B4U AFLAM
+http://212.8.248.94:2103/live/nani27/nani27/650.ts
+#EXTINF:-1,|AR| B4U PLUS
+http://212.8.248.94:2103/live/nani27/nani27/1511.ts
+#EXTINF:-1,|AR| OSN ALSAFWA
+http://212.8.248.94:2103/live/nani27/nani27/7083.ts
+#EXTINF:-1,|AR| OSN ALYOUM
+http://212.8.248.94:2103/live/nani27/nani27/7082.ts
+#EXTINF:-1,|AR| OSN CINEMA 1
+http://212.8.248.94:2103/live/nani27/nani27/7081.ts
+#EXTINF:-1,|AR| OSN CINEMA 2
+http://212.8.248.94:2103/live/nani27/nani27/7080.ts
+#EXTINF:-1,|AR| OSN FANN
+http://212.8.248.94:2103/live/nani27/nani27/7052.ts
+#EXTINF:-1,|AR| OSN YA HALA AOULA HD
+http://212.8.248.94:2103/live/nani27/nani27/516.ts
+#EXTINF:-1,|AR| OSN YA HALA AL OULA +2H HD
+http://212.8.248.94:2103/live/nani27/nani27/7053.ts
+#EXTINF:-1,|AR| OSN YA HALA HD
+http://212.8.248.94:2103/live/nani27/nani27/7054.ts
+#EXTINF:-1,|AR| OSN YA HALA CINEMA HD
+http://212.8.248.94:2103/live/nani27/nani27/1207.ts
+#EXTINF:-1,|AR| OSN MOVIES  +2H HD
+http://212.8.248.94:2103/live/nani27/nani27/7068.ts
+#EXTINF:-1,|AR| OSN MOVIES ACTION +2H HD
+http://212.8.248.94:2103/live/nani27/nani27/7067.ts
+#EXTINF:-1,|AR| OSN MOVIES COMEDY HD
+http://212.8.248.94:2103/live/nani27/nani27/4370.ts
+#EXTINF:-1,|AR| OSN MOVIES FIRST +2 HD
+http://212.8.248.94:2103/live/nani27/nani27/4368.ts
+#EXTINF:-1,|AR| OSN MOVIES FIRST HD
+http://212.8.248.94:2103/live/nani27/nani27/7066.ts
+#EXTINF:-1,|AR| OSN MOVIES HD
+http://212.8.248.94:2103/live/nani27/nani27/4371.ts
+#EXTINF:-1,|AR| OSN DISNEY XD HD
+http://212.8.248.94:2103/live/nani27/nani27/1205.ts
+#EXTINF:-1,|AR| OSN MOVIES KIDS HD
+http://212.8.248.94:2103/live/nani27/nani27/1206.ts
+#EXTINF:-1,|AR| OSN MOVIES THRILLER HD
+http://212.8.248.94:2103/live/nani27/nani27/513.ts
+#EXTINF:-1,|AR| OSN MOVIES ACTION HD
+http://212.8.248.94:2103/live/nani27/nani27/2769.ts
+#EXTINF:-1,|AR| OSN ON DEMAND HD
+http://212.8.248.94:2103/live/nani27/nani27/2770.ts
+#EXTINF:-1,|AR| OSN SERIES CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/7064.ts
+#EXTINF:-1,|AR| OSN SERIES COMEDY HD
+http://212.8.248.94:2103/live/nani27/nani27/7059.ts
+#EXTINF:-1,|AR| OSN STAR MOVIE HD
+http://212.8.248.94:2103/live/nani27/nani27/7056.ts
+#EXTINF:-1,|AR| OSN STAR WORLD HD
+http://212.8.248.94:2103/live/nani27/nani27/7057.ts
+#EXTINF:-1,|AR| OSN SYFY HD
+http://212.8.248.94:2103/live/nani27/nani27/7055.ts
+#EXTINF:-1,|AR| OSN DISNEY CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/7075.ts
+#EXTINF:-1,|AR| OSN DISNEY JUNIOR HD
+http://212.8.248.94:2103/live/nani27/nani27/7074.ts
+#EXTINF:-1,|AR| OSN KID ZONE TV
+http://212.8.248.94:2103/live/nani27/nani27/7060.ts
+#EXTINF:-1,|AR| OSN ANIMAL PLANET HD
+http://212.8.248.94:2103/live/nani27/nani27/7079.ts
+#EXTINF:-1,|AR| OSN DISCOVERY CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/7077.ts
+#EXTINF:-1,|AR| OSN DISCOVERY SCIENCE HD
+http://212.8.248.94:2103/live/nani27/nani27/7076.ts
+#EXTINF:-1,|AR| OSN NAT GEO HD
+http://212.8.248.94:2103/live/nani27/nani27/7062.ts
+#EXTINF:-1,|AR| OSN NAT GEO PEOPLE HD
+http://212.8.248.94:2103/live/nani27/nani27/7094.ts
+#EXTINF:-1,|AR| OSN NAT GEO WILD HD
+http://212.8.248.94:2103/live/nani27/nani27/7061.ts
+#EXTINF:-1,|AR| OSN HISTORY CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/7069.ts
+#EXTINF:-1,|AR| OSN LIVING HD
+http://212.8.248.94:2103/live/nani27/nani27/7070.ts
+#EXTINF:-1,|AR| OSN SPORTS ACTION 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/7058.ts
+#EXTINF:-1,|AR| OSN SPORTS ACTION 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/4373.ts
+#EXTINF:-1,|AR| OSN SPORTS 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/7089.ts
+#EXTINF:-1,|AR| OSN SPORTS 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/7090.ts
+#EXTINF:-1,|AR| OSN WWE NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/2664.ts
+#EXTINF:-1,|AR| OSN E! HD
+http://212.8.248.94:2103/live/nani27/nani27/7073.ts
+#EXTINF:-1,|AR| OSN FASHION HD
+http://212.8.248.94:2103/live/nani27/nani27/7072.ts
+#EXTINF:-1,|AR| OSN MTV LIVE HD
+http://212.8.248.94:2103/live/nani27/nani27/7065.ts
+#EXTINF:-1,|AR| OSN MUSIC NOW HD
+http://212.8.248.94:2103/live/nani27/nani27/7063.ts
+#EXTINF:-1,|AR| OSN TRACE TV HD
+http://212.8.248.94:2103/live/nani27/nani27/7085.ts
+#EXTINF:-1,|AR| OSN VH-1 HD
+http://212.8.248.94:2103/live/nani27/nani27/7084.ts
+#EXTINF:-1,|AR| BeIN FATAFEAT HD
+http://212.8.248.94:2103/live/nani27/nani27/963.ts
+#EXTINF:-1,|AR| DUBAI HD
+http://212.8.248.94:2103/live/nani27/nani27/681.ts
+#EXTINF:-1,|AR| DUBAI ONE
+http://212.8.248.94:2103/live/nani27/nani27/682.ts
+#EXTINF:-1,|AR| DUBAI ZAMAN
+http://212.8.248.94:2103/live/nani27/nani27/590.ts
+#EXTINF:-1,|AR| NOOR DUBAI
+http://212.8.248.94:2103/live/nani27/nani27/683.ts
+#EXTINF:-1,|AR| ABU DHABI TV
+http://212.8.248.94:2103/live/nani27/nani27/2804.ts
+#EXTINF:-1,|AR| ABU DHABI DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/354.ts
+#EXTINF:-1,|AR| LBC SAT
+http://212.8.248.94:2103/live/nani27/nani27/680.ts
+#EXTINF:-1,|AR| AL JADEED
+http://212.8.248.94:2103/live/nani27/nani27/5973.ts
+#EXTINF:-1,|AR| MTV LEBANON
+http://212.8.248.94:2103/live/nani27/nani27/684.ts
+#EXTINF:-1,|AR| AL HAYAT 1
+http://212.8.248.94:2103/live/nani27/nani27/5089.ts
+#EXTINF:-1,|AR| AL HAYAT 2
+http://212.8.248.94:2103/live/nani27/nani27/5090.ts
+#EXTINF:-1,|AR| AL HAYAT SERIES
+http://212.8.248.94:2103/live/nani27/nani27/5091.ts
+#EXTINF:-1,|AR| AL HAYAT WE ALNAS
+http://212.8.248.94:2103/live/nani27/nani27/5088.ts
+#EXTINF:-1,|AR| CBC
+http://212.8.248.94:2103/live/nani27/nani27/699.ts
+#EXTINF:-1,|AR| CBC DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/700.ts
+#EXTINF:-1,|AR| CBC EXTRA
+http://212.8.248.94:2103/live/nani27/nani27/1795.ts
+#EXTINF:-1,|AR| CBC SOFRA
+http://212.8.248.94:2103/live/nani27/nani27/701.ts
+#EXTINF:-1,|AR| NBN
+http://212.8.248.94:2103/live/nani27/nani27/1299.ts
+#EXTINF:-1,|AR| NILE CINEMA
+http://212.8.248.94:2103/live/nani27/nani27/686.ts
+#EXTINF:-1,|AR| NILE COMEDY
+http://212.8.248.94:2103/live/nani27/nani27/687.ts
+#EXTINF:-1,|AR| NILE DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/685.ts
+#EXTINF:-1,|AR| NILE LIFE
+http://212.8.248.94:2103/live/nani27/nani27/1300.ts
+#EXTINF:-1,|AR| NILE SPORTS
+http://212.8.248.94:2103/live/nani27/nani27/725.ts
+#EXTINF:-1,|AR| AL NAHAR CINEMA
+http://212.8.248.94:2103/live/nani27/nani27/735.ts
+#EXTINF:-1,|AR| AL NAHAR DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/734.ts
+#EXTINF:-1,|AR| AL MASRIYA
+http://212.8.248.94:2103/live/nani27/nani27/1767.ts
+#EXTINF:-1,|AR| AL KAHERA WAL NESS
+http://212.8.248.94:2103/live/nani27/nani27/1509.ts
+#EXTINF:-1,|AR| ENNAHAR ONE
+http://212.8.248.94:2103/live/nani27/nani27/1794.ts
+#EXTINF:-1,|AR| ON TV
+http://212.8.248.94:2103/live/nani27/nani27/728.ts
+#EXTINF:-1,|AR| ON SPORT TV
+http://212.8.248.94:2103/live/nani27/nani27/729.ts
+#EXTINF:-1,|AR| DREAM 2
+http://212.8.248.94:2103/live/nani27/nani27/1783.ts
+#EXTINF:-1,|AR| FUJAIRAH FHD
+http://212.8.248.94:2103/live/nani27/nani27/1771.ts
+#EXTINF:-1,|AR| FUNOON
+http://212.8.248.94:2103/live/nani27/nani27/1769.ts
+#EXTINF:-1,|AR| DUBAI RACING 1
+http://212.8.248.94:2103/live/nani27/nani27/2252.ts
+#EXTINF:-1,|AR| DUBAI RACING 2
+http://212.8.248.94:2103/live/nani27/nani27/2253.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1445.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 2 FHD
+http://212.8.248.94:2103/live/nani27/nani27/1446.ts
+#EXTINF:-1,|AR| AL MAYADEEN TV
+http://212.8.248.94:2103/live/nani27/nani27/760.ts
+#EXTINF:-1,|AR| AL RASHEED
+http://212.8.248.94:2103/live/nani27/nani27/759.ts
+#EXTINF:-1,|AR| DMC DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/5094.ts
+#EXTINF:-1,|AR| DMC HD
+http://212.8.248.94:2103/live/nani27/nani27/5093.ts
+#EXTINF:-1,|AR| DMC SPORTS
+http://212.8.248.94:2103/live/nani27/nani27/2612.ts
+#EXTINF:-1,|AR| LIBYA 218
+http://212.8.248.94:2103/live/nani27/nani27/7037.ts
+#EXTINF:-1,|AR| LIBYA 24
+http://212.8.248.94:2103/live/nani27/nani27/7038.ts
+#EXTINF:-1,|AR| LIBYA AL RASMEYA
+http://212.8.248.94:2103/live/nani27/nani27/7040.ts
+#EXTINF:-1,|AR| LIBYA ALAHRAR
+http://212.8.248.94:2103/live/nani27/nani27/7039.ts
+#EXTINF:-1,|AR| LYBIA ONE
+http://212.8.248.94:2103/live/nani27/nani27/762.ts
+#EXTINF:-1,|AR| LYBIA TV
+http://212.8.248.94:2103/live/nani27/nani27/761.ts
+#EXTINF:-1,|AR| Qatar TV HD
+http://212.8.248.94:2103/live/nani27/nani27/5403.ts
+#EXTINF:-1,|AR| PALESTINE
+http://212.8.248.94:2103/live/nani27/nani27/758.ts
+#EXTINF:-1,|AR| PANORAMA DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/766.ts
+#EXTINF:-1,|AR| PANORAMA DRAMA 2
+http://212.8.248.94:2103/live/nani27/nani27/1483.ts
+#EXTINF:-1,|AR| KUWEIT TV 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1773.ts
+#EXTINF:-1,|AR| KUWEIT TV 2 FHD
+http://212.8.248.94:2103/live/nani27/nani27/1775.ts
+#EXTINF:-1,|AR| KUWEIT TV AL.ARABI FHD
+http://212.8.248.94:2103/live/nani27/nani27/1776.ts
+#EXTINF:-1,|AR| KUWEIT TV AL.QURAN FHD
+http://212.8.248.94:2103/live/nani27/nani27/1778.ts
+#EXTINF:-1,|AR| KUWEIT TV ETHRAA HD
+http://212.8.248.94:2103/live/nani27/nani27/1777.ts
+#EXTINF:-1,|AR| KUWEIT TV PLUS FHD
+http://212.8.248.94:2103/live/nani27/nani27/1774.ts
+#EXTINF:-1,|AR| KUWEIT TV SPORT FHD
+http://212.8.248.94:2103/live/nani27/nani27/1779.ts
+#EXTINF:-1,|AR| AL DAFRAH
+http://212.8.248.94:2103/live/nani27/nani27/1770.ts
+#EXTINF:-1,|AR| AL MAJLIS FHD
+http://212.8.248.94:2103/live/nani27/nani27/1772.ts
+#EXTINF:-1,|AR| AL SHAREYAH CHANNEL
+http://212.8.248.94:2103/live/nani27/nani27/1768.ts
+#EXTINF:-1,|AR| AL FALUJAH HD
+http://212.8.248.94:2103/live/nani27/nani27/771.ts
+#EXTINF:-1,|AR| AL KASS ONE HD
+http://212.8.248.94:2103/live/nani27/nani27/1763.ts
+#EXTINF:-1,|AR| AL KASS TWO HD
+http://212.8.248.94:2103/live/nani27/nani27/1764.ts
+#EXTINF:-1,|AR| AL KASS FOUR HD
+http://212.8.248.94:2103/live/nani27/nani27/1765.ts
+#EXTINF:-1,|AR| SAUDI 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/730.ts
+#EXTINF:-1,|AR| SAUDI SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/731.ts
+#EXTINF:-1,|AR| SYRIA CHANNEL
+http://212.8.248.94:2103/live/nani27/nani27/726.ts
+#EXTINF:-1,|AR| SYRIA DRAMA
+http://212.8.248.94:2103/live/nani27/nani27/727.ts
+#EXTINF:-1,|AR| NOUR SHAM
+http://212.8.248.94:2103/live/nani27/nani27/1793.ts
+#EXTINF:-1,|AR| SAMA SYRIA
+http://212.8.248.94:2103/live/nani27/nani27/768.ts
+#EXTINF:-1,|AR| AL JAZEERA
+http://212.8.248.94:2103/live/nani27/nani27/6057.ts
+#EXTINF:-1,|AR| AL JAZEERA ENGLISH
+http://212.8.248.94:2103/live/nani27/nani27/7028.ts
+#EXTINF:-1,|AR| AL JAZEERA MUBASHER
+http://212.8.248.94:2103/live/nani27/nani27/7029.ts
+#EXTINF:-1,|AR| AL JAZEERA FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/269.ts
+#EXTINF:-1,|AR| AL ARABIYA FHD
+http://212.8.248.94:2103/live/nani27/nani27/343.ts
+#EXTINF:-1,|AR| FRANCE 24 (EN)
+http://212.8.248.94:2103/live/nani27/nani27/344.ts
+#EXTINF:-1,|AR| SKY NEWS ARABIYA
+http://212.8.248.94:2103/live/nani27/nani27/585.ts
+#EXTINF:-1,|AR| EURONEWS
+http://212.8.248.94:2103/live/nani27/nani27/871.ts
+#EXTINF:-1,|AR| TRT ARABIYA
+http://212.8.248.94:2103/live/nani27/nani27/2614.ts
+#EXTINF:-1,|AR| HIWAR NEWS
+http://212.8.248.94:2103/live/nani27/nani27/869.ts
+#EXTINF:-1,|AR| ALAAN TV
+http://212.8.248.94:2103/live/nani27/nani27/755.ts
+#EXTINF:-1,|AR| BBC ARABIA
+http://212.8.248.94:2103/live/nani27/nani27/754.ts
+#EXTINF:-1,|AR| AL JAZEERA DOCUMENTARY
+http://212.8.248.94:2103/live/nani27/nani27/345.ts
+#EXTINF:-1,|AR| NATIONAL GEO AD
+http://212.8.248.94:2103/live/nani27/nani27/332.ts
+#EXTINF:-1,|AR| NATIONAL GEO AD FHD
+http://212.8.248.94:2103/live/nani27/nani27/1561.ts
+#EXTINF:-1,|AR| IQRA
+http://212.8.248.94:2103/live/nani27/nani27/523.ts
+#EXTINF:-1,|AR| AL IMAN
+http://212.8.248.94:2103/live/nani27/nani27/7030.ts
+#EXTINF:-1,|AR| AL MAJD 1
+http://212.8.248.94:2103/live/nani27/nani27/7032.ts
+#EXTINF:-1,|AR| AL MAJD HADITH
+http://212.8.248.94:2103/live/nani27/nani27/3641.ts
+#EXTINF:-1,|AR| IQRA EUROPE
+http://212.8.248.94:2103/live/nani27/nani27/2250.ts
+#EXTINF:-1,|AR| AL RESALA
+http://212.8.248.94:2103/live/nani27/nani27/649.ts
+#EXTINF:-1,|AR| AL NASS TV
+http://212.8.248.94:2103/live/nani27/nani27/387.ts
+#EXTINF:-1,|AR| AL AFASY
+http://212.8.248.94:2103/live/nani27/nani27/7233.ts
+#EXTINF:-1,|AR| AL RAHMA
+http://212.8.248.94:2103/live/nani27/nani27/724.ts
+#EXTINF:-1,|AR| SAUDI QURAN
+http://212.8.248.94:2103/live/nani27/nani27/272.ts
+#EXTINF:-1,|AR| SAUDI SUNNA HD
+http://212.8.248.94:2103/live/nani27/nani27/732.ts
+#EXTINF:-1,|AR| MAKKAH TV
+http://212.8.248.94:2103/live/nani27/nani27/757.ts
+#EXTINF:-1,|AR| AL MAJD QURAN
+http://212.8.248.94:2103/live/nani27/nani27/270.ts
+#EXTINF:-1,|AR| AL MANAR
+http://212.8.248.94:2103/live/nani27/nani27/765.ts
+#EXTINF:-1,|AR| AL INSEN
+http://212.8.248.94:2103/live/nani27/nani27/1780.ts
+#EXTINF:-1,|AR| SPACETOON
+http://212.8.248.94:2103/live/nani27/nani27/568.ts
+#EXTINF:-1,|AR| BeIN BARAEM KID
+http://212.8.248.94:2103/live/nani27/nani27/583.ts
+#EXTINF:-1,|AR| AD NAT GEO KIDS
+http://212.8.248.94:2103/live/nani27/nani27/5221.ts
+#EXTINF:-1,|AR| BeIN JEEM
+http://212.8.248.94:2103/live/nani27/nani27/524.ts
+#EXTINF:-1,|AR| CARTOON NETWORK ARABIA
+http://212.8.248.94:2103/live/nani27/nani27/414.ts
+#EXTINF:-1,|AR| TOYOR EL JANNAH
+http://212.8.248.94:2103/live/nani27/nani27/271.ts
+#EXTINF:-1,|AR| TOYOR BABY
+http://212.8.248.94:2103/live/nani27/nani27/534.ts
+#EXTINF:-1,|AR| AJYAL TV HD
+http://212.8.248.94:2103/live/nani27/nani27/1766.ts
+#EXTINF:-1,|AR| AL MAJD KIDS
+http://212.8.248.94:2103/live/nani27/nani27/679.ts
+#EXTINF:-1,|AR| MICKEY CHANNEL
+http://212.8.248.94:2103/live/nani27/nani27/2259.ts
+
+#EXTINF:-1,|AR|_MBC_2
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
+#EXTINF:-1,|AR|_MBC_4
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
+#EXTINF:-1,|AR|_MBC_1 www.forfreeiptv.com
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
+#EXTINF:-1,|AR|_Majed_Kids
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.ts
+#EXTINF:-1,|AR|_Makkah_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
+#EXTINF:-1,|AR|_SAUDI_SONNA_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/5.ts
+#EXTINF:-1,|AR|_SAUDI_QURAN_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/4.ts
+#EXTINF:-1,|AR|_DUBAI_ONE_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.ts
+#EXTINF:-1,|AR|_ABUDHABI_Emirat
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
+#EXTINF:-1,|AR|_2M_MAROC www.forfreeiptv.com
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.ts
+#EXTINF:-1,|AR|_medi1afrique
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/95.ts
+#EXTINF:-1,|AR|_Libya_Hadash
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.ts
+#EXTINF:-1,|AR|_Libya_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/81.ts
+#EXTINF:-1,|AR|_Libya_One
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/78.ts
+#EXTINF:-1,|AR|_Libya218
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.ts
+#EXTINF:-1,|AR|_Libya_24
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/80.ts
+#EXTINF:-1,|AR|_AD_Drama
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
+#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
+#EXTINF:-1,|AR|_Al_Arabiya
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
+#EXTINF:-1,|AR|_Al_Hadath
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
+#EXTINF:-1,|AR|_MTV_lebenon
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
+#EXTINF:-1,|AR|_ABU_DHABI_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
+#EXTINF:-1,|AR|_SAUDI_1_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/2.ts
+#EXTINF:-1,|AR|_SAMA_DUBAI_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
+#EXTINF:-1,|AR|_NOUR_DUBAI
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
+#EXTINF:-1,|AR|_FUTURE_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
+#EXTINF:-1,|AR|_DW_AR
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
+#EXTINF:-1,|AR|_DUBAI_ZAMAN
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
+#EXTINF:-1,|AR|_DUBAI_TV_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
+#EXTINF:-1,|AR|_SHARJAH_SPORTS
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
+#EXTINF:-1,|AR|_SAUDI_RIYADHIYA_1_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/9.ts
+#EXTINF:-1,|AR|_DUBAI_RACING_1_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
+#EXTINF:-1,|AR|_DUBAI_RACING_2_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.ts
+#EXTINF:-1,|AR|_DUBAI_SPORTS_3_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
+#EXTINF:-1,|AR|_SAUDI_2_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.ts
+#EXTINF:-1,|AR|_ROTANA_KHALIJIA_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/125.ts
+#EXTINF:-1,|AR|_BAHRAIN_SPORTS
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
+#EXTINF:-1,|AR|_BAHRAIN_QURAN
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/139.ts
+#EXTINF:-1,|AR|_BAHRAIN_INTERNATIONAL
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.ts
+#EXTINF:-1,|AR|_TOYOR_ALJANAH
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/126.ts
+#EXTINF:-1,|AR|_BAHRAIN_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/137.ts
+#EXTINF:-1,|AR|_TUNISIE_NAT1_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.ts
+#EXTINF:-1,|AR|_TUNISIE_NAT2_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.ts
+#EXTINF:-1,|AR|_Elhiwar_Ettounsi
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.ts
+#EXTINF:-1,|AR|_ZITOUNA
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/60.ts
+#EXTINF:-1,|AR|_Aouala
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/55.ts
+#EXTINF:-1,|AR|_FRANCE_24_AR
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
+#EXTINF:-1,|AR|_Sky_News_Arabic
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
+#EXTINF:-1,|AR|_BBC_Arabic
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
+#EXTINF:-1,www.forfreeiptv.com |AR|_ALAAN_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
+#EXTINF:-1,|AR|_RUSSIA ALYAOUM_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
+#EXTINF:-1,|AR|_hiwar_news
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
+#EXTINF:-1,|AR|_Alalam_news
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
+#EXTINF:-1,|AR|_SAUDI_ALIKHBARIYA_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.ts
+#EXTINF:-1,|AR|_Space_Toon
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
+#EXTINF:-1,|AR|_CBC_Drama
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
+#EXTINF:-1,|AR|_Nahar_Drama_Egypt
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
+#EXTINF:-1,|AR|_Palestine
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/101.ts
+#EXTINF:-1,|AR|_ALMAYADEEN_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/87.ts
+#EXTINF:-1,|AR|_TRT_Arabiya
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/73.ts
+#EXTINF:-1,|AR|_Nahar_TV_Egypt
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
+#EXTINF:-1,|AR|_Jordon_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/74.ts
+#EXTINF:-1,|AR|_ALCHARQIYA
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/98.ts
+#EXTINF:-1,|AR|_Al_Manar_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
+#EXTINF:-1,|AR|_ALRAI_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/50.ts
+#EXTINF:-1,|AR|_Syrian_Drama
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
+#EXTINF:-1,|AR|_SAMA_SYRIA
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts
+#EXTINF:-1,|AR|_SHARQIYA_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.ts
+#EXTINF:-1,|AR|_ON_E
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
+#EXTINF:-1,|AR|_Qatar_TV_HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
+
+#EXTINF:-1,OSN-Movies HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1047.m3u8
+#EXTINF:-1,OSN-Movies 2h
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1046.m3u8
+#EXTINF:-1,OSN-Movies Firest
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1045.m3u8
+#EXTINF:-1,OSN-Movies Kids HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1017.m3u8
+#EXTINF:-1,OSN-Movies-Action
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1044.m3u8
+#EXTINF:-1,OSN-Movies-Comedy
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1043.m3u8
+#EXTINF:-1,OSN-MOVIES-FESTIVAL-HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1041.m3u8
+#EXTINF:-1,OSN-Movies-Thriller
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1040.m3u8
+#EXTINF:-1,OSN-MUSALSALAT
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1002.m3u8
+#EXTINF:-1,OSN-MUSIC-NOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1001.m3u8
+#EXTINF:-1,OSN-Star-Movis
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1035.m3u8
+#EXTINF:-1,OSN-Star-World
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1034.m3u8
+#EXTINF:-1,OSN-Yahala Alaula
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1004.m3u8
+#EXTINF:-1,OSN-Yahala Cinema
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1003.m3u8
+#EXTINF:-1,OSN-Yahala HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1005.m3u8
+#EXTINF:-1,OSN-CENIMA1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1007.m3u8
+#EXTINF:-1,OSN-CENIMA2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1006.m3u8
+#EXTINF:-1,OSN-ALYAWM HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1032.m3u8
+#EXTINF:-1,OSN-ANIMAL-PLANET
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1031.m3u8
+#EXTINF:-1,OSN-B4U-Aflam
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1030.m3u8
+#EXTINF:-1,OSN-BBC First HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1029.m3u8
+#EXTINF:-1,OSN-Box-OFFICE-1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1039.m3u8
+#EXTINF:-1,OSN-BOX-OFFICE-2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1038.m3u8
+#EXTINF:-1,OSN-BOX-OFFICE-3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1037.m3u8
+#EXTINF:-1,OSN-Comedy Central HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1028.m3u8
+#EXTINF:-1,OSN-Discovery Family HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1027.m3u8
+#EXTINF:-1,OSN-Discovery IDX HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1026.m3u8
+#EXTINF:-1,OSN-Discovery-Channel
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1025.m3u8
+#EXTINF:-1,OSN-DISCOVERY-SCIENCE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1024.m3u8
+#EXTINF:-1,OSN-Disney Channel HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1023.m3u8
+#EXTINF:-1,OSN-Disney Junior
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1022.m3u8
+#EXTINF:-1,OSN-Disney XD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1021.m3u8
+#EXTINF:-1,OSN-Fight Box HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1019.m3u8
+#EXTINF:-1,OSN-First HBO
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1042.m3u8
+#EXTINF:-1,OSN-Nat Geo
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1015.m3u8
+#EXTINF:-1,OSN-NAT-GEO-WILD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1013.m3u8
+#EXTINF:-1,OSN-Nickelodeon HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1012.m3u8
+#EXTINF:-1,OSN-Series HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1036.m3u8
+#EXTINF:-1,OSN-Syfy
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1000.m3u8
+#EXTINF:-1,OSN-WWE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/999.m3u8
+#EXTINF:-1,beIN_Baby_TV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4634.m3u8
+#EXTINF:-1,beIN_be_Junior_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4633.m3u8
+#EXTINF:-1,beIN_Boomerang_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4632.m3u8
+#EXTINF:-1,beIN_DMAX_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4631.m3u8
+#EXTINF:-1,beIN_Drama_1_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4630.m3u8
+#EXTINF:-1,beIN_DreamWorks_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4629.m3u8
+#EXTINF:-1,beIN_DTX_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4628.m3u8
+#EXTINF:-1,beIN_Fatafeat_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4627.m3u8
+#EXTINF:-1,beIN_Gourmet_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4626.m3u8
+#EXTINF:-1,beIN_HGTV_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4625.m3u8
+#EXTINF:-1,beIN_Jeem_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4624.m3u8
+#EXTINF:-1,beIN_Travel_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4623.m3u8
+#EXTINF:-1,MYHD:MBC_2_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4645.m3u8
+#EXTINF:-1,MYHD:MBC_3_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4644.m3u8
+#EXTINF:-1,MYHD:MBC_4_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4643.m3u8
+#EXTINF:-1,MYHD:MBC_ACTION
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4642.m3u8
+#EXTINF:-1,MYHD:MBC_Bollywood_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4641.m3u8
+#EXTINF:-1,MYHD:MBC_Drama _HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4640.m3u8
+#EXTINF:-1,MYHD:MBC_Masr
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4639.m3u8
+#EXTINF:-1,MYHD:MBC_Masr_2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4638.m3u8
+#EXTINF:-1,MYHD:MBC_MAX_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4637.m3u8
+#EXTINF:-1,MYHD:MBC_Variety_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4636.m3u8
+#EXTINF:-1,NILE:AL_Aqsa
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4714.m3u8
+#EXTINF:-1,NILE:Al-Nahar-Drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4713.m3u8
+#EXTINF:-1,NILE:AlAhly
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4660.m3u8
+#EXTINF:-1,NILE:AlHayat
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4740.m3u8
+#EXTINF:-1,NILE:AlHayat2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4739.m3u8
+#EXTINF:-1,NILE:Alkahera Wa Alnas 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4736.m3u8
+#EXTINF:-1,NILE:AlKAHERA_WALNAS
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4735.m3u8
+#EXTINF:-1,NILE:AlNahar
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4733.m3u8
+#EXTINF:-1,NILE:AlNahar-drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4732.m3u8
+#EXTINF:-1,NILE:B4U Aflam
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4731.m3u8
+#EXTINF:-1,NILE:B4U_PLUS
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4730.m3u8
+#EXTINF:-1,NILE:Beur-tv
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4729.m3u8
+#EXTINF:-1,NILE:CAIRO_AFLAM
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4728.m3u8
+#EXTINF:-1,NILE:CATV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4737.m3u8
+#EXTINF:-1,NILE:CBC
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4742.m3u8
+#EXTINF:-1,NILE:CBC_DRAMA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4741.m3u8
+#EXTINF:-1,NILE:Cima Alibaba
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4722.m3u8
+#EXTINF:-1,NILE:Cinema
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4724.m3u8
+#EXTINF:-1,NILE:CNBC ARABIYA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4719.m3u8
+#EXTINF:-1,NILE:CNN
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4734.m3u8
+#EXTINF:-1,NILE:darbaka_aflam
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4721.m3u8
+#EXTINF:-1,NILE:DMC_DREAMA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4754.m3u8
+#EXTINF:-1,NILE:DMC_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4753.m3u8
+#EXTINF:-1,NILE:Dmc_Sports
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4727.m3u8
+#EXTINF:-1,NILE:DREAM
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4720.m3u8
+#EXTINF:-1,NILE:dream 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4723.m3u8
+#EXTINF:-1,NILE:Mazzika
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4717.m3u8
+#EXTINF:-1,NILE:Mekameleen
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4716.m3u8
+#EXTINF:-1,NILE:Melody Hits
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4715.m3u8
+#EXTINF:-1,NILE:Melody_CINEMA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4712.m3u8
+#EXTINF:-1,NILE:MELODY_CLASSIC
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4711.m3u8
+#EXTINF:-1,NILE:Moga_Comedy
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4710.m3u8
+#EXTINF:-1,NILE:Nile Life
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4752.m3u8
+#EXTINF:-1,NILE:Nile_Cinema
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4751.m3u8
+#EXTINF:-1,NILE:Nile_Comedy
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4750.m3u8
+#EXTINF:-1,NILE:NILE_Drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4749.m3u8
+#EXTINF:-1,NILE:Nile_Family
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4748.m3u8
+#EXTINF:-1,NILE:Nile_News
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4747.m3u8
+#EXTINF:-1,NILE:Nile_TV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4746.m3u8
+#EXTINF:-1,NILE:Nile-Sport
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4726.m3u8
+#EXTINF:-1,NILE:ON E HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4745.m3u8
+#EXTINF:-1,NILE:ON_DRAMA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4744.m3u8
+#EXTINF:-1,NILE:ON_SPORT
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4725.m3u8
+#EXTINF:-1,NILE:ON_TV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4743.m3u8
+#EXTINF:-1,NILE:Panorama Food
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4709.m3u8
+#EXTINF:-1,NILE:panorama_film
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4708.m3u8
+#EXTINF:-1,NILE:Panorama-Drama1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4707.m3u8
+#EXTINF:-1,NILE:Panorama-Drama2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4706.m3u8
+#EXTINF:-1,NILE:Rotana_Classic
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4705.m3u8
+#EXTINF:-1,NILE:ROTANA_CLIP
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4704.m3u8
+#EXTINF:-1,NILE:Rotana_drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4703.m3u8
+#EXTINF:-1,NILE:Rotana_Khalijia
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4702.m3u8
+#EXTINF:-1,NILE:ROTANA_MASRIA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4701.m3u8
+#EXTINF:-1,NILE:rotana_music
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4700.m3u8
+#EXTINF:-1,NILE:Rotana-Aflem
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4699.m3u8
+#EXTINF:-1,NILE:rotana-cinema
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4698.m3u8
+#EXTINF:-1,NILE:Sada Drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4697.m3u8
+#EXTINF:-1,NILE:Sada ElBalad Drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4718.m3u8
+#EXTINF:-1,NILE:Sudan-SPORT
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4696.m3u8
+#EXTINF:-1,NILE:TEN
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4695.m3u8
+#EXTINF:-1,NILE:ZEE_ALWAN
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4694.m3u8
+#EXTINF:-1,NILE:Zee-Aflam
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4693.m3u8
+#EXTINF:-1,vip:ALYAWM
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4663.m3u8
+#EXTINF:-1,vip:Animal Planet HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4662.m3u8
+#EXTINF:-1,VIP:ART AFLAM 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4650.m3u8
+#EXTINF:-1,VIP:ART AFLAM 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4649.m3u8
+#EXTINF:-1,VIP:ART CINEMA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4648.m3u8
+#EXTINF:-1,VIP:ART Hekayat 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4647.m3u8
+#EXTINF:-1,VIP:ART Hekayat 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4646.m3u8
+#EXTINF:-1,VIP:ART_AFLAM 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4692.m3u8
+#EXTINF:-1,VIP:ART_AFLAM 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4691.m3u8
+#EXTINF:-1,VIP:ART_CINEMA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4690.m3u8
+#EXTINF:-1,VIP:ART_Hekayat 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4689.m3u8
+#EXTINF:-1,VIP:ART_Hekayat 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4688.m3u8
+#EXTINF:-1,vip:B4U Aflam
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4661.m3u8
+#EXTINF:-1,VIP:BEIN MOVIES 1 HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4653.m3u8
+#EXTINF:-1,VIP:BEIN MOVIES 2 HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4652.m3u8
+#EXTINF:-1,VIP:BEIN MOVIES 3 HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4651.m3u8
+#EXTINF:-1,VIP:BEIN MOVIES 4 HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4738.m3u8
+#EXTINF:-1,vip:Box OFFICE 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4681.m3u8
+#EXTINF:-1,vip:BOX OFFICE 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4680.m3u8
+#EXTINF:-1,vip:BOX OFFICE 3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4679.m3u8
+#EXTINF:-1,vip:CINEMA 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4673.m3u8
+#EXTINF:-1,vip:CINEMA 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4672.m3u8
+#EXTINF:-1,vip:Comedy Central HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4659.m3u8
+#EXTINF:-1,vip:Discovery Family HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4657.m3u8
+#EXTINF:-1,vip:Discovery IDX HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4658.m3u8
+#EXTINF:-1,vip:Disney Channel HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4656.m3u8
+#EXTINF:-1,vip:Disney Junior
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4655.m3u8
+#EXTINF:-1,vip:Disney_XD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4654.m3u8
+#EXTINF:-1,vip:First HBO HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4682.m3u8
+#EXTINF:-1,vip:MOVIES
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4687.m3u8
+#EXTINF:-1,vip:MOVIES ACTION
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4686.m3u8
+#EXTINF:-1,vip:Movies Comedy 2 H
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4676.m3u8
+#EXTINF:-1,vip:Movies Comedy HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4675.m3u8
+#EXTINF:-1,vip:MOVIES FESTIVAL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4677.m3u8
+#EXTINF:-1,vip:MOVIES FIRST
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4685.m3u8
+#EXTINF:-1,vip:Movies First HD 2h
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4684.m3u8
+#EXTINF:-1,vip:MOVIES KIDS
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4674.m3u8
+#EXTINF:-1,vip:Movies Premiere 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4678.m3u8
+#EXTINF:-1,vip:Movies Thriller HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4683.m3u8
+#EXTINF:-1,vip:MUSALSALAT HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4671.m3u8
+#EXTINF:-1,vip:Star Movie HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4670.m3u8
+#EXTINF:-1,vip:Star World HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4669.m3u8
+#EXTINF:-1,vip:WWE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4668.m3u8
+#EXTINF:-1,vip:Ya Hala Al Oula 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4667.m3u8
+#EXTINF:-1,vip:Ya hala Cinema HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4664.m3u8
+#EXTINF:-1,vip:Ya Hala HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4666.m3u8
+#EXTINF:-1,vip:Ya Hala Oula HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4665.m3u8
+#EXTINF:-1,ESLAM:AHEL AL QURAN
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4764.m3u8
+#EXTINF:-1,ESLAM:Al_majd_Al_hadeeth
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4763.m3u8
+#EXTINF:-1,ESLAM:Al_majd_Scientific
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4762.m3u8
+#EXTINF:-1,ESLAM:Al_Rahma
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4761.m3u8
+#EXTINF:-1,ESLAM:Alfajr
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4760.m3u8
+#EXTINF:-1,Eslam:AlMajd_Quran
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4759.m3u8
+#EXTINF:-1,ESLAM:AlNas
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4758.m3u8
+#EXTINF:-1,ESLAM:ALResala-HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4757.m3u8
+#EXTINF:-1,ESLAM:IQRAA
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4756.m3u8
+#EXTINF:-1,ESLAM:resala-eslam
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4755.m3u8
+#EXTINF:-1,LEBANON:Al-Janoubia
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4784.m3u8
+#EXTINF:-1,LEBANON:ALJADEED
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4783.m3u8
+#EXTINF:-1,LEBANON:ALMANAR
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4782.m3u8
+#EXTINF:-1,LEBANON:Noor_Sat
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4781.m3u8
+#EXTINF:-1,LEBANON:OTV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4780.m3u8
+#EXTINF:-1,MAR:2M_MARoc
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4779.m3u8
+#EXTINF:-1,MAR:AflamTV.7.Maroc
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4778.m3u8
+#EXTINF:-1,MAR:Al_Aoula_ALayoune HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4777.m3u8
+#EXTINF:-1,MAR:Al_Oula_HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4776.m3u8
+#EXTINF:-1,MAR:ALMAGHRIBIA HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4775.m3u8
+#EXTINF:-1,MAR:ARrabiaa HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4774.m3u8
+#EXTINF:-1,MAR:MAROC_AFLAM2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4773.m3u8
+#EXTINF:-1,Moroco 1 Alaoula
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4772.m3u8
+#EXTINF:-1,Moroco 2m Monde
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4771.m3u8
+#EXTINF:-1,Moroco 3 Arriadia
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4770.m3u8
+#EXTINF:-1,Moroco 4 Arrabiaa
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4769.m3u8
+#EXTINF:-1,Moroco 6 Assadissa
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4768.m3u8
+#EXTINF:-1,Moroco 8 Tamazight
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4767.m3u8
+#EXTINF:-1,Moroco Almaghribia
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4766.m3u8
+#EXTINF:-1,Moroco Medi 1TV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4765.m3u8
+#EXTINF:-1,NEWS:Al MANAR TV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4794.m3u8
+#EXTINF:-1,NEWS:AlArabiya
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4793.m3u8
+#EXTINF:-1,NEWS:alhadath
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4792.m3u8
+#EXTINF:-1,NEWS:Alhiwar
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4791.m3u8
+#EXTINF:-1,NEWS:AlJazeera
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4790.m3u8
+#EXTINF:-1,NEWS:Aljazeera mubasher
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4789.m3u8
+#EXTINF:-1,NEWS:AlJazeera_Documentary
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4788.m3u8
+#EXTINF:-1,NEWS:ANN
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4787.m3u8
+#EXTINF:-1,NEWS:ARAB
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4786.m3u8
+#EXTINF:-1,NEWS:watan tv
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4785.m3u8
+#EXTINF:-1,Sudan Alamanal
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4802.m3u8
+#EXTINF:-1,Sudan Ashoroqq
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4801.m3u8
+#EXTINF:-1,Sudan Blue Nile
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4800.m3u8
+#EXTINF:-1,Sudan Dabanga
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4799.m3u8
+#EXTINF:-1,Sudan Drama
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4798.m3u8
+#EXTINF:-1,Sudan Jazeera Green
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4797.m3u8
+#EXTINF:-1,Sudan TV
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/4796.m3u8
