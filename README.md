@@ -1,5 +1,6 @@
 # IPTV-Global
-Offers free access to most available online channels on the website that offers IPTV service.
+Offers free access to most available "m3u" online channels on the website that offers IPTV service.
+This repository just to provide links (file.m3u) that can be used to watch online channels nothing else nothing special.
 The purpose of doing it, just to help friends and anyone interested in watching their favorite channels Live. 
 
 How to use: 
