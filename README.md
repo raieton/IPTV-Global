@@ -17,3 +17,13 @@ How to use:
    On Andriod, I recommend an app named "IPTV" link:https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv, very easy to use and UI is good. (contains few ADS, but also there is a full version without ADS by 3$)
     
   5- Just in this software you can easily find it or check youtube, it is well explained!
+
+Links for IPTV:
+---------------
+This Below websites offers this kind of links for IPTV service:
+
+1- Pastebin (Pastebin is a popular website for storing and sharing text. kind of similar to Github)
+  By typing on search any keyword like "IPTV" and sort by date to get the latest upload files.
+
+
+
