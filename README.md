@@ -2,6 +2,7 @@
 Offers free access to most available "m3u" online channels on the website that offers IPTV service.
 This repository just to provide links (file.m3u) that can be used to watch online channels nothing else nothing special.
 The purpose of doing it, just to help friends and anyone interested in watching their favorite channels Live. 
+Please tell a friend or neighbor about it!
 
 How to use: 
 -----------
@@ -9,7 +10,7 @@ How to use:
   
   2. Select "RAW" it will direct you to a new tap (domain is used to serve unprocessed versions of files stored in GitHub repositories)
  
-  3. Copy the URL from the newly  opened tap. (e.g.: https://raw.githubusercontent.com/mohammadmusleh3/IPTV-Global/master/testcase1.txt)
+  3. Copy the URL from the newly  opened tap. (e.g.: https://raw.githubusercontent.com/mohammadmusleh3/IPTV-Global/master/Arabic-IPTV.m3u)
   
   4. Now this step is according to your preferences, you can select any Application or software to past the link and get access to the channels. For example (Recommended) Kodi link: https://kodi.tv/, since it supports most OS you may use to watch... like Smart T.V, T.V. box, smart phone, PC, and Laptop. While on Andriod, I recommend an app named "IPTV" link:https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv, very easy to use and UI is good (contains few ADS, but also there is a full version without ADS by 3$). Note: You can install android emulator called "bluestacks" link:https://www.bluestacks.com/ and download any android application.
 
@@ -18,6 +19,8 @@ How to use:
 Links for IPTV:
 ---------------
 This Below websites offers this kind of links for IPTV service:
+
+1. LODGE TV, after testing it is good not all links working but 3 years of testing, it's realy simple - Stable - Free. (Link: http://lodgetv.blogspot.com/)
 
 1. "elahmad" arabic channels, from the web steam direct T.V. only arabic channels (Linl: http://www.elahmad.com/tv/Webtv/Arabian.htm)
 
