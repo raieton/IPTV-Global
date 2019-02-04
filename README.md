@@ -23,11 +23,13 @@ Links for IPTV:
 ---------------
 This Below websites offers this kind of links for IPTV service:
 
-1. Forfreeiptv (I found the repository on github link: https://github.com/GhostAssassin2016/FREE-IPTV, link for website: https://www.forfreeiptv.com/)
+1. "El Ahmad" arabic channels, Web T.V. (Linl: http://www.elahmad.com/tv/Webtv/Arabian.htm)
 
-2. Canales de TV en línea - Spanish channels (I found the repository on github link: https://github.com/toni-em/IPTV-Spain)
+2. Forfreeiptv (I found the repository on github link: https://github.com/GhostAssassin2016/FREE-IPTV, link for website: https://www.forfreeiptv.com/)
 
-3.
+3. Canales de TV en línea - Spanish channels (I found the repository on github link: https://github.com/toni-em/IPTV-Spain)
+
+4.
   
 *. Pastebin (Pastebin is a popular website for storing and sharing text. kind of similar to Github)
   By typing on search any keyword like "IPTV" and sort by date to get the latest upload files.
