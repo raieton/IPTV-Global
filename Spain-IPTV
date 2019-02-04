@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=468000,RESOLUTION=480x270,CODECS="avc1.66.30, mp4a.40.2"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=459000,RESOLUTION=480x270,CODECS="avc1.66.30, mp4a.40.2"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=718000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=709000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1604000,RESOLUTION=1024x576,CODECS="avc1.77.30, mp4a.40.2"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1613000,RESOLUTION=1024x576,CODECS="avc1.77.30, mp4a.40.2"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on
