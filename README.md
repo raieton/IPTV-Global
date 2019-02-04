@@ -23,8 +23,19 @@ Links for IPTV:
 ---------------
 This Below websites offers this kind of links for IPTV service:
 
-1- Pastebin (Pastebin is a popular website for storing and sharing text. kind of similar to Github)
+1. Forfreeiptv (I found the repository on github link: https://github.com/GhostAssassin2016/FREE-IPTV)
+    link: https://www.forfreeiptv.com/
+
+2- Canales de TV en línea - Spanish channels (I found the repository on github link: https://github.com/toni-em/IPTV-Spain)
+
+3-
+  
+*- Pastebin (Pastebin is a popular website for storing and sharing text. kind of similar to Github)
   By typing on search any keyword like "IPTV" and sort by date to get the latest upload files.
 
+
+Test file (References) 
+----------------------
+testfile2 - from link: https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/playtv.m3u
 
 
