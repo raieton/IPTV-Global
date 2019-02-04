@@ -20,27 +20,36 @@ Links for IPTV:
 ---------------
 This Below websites offers this kind of links for IPTV service:
 
-1. LODGE TV, after testing it is good not all links working but 3 years of testing, it's realy simple - Stable - Free. (Link: http://lodgetv.blogspot.com/)
+1. LODGE TV, after testing it is good not all links working but 3 years of testing, it's really simple - Stable - Free. (Link: http://lodgetv.blogspot.com/) There are many related links for the same service! as a blog (fluxustv https://fluxustv.blogspot.com/,  memmedia https://memmedia.blogspot.com/p/our-services.html) they contain many blogs and provide many different IPTV channels.
 
-1. "elahmad" arabic channels, from the web steam direct T.V. only arabic channels (Linl: http://www.elahmad.com/tv/Webtv/Arabian.htm)
+2. IPTV Filmover, one of the best because they keep updating the link and most of the time work fine. (Link: http://iptv.filmover.com/)
 
-2. Forfreeiptv (I found the repository on github link: https://github.com/GhostAssassin2016/FREE-IPTV, link for website: https://www.forfreeiptv.com/)
+3. https://www.freeiptv.xyz/
 
-3. Canales de TV en línea - Spanish channels (I found the repository on github link: https://github.com/toni-em/IPTV-Spain)
-
-4. "Free TV All", provide direct steam with limited library. (link: http://freetvall.live/)
-
-5. FilmOn, provide direct steam from the website but recently they required a subscription. (Link: http://www.filmon.com/)
-  
-6. Smart PC Soft, a software application on Windows and MAC OS provide 2k channel. (link: http://smartpcsoft.com/tv3lpc.html)
+4. http://www.iptv4free.com/
 
 *. Pastebin (Pastebin is a popular website for storing and sharing text. kind of similar to Github)
   By typing on search any keyword like "IPTV" and sort by date to get the latest upload files.
 
+Direct Watch IPTV:
+------------------
+1. First One TV, [Contain ADS] free and without a registration and about 1920 Channels from 52 countries are available, stream direct form website (Link: https://www.firstonetv.live/Index)
+
+2. "elahmad" arabic channels, from the web steam direct T.V. only arabic channels (Linl: http://www.elahmad.com/tv/Webtv/Arabian.htm)
+
+3. Forfreeiptv (I found the repository on github link: https://github.com/GhostAssassin2016/FREE-IPTV, link for website: https://www.forfreeiptv.com/)
+
+4. Canales de TV en línea - Spanish channels (I found the repository on github link: https://github.com/toni-em/IPTV-Spain)
+
+5. "Free TV All", provide direct steam with limited library. (link: http://freetvall.live/)
+
+6. FilmOn, provide direct steam from the website but recently they required a subscription. (Link: http://www.filmon.com/)
+  
+7. Smart PC Soft, a software application on Windows and MAC OS provide 2k channel. (link: http://smartpcsoft.com/tv3lpc.html)
 
 Test file:
 ----------
-1. testfile2 - I need to remove the links that not working! 
+I need to remove the links that not working! 
 
 Offical IPTV Host (By Subscription):
 ------------------------------------
