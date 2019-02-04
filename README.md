@@ -35,7 +35,7 @@ This Below websites offers this kind of links for IPTV service:
 
 Test file (References) 
 ----------------------
-1. testfile2 - from link: https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/playtv.m3u
+1. testfile2 - from link: -none-
 
 2.
 
