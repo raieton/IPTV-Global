@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,World:BBC-News
+#EXTINF:-1,BBC_News
 http://www.filmon.com/tv/channel/bbc-news
+
+#EXTINF:-1,OSN-BOXOFFICE-2
+http://egyman.net:1978/fady/fady/4604
