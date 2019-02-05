@@ -1,0 +1,631 @@
+#EXTM3U
+#EXTINF:-1 logo="http://86.61.39.253:9981/imagecache/223" tvg-id="95f39b9e0cfbbc12e82a918b65863567",HustlerTVHD
+http://86.61.39.253:9981/stream/channelid/513536917?ticket=901E79AC3F38B0EB8EB259ACC76D4A5687ED8D22&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/slo1.png" tvg-id="7bcf4d50f3924bfeb059b52c26c5cb7c",SLO 1
+http://86.61.39.253:9981/stream/channelid/1347276667?ticket=E61E7615AFE961A9568DB265C0A20EF7A1E80F07&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/slo2.png" tvg-id="d6c56f03c65a4100840c0d6b1a27b28b",SLO 2
+http://86.61.39.253:9981/stream/channelid/57656790?ticket=5331E4AF8B28CB222AAC7CAE9F917D1B6B4CB817&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/planet_tv.png" tvg-id="305d567d58e84496b4fa3f249c7d9170",Planet TV
+http://86.61.39.253:9981/stream/channelid/2102811952?ticket=DF064545C52045BDF72DE87A47B82200C1926FCE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/poptv.png" tvg-id="ecd6f7049daa4a059e4693b38da6a648",POP TV
+http://86.61.39.253:9981/stream/channelid/83351276?ticket=06D9CED37AE0CC5879B0F1122D13A00440D04C52&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkslo.png" tvg-id="e73e92d13e3148b2b7eaed8de61b4c80",Pink S!
+http://86.61.39.253:9981/stream/channelid/1368538855?ticket=E53DD2D1E4A0E9547142B0A9F6359CB306B52B9D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/akanal.png" tvg-id="ff0a6162a16448a19aa941f74200daa3",Kanal A
+http://86.61.39.253:9981/stream/channelid/1650526975?ticket=B9AA013911E8377D87AB8CD0E1A1223C12BBBC81&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/slo1hd.png" tvg-id="3671e64136814749a73d2d4add0bee95",SLO 1 HD
+http://86.61.39.253:9981/stream/channelid/1105621302?ticket=2161F6C4454F4599EE8792E65ABC8491A97DF375&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/slo2hd.png" tvg-id="55331e1bce4648f68add2a04175ae1c8",SLO 2 HD
+http://86.61.39.253:9981/stream/channelid/454964053?ticket=0E93DDFF297FC67976DE086492EE95D6027E45B7&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/planet_tv.png" tvg-id="d70c0fc0436f424697f7798eefb519ad",Planet TV HD
+http://86.61.39.253:9981/stream/channelid/1074728151?ticket=0F43F3A2C0125AA50BE5AC79D14BAA2026FC55F6&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvgolica.png" tvg-id="14ce7b23092d4f15b54dcf6dde6c52eb",TV Golica
+http://86.61.39.253:9981/stream/channelid/595316244?ticket=6D915F50E060BE98E1B5BF8B883F10DD7FFC8F3C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/poptvhd.png" tvg-id="3c6c12e5a6b54b82a4a09229f5b96ece",POP TV HD
+http://86.61.39.253:9981/stream/channelid/1695706172?ticket=C7ABC9EE765B7C276F198F24F84199A3FCEED67B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/akanalhd.png" tvg-id="7cb317123bc1480c90baa269344bc1f7",Kanal A HD
+http://86.61.39.253:9981/stream/channelid/303543164?ticket=9D4F8004717B5BFDA2DB664FF720975ED3FFA732&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/briohd.png" tvg-id="e08c20238e294c0eaef79550947d226b",BRIO HD
+http://86.61.39.253:9981/stream/channelid/589335776?ticket=8D9ABBC6730481FB0F8B8721A8D073D46B5BE615&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/italia1.png" tvg-id="a3003cfa8ca04f009f40a8a00b83ddc5",Italia 1
+http://86.61.39.253:9981/stream/channelid/2050752675?ticket=20A1D59DA497B498D5E9A4B899998ABE46CD2594&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/popkinohd.png" tvg-id="12acab2807514676b415f999ddf68def",KINO HD
+http://86.61.39.253:9981/stream/channelid/682339346?ticket=EB0218EC20F0D1E3BD2B81E1815F313045659450&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rete4.png" tvg-id="544f70f4530a4f25b35e4b382382ffc0",Rete 4
+http://86.61.39.253:9981/stream/channelid/1953517396?ticket=F11447822F51FE8D0048FF881DC855B8A1975423&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/popotohd.png" tvg-id="c7a635ffd5f246c680d18ef6d50fbc9a",OTO HD
+http://86.61.39.253:9981/stream/channelid/2134222535?ticket=4B431E54B3BF30DE453C58691FA31387367D8962&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/canale5.png" tvg-id="ec97c22d372c48de96cd2a49d7252dd5",Canale 5
+http://86.61.39.253:9981/stream/channelid/767727596?ticket=5F845A74E25570F588FA40F8E92089B3059F7AFF&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/natgeo.png" tvg-id="0cf91a0efb0c4bb295c166a67702f7eb",National Geographic
+http://86.61.39.253:9981/stream/channelid/236648716?ticket=8794C893A1EC2B30324A7843AF4014A95502C8EA&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/natgeohd.png" tvg-id="d95f73282e924dd18e25ccdb5f74792e",National Geographic HD
+http://86.61.39.253:9981/stream/channelid/678649817?ticket=1BEECAFA844822DEA11FC3AE4959BFB3F5B9FACF&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/natgeow.png" tvg-id="a3ce3980a2e84d4380950e4238c5b603",National Geographic Wild
+http://86.61.39.253:9981/stream/channelid/3788451?ticket=936CB9900948667F5BA5406A678F490343670632&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/natgeowhd.png" tvg-id="56b6dd605a85453e9430b728e314019c",National Geographic Wild HD
+http://86.61.39.253:9981/stream/channelid/1625142870?ticket=ECCD4C98911D05B71571613B4BDBEFDFCE6A448A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/discovery.png" tvg-id="979c2fdb52154e13a95bdb712e04b663",Discovery Channel
+http://86.61.39.253:9981/stream/channelid/1529846935?ticket=494D294A4D6E23D13940CF96F0201C77EFEA8A98&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/discoveryhd.png" tvg-id="157f35046c9b466f9f783dcdab2624b9",Discovery HD
+http://86.61.39.253:9981/stream/channelid/70614805?ticket=F02438C47073544F5AA82426B39F1165D7BA7934&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/historych.png" tvg-id="e03acf53c04247f69d2a68145b15898b",History Channel
+http://86.61.39.253:9981/stream/channelid/1406089952?ticket=5FEA7ED8CB0D3717280574CBA43866FCADC0A8A2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bbcearth.png" tvg-id="9b5924795ee84a42b93cde29e71f96b0",BBC Earth
+http://86.61.39.253:9981/stream/channelid/2032425371?ticket=2ECE748BB1445EFD1B31FE26DFF65637721407C7&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/historyhd.png" tvg-id="4612c34101214495b911cc849d0521eb",History Channel HD
+http://86.61.39.253:9981/stream/channelid/1103303238?ticket=81FF58AFAE93749E0672149A92FC2FC55DFA080C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bbcearth.png" tvg-id="d9f380221ef04038b8dfc61efe5026c9",BBC Earth HD
+http://86.61.39.253:9981/stream/channelid/578876377?ticket=8CD4C2A2B3826FF41A3219B3AAE4F33866C44C56&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/disctlc.png" tvg-id="231875c1b3bb454987cadd33c412f471",Discovery TLC
+http://86.61.39.253:9981/stream/channelid/1098192931?ticket=6390A6FDBEC6BFC21B082F2D3193ACB972993639&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/discinv.png" tvg-id="232d0ea74bf3470aafd2d4d80dcdb8b8",Investigation Discovery
+http://86.61.39.253:9981/stream/channelid/655240483?ticket=76D305A2EB32B335AE6D03A37BEE8E71D183A4F4&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/crimeinvestigation.png" tvg-id="1f1092b31ed5424896747cefdb82eadd",Discovery Crime & Investigation
+http://86.61.39.253:9981/stream/channelid/865210399?ticket=645A6F3E0D4972FE58AFFC81E1AB1574A7404E66&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/davincilear.png" tvg-id="e41f9bd4c05c4256afebd4dc8c37e7af",Da Vinci Learning
+http://86.61.39.253:9981/stream/channelid/1419452388?ticket=B8F46C04D6BE5B9B6A07262E0758730F81AD64EC&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/animal.png" tvg-id="421a91c34b0a437eac8cecae3de0e7b7",Animal Planet
+http://86.61.39.253:9981/stream/channelid/1133582914?ticket=22291C35D3A7D89F24FC71F08B12AB8966BB3DDF&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/animalhd.png" tvg-id="b2ee39bf206c49028e6c7c4d0527e1b2",Animal Planet HD
+http://86.61.39.253:9981/stream/channelid/1060761266?ticket=AB986BA8AAFEB829006044EEC825A62501A16FF9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/travel.png" tvg-id="68dcbf308c394a358a67095c5280216b",Travel Channel
+http://86.61.39.253:9981/stream/channelid/817880168?ticket=4A2D66FAF008ACA46618E02A75ADDEF43C7D734D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/travelhd.png" tvg-id="5298b03be458423ab19143939dffb45a",Travel Channel HD
+http://86.61.39.253:9981/stream/channelid/1001429074?ticket=F81A56203DC163E7F7D178E84F064E48F3A4A3F8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/filmboxdocumentary.png" tvg-id="9cd0b20816604e63826eb151bc917499",DocuBOX HD
+http://86.61.39.253:9981/stream/channelid/145936540?ticket=6E27C7423977ED9DFD761A1AFC53EBCD71331172&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/discsci.png" tvg-id="20032b7b805542baafaf3809bc889fa9",Discovery Science
+http://86.61.39.253:9981/stream/channelid/2066416416?ticket=7D435A157F6562E39228EA83E9048F2339FEFE3F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/discscihd.png" tvg-id="ee0b29d2969245a6ac1e3895dc483a7e",Discovery Science HD
+http://86.61.39.253:9981/stream/channelid/1378421742?ticket=9A037039E1352F08B419C45A270A2FEDD90AD8AA&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/discci.png" tvg-id="6273c6548de7445b9243753dac907ca0",Discovery World
+http://86.61.39.253:9981/stream/channelid/1422291810?ticket=DEE00B5DD8C9ED919AB2D5AFE2F306DE106670F9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/reality.png" tvg-id="dd648d64bd56404caaa689663351a493",CBS Reality
+http://86.61.39.253:9981/stream/channelid/1686987997?ticket=5696B8FEDF094DE944F4E2BD25071E7E170FBB48&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/outdoor.png" tvg-id="3a384b57cffb49e483bd29e0d83e29d4",Outdoor
+http://86.61.39.253:9981/stream/channelid/1464547386?ticket=FE51823910B4FB171D2D197809F21844B6625B28&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/outdoorhd.png" tvg-id="d81c8849a84b40989e1bebab146b0f3e",Outdoor HD
+http://86.61.39.253:9981/stream/channelid/1233657048?ticket=813EC48FABFAEF842D9D864D36E74A1CDC37CA32&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/wildtvhd.png" tvg-id="b0a0e02c2c5643b49e203cd47d0a7ed4",Wild TV HD
+http://86.61.39.253:9981/stream/channelid/752918704?ticket=2C6CA6631C635D645395DDE590BAEAFD5A1D5DC3&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ard.png" tvg-id="c488027a6e2b4a90a26a5cc3d2c26623",ARD
+http://86.61.39.253:9981/stream/channelid/2046986436?ticket=E3FFA57A5DF6229C9E875C0CD64CEB270C57DC08&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fox.png" tvg-id="3b24d1028beb45289e6b4766460fc3fd",Fox
+http://86.61.39.253:9981/stream/channelid/47260731?ticket=65D5829762649CBCC2486B0547B44621E7A2BA16&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxhd.png" tvg-id="2cc9886032774d80b19b27c7e42acb88",Fox HD
+http://86.61.39.253:9981/stream/channelid/1619577132?ticket=8145865F5B21369FA79C3A8B43CC84C96634D56A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxlife.png" tvg-id="cbc85299838d4d419f669c3f2953a428",Fox Life
+http://86.61.39.253:9981/stream/channelid/424855755?ticket=8CF1268361C3A3006B29BE8755EB16F88709CFCD&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxlifehd.png" tvg-id="2a9ee347964040d787fc9009f02a079f",Fox Life HD
+http://86.61.39.253:9981/stream/channelid/1206099498?ticket=3665779784E93E14D9B80F6D93FDE0DA702C1764&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxcrime.png" tvg-id="b0700776747a4600a6569411b8efc7c0",Fox Crime
+http://86.61.39.253:9981/stream/channelid/1980199088?ticket=F7BE7E31771D50EDC02311078744B80636EBCB7E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxcrimehd.png" tvg-id="05c4991aa52f43119ee1c69677ab0b64",Fox Crime HD
+http://86.61.39.253:9981/stream/channelid/446284805?ticket=717D557542E0AC4F4CD428410DB7B9E9216E1B5D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxmovies.png" tvg-id="0f7b5b3d638d43edb6ab802132c32674",Fox Movies
+http://86.61.39.253:9981/stream/channelid/1029405455?ticket=E9A717B05AE8C1FB4DD804BE820EA4D1CF1BF909&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foxmovieshd.png" tvg-id="4a94bda2d1a646c7a906e2f532eed2ca",Fox Movies HD
+http://86.61.39.253:9981/stream/channelid/582849610?ticket=66E704839BED1C8CE6BCBAB7F33F42CB48235984&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/popkino.png" tvg-id="5add11fd4def44308e88a9a4c7950f37",KINO
+http://86.61.39.253:9981/stream/channelid/2098322778?ticket=EFB30FF238901AE836665D12DD64337E9C2F7C6A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/brio.png" tvg-id="e2811d8cde864f4c871b91e1fcad57d5",BRIO
+http://86.61.39.253:9981/stream/channelid/203260386?ticket=869BFCB89AFCD7115A9F9AE175C44CF9696C8739&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cinestartv.png" tvg-id="0e7dc90a638742888f1c52fd584dbffe",Cinestar
+http://86.61.39.253:9981/stream/channelid/180976910?ticket=74BBF7DF9D0A931FE967F97B7A5F8FC03257DE1E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cinestaraction.png" tvg-id="075d9271254c4037adc0468a7d5f5985",Cinestar Action & Thriller
+http://86.61.39.253:9981/stream/channelid/1905417479?ticket=F12F0E92FC402F57782BC000E859CC789EE1A5C1&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/klasiktv.png" tvg-id="75aa5dc699834aeba0b6051fa20199a1",Klasik TV
+http://86.61.39.253:9981/stream/channelid/1180543605?ticket=79947EB4D8CE95775115FC750222FB0F500C9ECE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/universal.png" tvg-id="e5116f9dbf35401bb76f74aaad2022c5",Universal Channel
+http://86.61.39.253:9981/stream/channelid/493818341?ticket=BFBC505A66DC9693363F0BE566742B059760BB08&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/romantica.png" tvg-id="331d478ac786459f8585644adb2d4f4f",CBS Drama
+http://86.61.39.253:9981/stream/channelid/172432691?ticket=735C2B040FB46C3E878F21FF8F206E07E60BEE79&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkfilm.png" tvg-id="45e3274803b2416186cdf53543d815a5",Pink Film
+http://86.61.39.253:9981/stream/channelid/1210573637?ticket=59628D2FABEADDA3B3CF60D7DFA9DA3E3E6855D2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkmovie.png" tvg-id="f1f8ea51573b45dfa3581a00d009eea1",Pink Movies
+http://86.61.39.253:9981/stream/channelid/1374353649?ticket=CF524F718A399D5EE692A00B660A572CBD685D95&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkfamily.png" tvg-id="0eac15188951484bbdaff938d4132323",Pink Family
+http://86.61.39.253:9981/stream/channelid/404073486?ticket=010EA4D7ABC528670E896B610DD46A8E9CE80EB3&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pink2.png" tvg-id="96611363984c49eb998a17a82519142b",Pink 2
+http://86.61.39.253:9981/stream/channelid/1662214550?ticket=530D23724D723C2163671548718FBD685D61993B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinksi.png" tvg-id="8b9c64d1af454ac8917ff483838a6114",Pink SI
+http://86.61.39.253:9981/stream/channelid/1365548171?ticket=98CAA93D20D47BDF1F45750932686718FF2603CC&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/axnspin.png" tvg-id="4b2ef1521d2c48758c0706e6df996ff9",AXN Spin
+http://86.61.39.253:9981/stream/channelid/1391537739?ticket=6CE55BF49AB357AF0E821C876ED0F005FE51559E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mgm.png" tvg-id="de45531f234f4bd9a36af9a678df585e",AMC
+http://86.61.39.253:9981/stream/channelid/525551070?ticket=38F26020060905BFF04CBD9FE61F7854D9F80A08&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/doq.png" tvg-id="3f8e55eb1e914edabbed329ab5067a4f",24Kitchen
+http://86.61.39.253:9981/stream/channelid/1800769087?ticket=8E14FEC68D9DBF85258AC13EE352E9D03A5C9D5C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/24kitchenhd.png" tvg-id="4d8dd04b20d74fa38a628d55ef21558a",24Kitchen HD
+http://86.61.39.253:9981/stream/channelid/1271958861?ticket=9FCEEC85838D93FFBD44C43E50F02B2A24B6EECB&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/foodhd.png" tvg-id="8a5e02f88d074db597d9f547bd7b47da",Food Network HD
+http://86.61.39.253:9981/stream/channelid/2013421194?ticket=7597D64DA80A80F7884164B96F2950556F830714&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ginx.png" tvg-id="02f218b24d3c4175a526183e7c4baa0e",GINX
+http://86.61.39.253:9981/stream/channelid/840495618?ticket=2C1E5C071DBCB4840270D098F858D6BC642F1397&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fln.png" tvg-id="4e30142695d54ca3936414ae4dce93c6",FLN
+http://86.61.39.253:9981/stream/channelid/638857294?ticket=8A42AFEE7B509857C1D728BF6D9B15716D606224&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ginxhd.png" tvg-id="c221e742de53405a99a8fd0888eaa32f",GINX HD
+http://86.61.39.253:9981/stream/channelid/1122443714?ticket=F5BA2D1D66DD47BE54DC99D065E7B7449ADF41E2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fashiontv.png" tvg-id="7786baa1e3d842ceb526d8e98472389f",Fashion TV
+http://86.61.39.253:9981/stream/channelid/565872247?ticket=C257FF7DCDB91243B155B201BAB243E1F629C38C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fashionhd.png" tvg-id="ef5da013791b437296d333220c702850",Fashion HD
+http://86.61.39.253:9981/stream/channelid/329276911?ticket=B09AB26ED0E0616D64A22734CAB29A6533A9B75F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/filmboxfashion.png" tvg-id="21b527dbf93e4fa7b2b3c0608d527894",FashionBOX HD
+http://86.61.39.253:9981/stream/channelid/1529328929?ticket=F2100F0E79C65E0DDDE9A96E0136CDC0964E055D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eeurope.png" tvg-id="bc34ff5265a64f8ebd8eccaed700700b",E!
+http://86.61.39.253:9981/stream/channelid/1392456892?ticket=1FA2DF4C90411B76B4CF6ABA403EF2B34217A40A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/drfit.png" tvg-id="8a2f414dc2714b7c906a32c461f01be3",Dr. Fit
+http://86.61.39.253:9981/stream/channelid/1296117642?ticket=48B8E365937CBE59953979DEEB2C69768D7879E5&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/drfithd.png" tvg-id="553d48846a5542e1908b282942c5f813",Dr. Fit HD
+http://86.61.39.253:9981/stream/channelid/71843157?ticket=597F3138200D65C8E3808F32A0C540C7854E2B2C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtl.png" tvg-id="e3875f61104b48bd9bb64828a79b9be8",RTL
+http://86.61.39.253:9981/stream/channelid/1633650659?ticket=D28EB230E305BAE7FA8A660932B3EC3E17591AD0&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/woman.png" tvg-id="ea7f4d04d15442dab09a0b2a5b32031c",Woman
+http://86.61.39.253:9981/stream/channelid/72187882?ticket=8E1AD9DF3088F69E3D8E062539991F316AD31168&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtl2.png" tvg-id="a2e0fe3cf4704309a194a4e9965aa5aa",RTL II
+http://86.61.39.253:9981/stream/channelid/1023336610?ticket=0822574E90BD9A95E0497F1A0631CC4FE9FB3045&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/womanhd.png" tvg-id="c972aad848b64f92a21d6b95326fd8e5",Woman HD
+http://86.61.39.253:9981/stream/channelid/1487565513?ticket=DCEC6F8F232BC9A88D393A91184168583F620899&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/superrtl.png" tvg-id="49909d1ec30c490db59fe489b14713f6",Super RTL
+http://86.61.39.253:9981/stream/channelid/513642569?ticket=5C47EB6277E0F292892D9DD1D835838002BBB135&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kabel1.png" tvg-id="56197ee861284079ad6f909fb54ab086",Kabel 1
+http://86.61.39.253:9981/stream/channelid/1753094486?ticket=FC2152DF803799A7BBE77C9EC5BF0A2F80B1A5BD&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/vox.png" tvg-id="290dcb02b04b4218884b5e373185fbeb",VOX
+http://86.61.39.253:9981/stream/channelid/46861609?ticket=63CEA93DFE92FFA60224914C69C65D04AA82437E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sat1.png" tvg-id="2da342e7e2194c35b015bf1c10c5c5e0",SAT 1
+http://86.61.39.253:9981/stream/channelid/1732420397?ticket=2DE07D04BF42F4A7294988990B17D78313116807&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pro7.png" tvg-id="fc79dbc936c54e87b47a56eadb90fffe",Pro7
+http://86.61.39.253:9981/stream/channelid/1239120380?ticket=2DC132CA200D7861AEA5DE816012090AEA0F79F4&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/3sat.png" tvg-id="57f0acf2a7d1409ba10b2271d491da32",3sat
+http://86.61.39.253:9981/stream/channelid/1923936343?ticket=105F999853C184ACC80B7B1B0D6136DE284ABE8F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tve.png" tvg-id="d2cd289737ed461f92ab195d25e40322",TVE
+http://86.61.39.253:9981/stream/channelid/388550098?ticket=72E532BCD7C50E1F94413112A734780BDE64FA0B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tv5.png" tvg-id="f2672e646e974b398708b93ad92404b9",TV5MONDE
+http://86.61.39.253:9981/stream/channelid/1680762866?ticket=70B86D645C1F860AE479518662CFBE7021C18D0B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mediainter.png" tvg-id="ded43c4fe0254e2c840cbb5194b38500",Mediaset Italia
+http://86.61.39.253:9981/stream/channelid/1329386718?ticket=6FFD1ACE935ED45E3DBF8E6B2C3CDC472F41A35F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/infotv.png" tvg-id="70997011e870487f9f82753cfa9035bb",Info TV
+http://86.61.39.253:9981/stream/channelid/292591984?ticket=86EB43E5B7B5D2068918A96B106658309F2D5A46&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ewtn.png" tvg-id="51172f93561043c5bf65b96a3fc09aa5",EWTN
+http://86.61.39.253:9981/stream/channelid/321853265?ticket=B6E53AE9641DB7756B4A8ED51191D4FFC2A476A8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pink.png" tvg-id="32b199ade59f4f82aed29ca64146ec32",Pink Plus
+http://86.61.39.253:9981/stream/channelid/765047090?ticket=4F27B1F862AFAB1A4B3E3AEDA2CA8F37F58F106A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkzabava.png" tvg-id="449f9c366e924c5090911b87abc6e214",Pink Zabava
+http://86.61.39.253:9981/stream/channelid/916234052?ticket=3CF11C42BD8107BA52633365D76E0509B72ED792&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/infotv.png" tvg-id="818f77f91f454b31ad453473545da869",Top TV
+http://86.61.39.253:9981/stream/channelid/2037878657?ticket=AE3DCF6FB38AB6C7792B19E004E240E487C3EB0B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkworld.png" tvg-id="383e90b3b68443d3a5e7cab1bacef47b",Pink World
+http://86.61.39.253:9981/stream/channelid/865091128?ticket=EF98059E055F0B8641475EBA17C3F09FF102CBC6&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/gold.png" tvg-id="dd2c3ba8224140cb8b596e3a9317be04",Gold TV
+http://86.61.39.253:9981/stream/channelid/674966749?ticket=39EF649F3F365CB8662EBECDA3C7502C8F224447&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/minimax.png" tvg-id="674ab16f08f84ea7b390aeeddb368876",Minimax
+http://86.61.39.253:9981/stream/channelid/1873889895?ticket=E3DC71C36E18934FC80A8B8754721DB290E9477E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/okkids.png" tvg-id="97c0867d9920466e9cfa9eec23d25d81",Orlando Kids
+http://86.61.39.253:9981/stream/channelid/2105983127?ticket=427200EDBD8127EEF0503F58C588A5AE7D497C5E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/popoto.png" tvg-id="f863686d37da47e88d60dc9097b44e69",OTO
+http://86.61.39.253:9981/stream/channelid/1835557880?ticket=A6E78B7CDDCDAF946426E857A1991F75F008C529&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/nickelodeon.png" tvg-id="ae2f1400b64144e4b2ba0124506c3734",Nickelodeon
+http://86.61.39.253:9981/stream/channelid/1322926?ticket=9DE93D49AE4CD864A57DFF989A58AAD11BF94CC9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/boomerang.png" tvg-id="16dc423bd92d4a7399c7e46e371e8db6",Boomerang
+http://86.61.39.253:9981/stream/channelid/994237462?ticket=2FEB60C66F5E70E46E397E5112BEABE119A25FC8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cartoon.png" tvg-id="e0cc12dd7aad42a1bcfe54b2da03830d",Cartoon Network
+http://86.61.39.253:9981/stream/channelid/1561513184?ticket=88E85B6479B4C6E342184374375BC971393EA64D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/jimjam.png" tvg-id="7c27fb8ca86547d0bb49f808a1cca93e",JimJam
+http://86.61.39.253:9981/stream/channelid/217786236?ticket=90DFAE3C66E02C2C30CD842F610FFF367CF96319&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/disney.png" tvg-id="d037efbc0e1247faab2a5f9f785872ff",Disney
+http://86.61.39.253:9981/stream/channelid/1022310352?ticket=A2E6EC4BB8FEA34FE41C691E6128B71E8FE8096B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/jetix.png" tvg-id="7111fa6f445f4da78e1512c7fd6e8916",Disney XD
+http://86.61.39.253:9981/stream/channelid/1878659441?ticket=3ABE104A6459DC814B3000F82DAFB480B0417F06&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/babytv.png" tvg-id="17989f581f0e4f9497cc9844b622528c",Baby TV
+http://86.61.39.253:9981/stream/channelid/1486854167?ticket=2C702205D532E77F98FDE9F16FB4764167492030&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkkids.png" tvg-id="0c9b39660403436c9c62d4c6c81a1683",Pink Kids
+http://86.61.39.253:9981/stream/channelid/1715051276?ticket=9047D5F90629C2A2724858AAE9D9B54AABACAE2C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sporttv.png" tvg-id="ac1994ce76784bc09d25ad5185c02903",Šport TV 1
+http://86.61.39.253:9981/stream/channelid/1318328748?ticket=20FB2ED8F9D782F93A020E21F0E78F18E00007A8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sporttvhd.png" tvg-id="c338146e22064a628bdfffc2971d72e2",Šport TV 1 HD
+http://86.61.39.253:9981/stream/channelid/1846819011?ticket=5FED576C44B6F513E687FB4D1BB8D037176EDAB0&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sporttv2.png" tvg-id="d6821649661e403a932a53a3897819e2",Šport TV 2
+http://86.61.39.253:9981/stream/channelid/1226212054?ticket=BF9CB6E4EA41B05739C397FA94D563E9A8DC71FB&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sporttv2hd.png" tvg-id="32a414f33776494aa834458ae6ff5de2",Šport TV 2 HD
+http://86.61.39.253:9981/stream/channelid/1930732594?ticket=20E400E25B8CB38C8B43AF494BBA6853D211B50D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sporttv3.png" tvg-id="14ef62102cac417a9012890413ff54f6",Šport TV 3
+http://86.61.39.253:9981/stream/channelid/274919188?ticket=15CFEB85C730B0A7E020CD1EDFFD2C85715AD246&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sporttv3hd.png" tvg-id="528b0e040ff348e1a704faa655c67b94",Šport TV 3 HD
+http://86.61.39.253:9981/stream/channelid/68062034?ticket=09F7E4714EC155B2D28582FCF7F597689C73517F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sportkl.png" tvg-id="9c706fb005fc476388babbb8d12d3784",Sport Klub 1
+http://86.61.39.253:9981/stream/channelid/812609692?ticket=387D4AB0904FD1FC50D349FCE86AED291441B9B9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sk1hd.png" tvg-id="e6e5a6b68bd44abf8fa348511f6f764e",Sport Klub 1 HD
+http://86.61.39.253:9981/stream/channelid/916907494?ticket=041CB99029F7D9CEE6B4DEC22FB3D1C055D6D0AE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sportklubp.png" tvg-id="b0b4b95c124945cabdf448f0e8d0184d",Sport Klub 2
+http://86.61.39.253:9981/stream/channelid/1555674288?ticket=B4A621855E17C5524B68EA5D23EDBCBF60009594&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sk2hd.png" tvg-id="94c0ec4d63c44e1985c7932fb5066b74",Sport Klub 2 HD
+http://86.61.39.253:9981/stream/channelid/1307361428?ticket=FC9671E692E8F2D06E626879359F03DE92A6A3B8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sportklubprime.png" tvg-id="2d83b6a2c0c3474fbd2d12cd65a97043",Sport Klub 3
+http://86.61.39.253:9981/stream/channelid/582386477?ticket=2257AE8659CBB894687684FCDB41E15354A5702A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sk3hd.png" tvg-id="2e203efe7b804fe2869f1c87db2bfcd0",Sport Klub 3 HD
+http://86.61.39.253:9981/stream/channelid/2118000686?ticket=97787201057ABE1661D6CE4D73C2DE4CC8473A7F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sk4.png" tvg-id="30126bcafb3e40209387cef481876856",Sport Klub 4
+http://86.61.39.253:9981/stream/channelid/1248530992?ticket=34A932B66358609017931ABB82B2961381C04A12&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sk5.png" tvg-id="6c234d1475d946109ea7c5cc34d7d910",Sport Klub 5
+http://86.61.39.253:9981/stream/channelid/340599660?ticket=F6E3933CABCCE7B3F0996E334D14906BAF4C725F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sk6.png" tvg-id="71febf7e1cb74319a33f97f0d4072169",Sport Klub 6
+http://86.61.39.253:9981/stream/channelid/2126511729?ticket=0F73D927F38C7CBA68912713CC895E856B261BED&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/motorvisiontv.png" tvg-id="743137b2937d4450b79b829777c05028",Motorvision TV HD
+http://86.61.39.253:9981/stream/channelid/842477940?ticket=9C26E0DE37AD26652C7A526710FA9C104AEBA8D0&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/filmboxfight.png" tvg-id="e6dd2fd8b51941a7bc39f75b5897eb8a",FightBOX HD
+http://86.61.39.253:9981/stream/channelid/1479532006?ticket=8CD5123E466691FF799E9B41C1EA420634A0C7D0&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eurosport.png" tvg-id="c2a07ba3d5fd43bf91b83dc258c806d2",Eurosport
+http://86.61.39.253:9981/stream/channelid/595304642?ticket=F82C92E0F0EFA1694C8A45807759611197744CA1&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eurosporthd.png" tvg-id="33fbe8a19d76400f811e1fedfa0705da",Eurosport HD
+http://86.61.39.253:9981/stream/channelid/568916787?ticket=B84AAFE8AA27079CDA825B6C5E598D8B66DA4E66&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eurosport2.png" tvg-id="bc88d1bb2d5f4352a8b0d5914384fa0a",Eurosport 2
+http://86.61.39.253:9981/stream/channelid/1003587772?ticket=4475E76DA4ECA061AB27B7101AFDE5A05F215B05&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eurosport2hd.png" tvg-id="4fe1596a575b43cda7a32155341fe69d",Eurosport 2 HD
+http://86.61.39.253:9981/stream/channelid/1784275279?ticket=66C1709F609792D0087FAC7D48E1FC53C5DBB05F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/extreme.png" tvg-id="c46a201aa64d411991f7fa9d75625535",Extreme TV
+http://86.61.39.253:9981/stream/channelid/438332100?ticket=AC73718BCCDBADD794B445475C99A6C5C0701D16&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/dsf.png" tvg-id="40bf2472ffe64ab6aa2920bc30743b27",Sport1
+http://86.61.39.253:9981/stream/channelid/1915010880?ticket=174403B22BA4AF26967F6239C5CC9227E441DC06&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/motors.png" tvg-id="f35d558c05694c5cae1566c40ff19f19",Motors TV
+http://86.61.39.253:9981/stream/channelid/206921203?ticket=E58F53D1CC0EC93BD7581F288B2441092FFAAA6D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/yachtsail.png" tvg-id="3dfc8a358f9447be810a47a10904bd66",Nautical Channel
+http://86.61.39.253:9981/stream/channelid/898300989?ticket=E38D072C8293688AACF83FD982B50090DCB22883&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fightsports.png" tvg-id="7a765a2e0d8b49f48f9f9c6636a09f8b",Fight Sports
+http://86.61.39.253:9981/stream/channelid/777680506?ticket=6D47CCE54F290E65299DFFBD2D970F641F6342DC&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fightsports.png" tvg-id="3ae3d657af534259b396105c0340ad03",Fight Sports HD
+http://86.61.39.253:9981/stream/channelid/1473700666?ticket=C9D57731BC867A4C87406F8E556A0D413BFB009A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mtv.png" tvg-id="89f342305b6d4e8e9b1b36e8cc3b634c",MTV Adria
+http://86.61.39.253:9981/stream/channelid/809694089?ticket=408E0FF0C27AE90C6F650E232995F472C4BAD993&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mtvlivehd.png" tvg-id="1e8f4bad3d8544dd90fe38987c3883ad",MTV HD
+http://86.61.39.253:9981/stream/channelid/759926558?ticket=196AA8867D69D49BBA76E4C2830DB46FF40B355E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mtv.png" tvg-id="092252e90f2b40dd9130ed73b18348f2",MTV
+http://86.61.39.253:9981/stream/channelid/1766990345?ticket=19C1EAA25D6A557C9262EC697863770D40591C1B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/vh1.png" tvg-id="8a1bb9d459134bf8a19c0b5ea843d520",VH1
+http://86.61.39.253:9981/stream/channelid/1421417354?ticket=F4AE8C6B4D0E60C51A630F57F0C0312FF977EBC5&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/iconcerts.png" tvg-id="0b0ed9ed3fbf49a485263fe16ca84e14",i-Concert HD
+http://86.61.39.253:9981/stream/channelid/1842941451?ticket=2E4B314A6692A424A9FBD2AF23C1FB47104BC075&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cmc.png" tvg-id="f6b0048562594ffd967951e1431640bf",CMC
+http://86.61.39.253:9981/stream/channelid/84193526?ticket=1C08B20D8FA179B6B1EED9003477AD1310481401&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/jugotontv.png" tvg-id="cf3758a650064aecb7469411b40e3734",Jugoton
+http://86.61.39.253:9981/stream/channelid/643315663?ticket=90BA6114C26CEBDE8C589FF09E49171E5E12DB96&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mtvdance.png" tvg-id="ddced9996a234260b8370262c72d67a8",MTV Dance
+http://86.61.39.253:9981/stream/channelid/433704669?ticket=93EA94961D9848C748638F25F7EF293776725322&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mtvh.png" tvg-id="4476d18c285c46b481805bceff9a7564",MTV Hits
+http://86.61.39.253:9981/stream/channelid/215053892?ticket=6814484022F6A82F71A7C77EFBE5D38431E51A77&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mtv2.png" tvg-id="5b1d4c7ceca64439b7dae578d420b959",MTV Rocks
+http://86.61.39.253:9981/stream/channelid/2085363035?ticket=43D480F4FC4E594636178D7CA65D600912BCF150&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/vh1cla.png" tvg-id="aaf1609eb90b4ed082ac87e60efde8ea",VH1 Classic
+http://86.61.39.253:9981/stream/channelid/509669802?ticket=A2D4CD543B5D9FFF786827B94E2C30953C324A82&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mezzo.png" tvg-id="11dd0d3ef80845bf84405b0971da107d",Mezzo
+http://86.61.39.253:9981/stream/channelid/1041095953?ticket=A309FA101198FB86B83BC08EABF65D28A0576AC4&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mezzolivehd.png" tvg-id="c4e4675c421a48e583efdaf1306a511d",Mezzo Live HD
+http://86.61.39.253:9981/stream/channelid/1550312644?ticket=272C64B665AED45D54367A517FB40E73C0A74C59&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkmusic.png" tvg-id="69bfc0eb3c45406b976da71d1393306d",Pink Music
+http://86.61.39.253:9981/stream/channelid/1807794025?ticket=DB4BFFE4581845849518274502B6F50D02D89598&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/dmtv.png" tvg-id="c7f0cd2eacea4099971350e4f3cadac9",DM SAT
+http://86.61.39.253:9981/stream/channelid/785248455?ticket=8391965501AC301BC8D3B6E585F7F2F98DE47C5B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkextra.png" tvg-id="a68889e870a449fe8caf41953ba44bad",Pink Extra
+http://86.61.39.253:9981/stream/channelid/1753843878?ticket=0EE0035B202F66D56EB29B4E8B4622D852493F06&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/pinkfolk.png" tvg-id="efd7a9efd3d84bfc81967fa78dcfc7cc",Pink Folk
+http://86.61.39.253:9981/stream/channelid/1873401839?ticket=27F44E31495268C6D73AD9E9DB70425441925D12&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tracesport.png" tvg-id="1979b92a4be74012915b8abc31500e37",Trace Sport
+http://86.61.39.253:9981/stream/channelid/716798233?ticket=8537789378F78F8ABD741A7503BF5440C4716782&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/trace.png" tvg-id="73b25e6b008f4b05ae55639648b0e0c0",Trace Urban
+http://86.61.39.253:9981/stream/channelid/1801368179?ticket=56C465E2D394B6F203FCE8C1CC384B605313C7F8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioa1.png" tvg-id="b592a2f6424c4806a70acd4f0814a3b5",Radio Slovenija
+http://86.61.39.253:9981/stream/channelid/1990365877?ticket=764D15B5C7E33A1511BA0FEAF35C9BD697C11E61&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioa1.png" tvg-id="5aedcaa1282741868c16d68823aa23e7",Radio A1
+http://86.61.39.253:9981/stream/channelid/566947162?ticket=6E1848C638A3504E2FC4A9541AF1FC00AAB1110F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioval202.png" tvg-id="41baeb33a1eb4e138f6527ece2373af8",Val 202
+http://86.61.39.253:9981/stream/channelid/871086657?ticket=F1FED8C5983C5C7FF8F59E7035F2DEBEC6E868AA&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiosi.png" tvg-id="096e631e11bd49d99e6d1a24e6916257",Radio SI
+http://86.61.39.253:9981/stream/channelid/509832713?ticket=DA71BC93BAC098E53148B4FB2A52705729FE7546&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiosi.png" tvg-id="5f4dfdeaf3df4883a6dc1f90a4d6389d",Radio Slovenia International
+http://86.61.39.253:9981/stream/channelid/1794985311?ticket=8CD7BA7A7F77F9448AF3AE1589DAA452AF422E11&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radio1.png" tvg-id="eb5eec187da94232b8c28eefcc3d34c2",Radio 1
+http://86.61.39.253:9981/stream/channelid/418143979?ticket=1D54BBDDF45112103107AA789B7B5EC390F4EC35&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiocenter.png" tvg-id="1489c558020447db8cb2ba972115e497",Radio Center
+http://86.61.39.253:9981/stream/channelid/1489340692?ticket=19E948FF71E7392E4CA871197A2681FED654A599&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioekspres.png" tvg-id="7d19ea7f98be4392ae8eb8afa3931445",Radio Ekspres
+http://86.61.39.253:9981/stream/channelid/2146048381?ticket=E72743391746CBF685DF8FDAD21E253027A80491&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiohit.png" tvg-id="61ff28eb1c014d70a3a67185abeb65f5",Radio Hit
+http://86.61.39.253:9981/stream/channelid/1797848929?ticket=1A00CF8B5AE59D2F02BF991A6347EA21B4C053F7&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioantena.png" tvg-id="7e370c311f9a479989a9b4a8be46dde9",Radio Antena
+http://86.61.39.253:9981/stream/channelid/822884222?ticket=7058A5DE4F34656CD70B526DD1CAFB984E8C3651&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioaktual.png" tvg-id="41e8ff67b04c4702833c9df282fbcb2a",Radio Aktual
+http://86.61.39.253:9981/stream/channelid/1744824385?ticket=957E681C2A2B811E764BDBC24D864394DFC69315&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiocity.png" tvg-id="9f65e0da42924c2f9b490cbd1ae3cfad",Radio City
+http://86.61.39.253:9981/stream/channelid/1524655519?ticket=18D8358F3C2646B1B2C8652F3FB9C58F94C19CCE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiozelenival.png" tvg-id="ce9089aa1dfd417f9226e874f202b6c4",Radio Zeleni Val
+http://86.61.39.253:9981/stream/channelid/713658574?ticket=30E492AC3161FC3CD7FAD4C503A2E4C811730B56&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiokranj.png" tvg-id="24a151087fe54567a06308c153ce8278",Radio Kranj
+http://86.61.39.253:9981/stream/channelid/139567396?ticket=53B25CF199BDF2D06FFB35E66DF26F987CE9CC4E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioognjisce.png" tvg-id="d0222e5bca73450eba5a2035ee038cd6",Radio Ognjišče
+http://86.61.39.253:9981/stream/channelid/1529750224?ticket=2E51AC1AB3AA58273E7E8C91C1935AFFF74D38DF&profile=pass
+#EXTINF:-1 logo="http://86.61.39.253:9981/imagecache/184" tvg-id="23e5da5bea14de2047cdc5470c4b5b1f",RadioA1
+http://86.61.39.253:9981/stream/channelid/1541072163?ticket=3C9E4CD7C023D07E65A7070453C14451B3505A6B&profile=pass
+#EXTINF:-1 logo="http://86.61.39.253:9981/imagecache/186" tvg-id="98b6dd2300d9af376df1475ffd4652ae",RadioSlovenija
+http://86.61.39.253:9981/stream/channelid/601732760?ticket=8F3D607CCCB69347EE513333C1CF0586522C2E95&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioars.png" tvg-id="15d81f08ccbe4da580a73800d65317ae",Radio ARS
+http://86.61.39.253:9981/stream/channelid/136304661?ticket=1BA3F0B44FC3190F1F21669948C5E26C59A928CF&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiocapodistria.png" tvg-id="105899c05d144c9e9c7f4f0f731a3b28",Radio Capodistria
+http://86.61.39.253:9981/stream/channelid/1083791376?ticket=3D29D457DA3D64E7457EB56C7E09C90A83C9FC33&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiopacient.png" tvg-id="e9ba9cd6cbfd450384ab23580d8a98e3",Radio Pacient
+http://86.61.39.253:9981/stream/channelid/1453112041?ticket=BC8BCCB60D144521E832D2951B9A7334B30832FE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rockradio.png" tvg-id="2837016701c54ad29d31d910659c5362",Rock Radio
+http://86.61.39.253:9981/stream/channelid/1728132904?ticket=FEFD5C936425BFCAAA0449EF7B6C196030153740&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiostudent.png" tvg-id="04e8508b46dd479a90f66cb50370c49e",Radio Student
+http://86.61.39.253:9981/stream/channelid/189851652?ticket=A07D23F4D2AE6D42B2121686C4C4784987F9A413&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiokrka.png" tvg-id="ce20ff1c51a34f1b8709a3aab5aa91a1",Radio Krka
+http://86.61.39.253:9981/stream/channelid/486482126?ticket=6C3AA3F882C94DFC647CC8406DEE0DE8015A85F8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiomb.png" tvg-id="1efe5a9e9dcf4e44bf8f0645c1b96257",Radio Maribor
+http://86.61.39.253:9981/stream/channelid/509279774?ticket=EF666062398CC1E1EE69B0CDEC94A35C6988050B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiosalomon.png" tvg-id="84d8af65518846b1bb8743978347d497",Radio Salomon
+http://86.61.39.253:9981/stream/channelid/1706023044?ticket=DD62DB9B208A58B6D7F6DC6C49315759FA98E966&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radioveseljak.png" tvg-id="da060ae636b54f3bbf3cc46f419b2887",Radio Veseljak
+http://86.61.39.253:9981/stream/channelid/1711933146?ticket=8C696D6A6B348052BBC77B1CBAB62CD0CB9CEE45&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiorogla.png" tvg-id="e57e33aa6502432d83be14ea42582166",Radio Rogla
+http://86.61.39.253:9981/stream/channelid/708017893?ticket=3F228AB5948DA56A938B00FA69353C43A4001FCA&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiocapris.png" tvg-id="826c5a7321394740ac8113e2dd0ac288",Radio Capris
+http://86.61.39.253:9981/stream/channelid/1935305858?ticket=97967324856ADDF97EC0F817353C9BA4FA9DDC5D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiotriglav.png" tvg-id="e132e5717c4b479d99592a5ea84a5494",Radio Triglav
+http://86.61.39.253:9981/stream/channelid/1910846177?ticket=92528D434D3A83999E9B8FB1D73ABCC025291FAB&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/radiokoper.png" tvg-id="d7234f15e1114d7d94148122f37dde8f",Radio Koper
+http://86.61.39.253:9981/stream/channelid/357508055?ticket=0DE5C12AB249C6EBE03251A0F4B36C066F8621E3&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvveseljak.png" tvg-id="7d1c4e0e628842eca40d155675314b28",TV Veseljak
+http://86.61.39.253:9981/stream/channelid/240000125?ticket=BFA44A16535A1B05F7747A5CE664F411D9EAC22A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/carlitv.png" tvg-id="fb876be7b71f42a98b5e9606a2a7b7d7",Čarli TV
+http://86.61.39.253:9981/stream/channelid/1735100411?ticket=E341ED999D0BA6E903CF1BD39B803637AD003213&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sponkatv.png" tvg-id="5a431725020b489682b6ebbf45465500",Sponka TV
+http://86.61.39.253:9981/stream/channelid/622281562?ticket=75C6F8915C74A8CAAEEFF542B8080BD9615AD126&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvpetelin.png" tvg-id="a5ebb7235f744eff8269b842528b2560",TV Petelin
+http://86.61.39.253:9981/stream/channelid/599255973?ticket=44B77B8864D3E918780A2085D4BEC1CF92A0C91F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/net.png" tvg-id="40d15dd8f4fc460fba9960dd884f21f7",NET TV
+http://86.61.39.253:9981/stream/channelid/1482543424?ticket=1EF06138295766C9FEE616D67E305198E6FE624D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/vaskanal.png" tvg-id="5d977c848cf34b2e82419d7443cb6c4d",Vaš kanal
+http://86.61.39.253:9981/stream/channelid/75274077?ticket=79000A68164BD665C5D92CB011A7F8771C8F9E4D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/vitel.png" tvg-id="24f427fe098c4d1c85d2ce217f6cd52c",Vitel
+http://86.61.39.253:9981/stream/channelid/2116547620?ticket=584105A096DD3B4A484F858ED101B1E163B095AC&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ptujtv.png" tvg-id="5224b700cc564d96af669bbde7235fe6",Ptujska TV
+http://86.61.39.253:9981/stream/channelid/12002386?ticket=CF8016F0E48984CC59E07AFADD70FACB99DD5B4A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/siptv.png" tvg-id="9e30f86a6dbd42028d49c2d227da1a64",SIP TV
+http://86.61.39.253:9981/stream/channelid/1794650270?ticket=D10487EC0EB81EA1FE933B37C3043F7076C3E3E4&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tipktv.png" tvg-id="64313261243a46a2a13e6f8c8bc69cb8",TIPK TV
+http://86.61.39.253:9981/stream/channelid/1630679396?ticket=85E73931FF293FE9A1D470F2CB54467CDF8B6843&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvas.png" tvg-id="cbc8c93ff7bc474e9f7fae8aac28ce92",TV As
+http://86.61.39.253:9981/stream/channelid/1070188747?ticket=7A00EFC4D2556119573792FEEA4256F800215EF2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/koroskatv.png" tvg-id="39664157c81640b992c32626c08f0b74",KOROŠKA TV
+http://86.61.39.253:9981/stream/channelid/1463903801?ticket=7E2E37CEC60C076D3F15310F30B25A1EABCF9589&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtsm.png" tvg-id="8ff088972879419191618b3d7e9e950c",RTS Maribor
+http://86.61.39.253:9981/stream/channelid/394850447?ticket=1D3B86C7B6017E66A65C51A2141BE28811291240&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/atmtvkg.png" tvg-id="45d45ea949dc4e2986ebd84b75ded638",ATM TV Kranjska Gora
+http://86.61.39.253:9981/stream/channelid/694080581?ticket=2E81BE2CF79728F2F2CFD0BD3EB68F9AE09AFB54&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/vtv.png" tvg-id="21c828c5ce5d466580cbd37b89f50c72",VTV
+http://86.61.39.253:9981/stream/channelid/1160300577?ticket=9EECA10BDE7088EE1CFD9B2154FD34C4DB7FD28A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rkanalp.png" tvg-id="e26df0f7794646a9b02224ee70e6b6dd",R Kanal+
+http://86.61.39.253:9981/stream/channelid/2012245474?ticket=2E23003A64C8733B193F0AE8C37960E487D9987D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bktvslo.png" tvg-id="97b927cc1efc47f5acabd85d1a62936d",BK TV
+http://86.61.39.253:9981/stream/channelid/1277671831?ticket=5B841285FF12419A21CB1D5CE13265D7C592048A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/studio12.png" tvg-id="ae81c0cff3f449cb80ff6f39834f917b",Studio 12
+http://86.61.39.253:9981/stream/channelid/1338016174?ticket=91B4DA15BC7793D7EE7DD0FA616E04B2751D0154&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvcelje.png" tvg-id="c8dc35009c984d7199e3f010469189dd",TV Celje
+http://86.61.39.253:9981/stream/channelid/3529928?ticket=C7809B7DE203FEC0733E1EC1E8336D132BE97A7A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/stvskledar.png" tvg-id="3cc68b867c2c4fd89c5522841cabd3cf",S-TV Skledar
+http://86.61.39.253:9981/stream/channelid/109823548?ticket=C931119371692F09401BD337F31D5C566B8B127A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ideatv.png" tvg-id="aab76fbcf5504575806402cf90f8021d",Kanal 10 / Idea TV
+http://86.61.39.253:9981/stream/channelid/1013954474?ticket=E92D5B75AEB86274138C5B2C06C33124C0651638&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/turtv.png" tvg-id="1e8494f147914ac7af197192592db58f",Tur TV
+http://86.61.39.253:9981/stream/channelid/1905558558?ticket=5B89D1B9F773B76C2FC69D72A50344E4C59893B7&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvprimorka.png" tvg-id="12d12eed262a43888dcc0427ece75179",TV Primorka
+http://86.61.39.253:9981/stream/channelid/1831784722?ticket=00107F5D8A305E87977830319F1E95B6C1249743&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvm.png" tvg-id="721ec10543874847884ecd88b4d43ebf",TvM
+http://86.61.39.253:9981/stream/channelid/96542322?ticket=C0154075419FBD6684E748F39F0F425B12D6110A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvsg.png" tvg-id="05847434c5544c85806de1ee7c4fb4d1",TV SG
+http://86.61.39.253:9981/stream/channelid/880051205?ticket=74C7E342614C5D59B904984C0F06C7387BEBFCB9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/arenatv.png" tvg-id="239046cb764e42c998dac7aa0fafaf73",Arena TV
+http://86.61.39.253:9981/stream/channelid/1262915619?ticket=5CE54F15635DE8CF4DDC366FF67102BFD2F195B4&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/orontv.png" tvg-id="1be1d12e944742e0ae7bf260ed124400",Oron TV
+http://86.61.39.253:9981/stream/channelid/785506587?ticket=72D17CD88123039B62F292659A4B798609A31F62&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tvormoz.png" tvg-id="71e8b8310339430a85afb056e19bbd01",TV Ormož
+http://86.61.39.253:9981/stream/channelid/834201713?ticket=DCDCFA8C5635A5A7C1DE6B5C472362CC755F2A6F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/slo3.png" tvg-id="3767ec85e9a044e99f0e455872ca7994",SLO 3
+http://86.61.39.253:9981/stream/channelid/99378999?ticket=012995F740FEA19D31395073CBCB5EEB3FA6351D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/koper.png" tvg-id="63ad6f9279a9439a99a456c86fb411c2",TV Koper Capodistria
+http://86.61.39.253:9981/stream/channelid/309308771?ticket=CCE2A5DC7E3B6E90EB7E0ACCA6F34DE206B78690&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/telem.png" tvg-id="621b42f67dda43eca366aef16990bf0f",TeleM
+http://86.61.39.253:9981/stream/channelid/1984043874?ticket=46A2A7F1FCD5187A46680145448A67F78C9C5460&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/hrt1.png" tvg-id="aeccbcce2473461dba7eca682b5034b7",HRT 1
+http://86.61.39.253:9981/stream/channelid/1320996014?ticket=2BE5B8D7E4F4BEC50878DBA3E09586E664F46E3E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/hrt2.png" tvg-id="7d5d098190294ea28b400c0ba48932a9",HRT 2
+http://86.61.39.253:9981/stream/channelid/17390973?ticket=D30A6D54B39D926C0BD830CE7988E5789A90DBF5&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/obnbosna.png" tvg-id="3945c88e0a354397b546e31dc66649b4",OBN
+http://86.61.39.253:9981/stream/channelid/248005945?ticket=3A37CADCDC1880E11BD37BB6454A78931E1C2163&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rts.png" tvg-id="ce58d60da78a460fb6a466e94eb8aad0",RT Srbija
+http://86.61.39.253:9981/stream/channelid/232151246?ticket=2C76CA74BF930B32FC588E653D33E8E719A2AE90&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtcg.png" tvg-id="5f142c0a5e2841acb02e2b1d30e5d1fa",RT Crna gora
+http://86.61.39.253:9981/stream/channelid/170660959?ticket=135FF4C41BE1BB38E990D4FD359A85AEC61309B3&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtk.png" tvg-id="751c71a87b5d426b80add43c60551ea2",RTK
+http://86.61.39.253:9981/stream/channelid/678501493?ticket=8D3EB8DE5D6C0D6436497D4C3F38DE79F16FC570&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/aljazeera.png" tvg-id="a1db679292134680a96cdccf6575fffd",Al Jazeera Balkans
+http://86.61.39.253:9981/stream/channelid/308796321?ticket=30A4794DF5A6FE516759156BE934C15884454E9E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mktv.png" tvg-id="74673f23f57d492cb79df393a8386775",MKTV
+http://86.61.39.253:9981/stream/channelid/591357812?ticket=44D0875433F269F29234D115AB5DA3A10F2F8A41&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/hayat.png" tvg-id="2cc8bf99e2c34764b7eb9b8cd0de3f29",Hayat
+http://86.61.39.253:9981/stream/channelid/431999020?ticket=947FF18793D428101F78AF8FCBAC0A64547AE7A0&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eltatv.png" tvg-id="2740978620bb4eff84db619a685db6fc",ELTA TV
+http://86.61.39.253:9981/stream/channelid/110575655?ticket=3F0559C1987395D1CB2C0D34A230547BD25CD450&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bntv.png" tvg-id="84222b815b3147b287543364b15e1cf9",BN TV
+http://86.61.39.253:9981/stream/channelid/19604100?ticket=7F675CBD251F4C81AB736739AC392C1BAA1DE4B9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cnn.png" tvg-id="6b5cf3c3900849b4a2736d4bce8c75b5",CNN
+http://86.61.39.253:9981/stream/channelid/1140022379?ticket=F681CAFF8C0458F30153AF013A8E95EBF7DC3435&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bbcworld.png" tvg-id="51e804c3d7f741a8979d85dd99c82a4a",BBC World
+http://86.61.39.253:9981/stream/channelid/1124395089?ticket=86301E013137E8D13B2A778253FB5EE58441C935&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/skynews.png" tvg-id="f5f1a08d220f4b4aa6a929db7315b4b6",Sky News
+http://86.61.39.253:9981/stream/channelid/228651509?ticket=5122E4A49F49EEBD973F6E68ED243A16A75FF3E2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bloomberg.png" tvg-id="03b6e041e1cf4151b35bf187629e06ea",Bloomberg
+http://86.61.39.253:9981/stream/channelid/1105245699?ticket=0C40257C82F4A68A404B670879E098F84AA5F237&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/france24.png" tvg-id="f3fc93bd541941e1a369349a48873930",France 24
+http://86.61.39.253:9981/stream/channelid/1033108723?ticket=AACDFF13698932AF7D940B38B16BABA93081F405&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/zdf.png" tvg-id="6c7958a5aca148b688b13132f09f13d8",ZDF
+http://86.61.39.253:9981/stream/channelid/626555244?ticket=75F1AA4D45F9448FB289977E7C8EF582D3B75539&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ntv.png" tvg-id="2b6b04223b174f48a91e99ba4088f852",N-TV
+http://86.61.39.253:9981/stream/channelid/570714923?ticket=3F54C5FAD281B4F104F05F994F6B933048A92057&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/russia1.png" tvg-id="5828005e4de44a5aa9c4a46ad068e235",Channel One Russia
+http://86.61.39.253:9981/stream/channelid/1577068632?ticket=9D74A389B7448B93204561EAD4F762B594633E72&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/russiatoday.png" tvg-id="817b7a4880564daab5b3e0fe798ff0ba",Russia Today
+http://86.61.39.253:9981/stream/channelid/1215986561?ticket=D378776CC7DABDA3C1D2DA1E1522CEFE3CA8B108&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/orf1.png" tvg-id="8be2cdc407a94813bd47de08503eccf6",ORF 1
+http://86.61.39.253:9981/stream/channelid/1154343563?ticket=7B227E9B5A1CE55E01E4342B02272C45692F61E2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/orf2.png" tvg-id="6ef2bb143f824cd3b76665ba31f6656c",ORF 2
+http://86.61.39.253:9981/stream/channelid/347861614?ticket=6C391D417CB1782F6758CAF27AFF18EA93B937CA&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rai1.png" tvg-id="5bab97a91a364d92970413354206ec5b",RAI 1
+http://86.61.39.253:9981/stream/channelid/697805659?ticket=A57BC70EB76234A371DD5483C7BEC4C400E0AD98&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rai2.png" tvg-id="1551922bbbfa473c89f39301768774f1",RAI 2
+http://86.61.39.253:9981/stream/channelid/731009301?ticket=B7F086F03B84D31D36F31377240856877C271403&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rai3.png" tvg-id="a1dd32782e0c4c8aae50ba4f636edb31",RAI 3
+http://86.61.39.253:9981/stream/channelid/2016599457?ticket=251A664F553FABAB300DF81DCB85591FC13228CE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/duna.png" tvg-id="46c2ff3ed74b49e386830b6b1aa99642",Duna TV
+http://86.61.39.253:9981/stream/channelid/1056948806?ticket=46B722976CADAA5A5B32C0C8AA4B66EF00302125&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/shuteltv.png" tvg-id="7d972f53822947089439e3f0dfd57edd",Shutel TV
+http://86.61.39.253:9981/stream/channelid/1395627901?ticket=7C4A4BB3ABFC4FB392BA997BE7037451808116D0&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/folkp.png" tvg-id="69c79464aefb414fa415272ffe577c2b",Folk Plus
+http://86.61.39.253:9981/stream/channelid/1687471977?ticket=36EFCE13F69CABA021939D8D671063212C061365&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kohavision.png" tvg-id="7ea10ba14dc54e4785d4e9c0322cb1fa",Kohavision
+http://86.61.39.253:9981/stream/channelid/554410366?ticket=68A80E413B6018D1884E7B5A26387EB21B5AA767&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtv21p.png" tvg-id="910c9c40280f46f59c862af4d3b96316",RTV 21 PLUS
+http://86.61.39.253:9981/stream/channelid/1083968657?ticket=2F718F17CDD5254B0437A4CDA7CA0738D6DA4699&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tring7.png" tvg-id="b1681c6df59c41d994f382e35e9a3009",Tring 7
+http://86.61.39.253:9981/stream/channelid/1830578353?ticket=32C3356E472C3DF8901247E16C6A3974282F6A37&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tringm.png" tvg-id="030610b5b8f940ebaa0a68ca2aa501fe",Tring Max
+http://86.61.39.253:9981/stream/channelid/890242563?ticket=5156B80E9FEA81681E65F9C5975BB582C38BE432&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/trings.png" tvg-id="b6ae55c728a940708deba3bb295b2083",Tring Shqip
+http://86.61.39.253:9981/stream/channelid/1196797622?ticket=E25B8856E830731032E7F3E3CDD2BF105C982898&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tringt.png" tvg-id="70ba2463d0df40e6bc7619d46279add3",Tring Tring
+http://86.61.39.253:9981/stream/channelid/1663351408?ticket=F8F9CCCD62E9E1BBDA73BF0A7FC4FE413BD7B83B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tringvp.png" tvg-id="f2f4654ba728453bb934ca3b619ae20f",Tring Vizion
+http://86.61.39.253:9981/stream/channelid/1264973042?ticket=F2C39DB135993A5AD94EDAF9BC5A10FCBE4AE9E1&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tv21.png" tvg-id="69803d9d5f4344ceb9c8d271c5af113a",TV 21
+http://86.61.39.253:9981/stream/channelid/490569833?ticket=59E38330648428795DC02EB604D4C606B58B0588&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/alternativa.png" tvg-id="8e5933afa4fb4622893276a150c54b8f",Elta 2
+http://86.61.39.253:9981/stream/channelid/791894414?ticket=FAD6BCC3AF646F9B320C4B5B4280A5A4FCDE1900&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/bht1.png" tvg-id="4243d77e2eb14335a254a1ade286f151",BHT 1
+http://86.61.39.253:9981/stream/channelid/2128036674?ticket=67BEFA5F648B31873679649FE43240C28227A017&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ftv.png" tvg-id="9890bdf56f4e45cf80b8e8aa297579a5",FTV
+http://86.61.39.253:9981/stream/channelid/1975357592?ticket=0F328BBDD8BC5F7645285AA72EAA0D51A2C61A1E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kakanj.png" tvg-id="c798417b43c24f1baedb8c636408eece",NTV IC Kakanj
+http://86.61.39.253:9981/stream/channelid/2067896519?ticket=BFA820D93C22E3EA7C3618B11F9EC9FF4427917E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/valentino.png" tvg-id="1e5d4a2c9a8e471aae274884e0bd62c1",OTV Valentino
+http://86.61.39.253:9981/stream/channelid/743071006?ticket=DE878A6EAAAF1694297E4DCFE5F58B005E013730&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtrs.png" tvg-id="4c82c03e960e4afc8b6859fd89ac6f7f",RTRS
+http://86.61.39.253:9981/stream/channelid/1052803660?ticket=09F023F1BF555805A31A692AC6E2CD6E21B1ECE8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tv1.png" tvg-id="22f6298253174d919118bb472f7b3215",TV 1
+http://86.61.39.253:9981/stream/channelid/36304418?ticket=EB9B51E4BBA7619DFF7DA0E003A12DCD88C44833&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sarajevo.png" tvg-id="f54da23c49024dd6b7aaa06e95c62536",TV Sarajevo
+http://86.61.39.253:9981/stream/channelid/1017269749?ticket=E734A712D347DC3929A4D6D3CCC9031B194E5AB5&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/zdrava.png" tvg-id="166c2444138044debd6d3f6d0b9f89f0",Zdrava TV
+http://86.61.39.253:9981/stream/channelid/1143237654?ticket=6A2BD1CFC0AA25AB8197111B8DBAE497B6107F33&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/atlas.png" tvg-id="364997a467ed4993851a6029fbbc3982",TV Atlas
+http://86.61.39.253:9981/stream/channelid/613894454?ticket=3C8343C290D0EBC37863AC7EC0747CB8AA8DEF15&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtlhrvatska.png" tvg-id="6bf30a3e8a934fa8aa930beda601c394",RTL Hrvaška
+http://86.61.39.253:9981/stream/channelid/1040905067?ticket=77AA8644D1DA2C3988974EE06E56315533597DA2&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtlhrvatska2.png" tvg-id="1e2c30f702fd43d5bbc98bc23e61dca1",RTL 2 Hrvaška
+http://86.61.39.253:9981/stream/channelid/1999645726?ticket=7E1E39DF1BFF50FD9A5451A4C28BEB2588F4EA6B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rtlplus.png" tvg-id="9c208c9ea52946cc9e0892cf0577fbb4",RTL Living
+http://86.61.39.253:9981/stream/channelid/512499868?ticket=3C4159A6E3E2A055B643E7F4FB5CAFE0A7598E1E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/jabukatv.png" tvg-id="14550d2beb1048239bf286719c97eaad",Jabuka (OTV)
+http://86.61.39.253:9981/stream/channelid/722294036?ticket=EC6B296C2D495EAF9B6CBED0D3B06660CD05493E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/narodna.png" tvg-id="b168cdc0df904dce9fe83d9b692851cb",Narodna TV
+http://86.61.39.253:9981/stream/channelid/1087203505?ticket=7EFF064E2D292198A6628E3F837021CF4C1FD5E5&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kutina.png" tvg-id="ddd5cb85f1494fa9b7f66d1354ab6493",NET TV Kutina
+http://86.61.39.253:9981/stream/channelid/97244637?ticket=4D411F8D57BAFF56FDF498A300AFFE75A77C0E93&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/istra.png" tvg-id="9f2d23ad32a6458ebee1636606874c4b",TV Istra
+http://86.61.39.253:9981/stream/channelid/757280159?ticket=1BE3D525D3CB0455F12E195DA248C3A0C8452EE4&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/jadran.png" tvg-id="3d0e81701bba44e18e70ba6b890df22d",TV Jadran
+http://86.61.39.253:9981/stream/channelid/1887505981?ticket=75BD09CE0C940F08526EE5281A88A14D7B8D21FB&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/z1.png" tvg-id="6f30f6a3433f4bf7978817ec6e91b8a8",Z1 Televizija
+http://86.61.39.253:9981/stream/channelid/603336815?ticket=62BBF251C01C28A95456429F57F4E5034F989B2D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/alfa.png" tvg-id="152a441f6c8648a2b84aa8e71f28501f",Alfa TV
+http://86.61.39.253:9981/stream/channelid/524560917?ticket=DA167B40B5E974129A44BDBBB170D507170AB57C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/alsatm.png" tvg-id="d76f5de2aeec4e6095db05dcab51da06",Alsat Macedonia
+http://86.61.39.253:9981/stream/channelid/1650290647?ticket=F15F54F44992F954120E58ECD54AB15FA2D1579D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kanal5.png" tvg-id="c2a5e53d61934e3e8125c7f60641fad3",Kanal 5
+http://86.61.39.253:9981/stream/channelid/1038460354?ticket=62BAFBD5C35848AFD118A5862CFECABB13BFFAB8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kanal5p.png" tvg-id="17a6a9f4f47b4827b96f0b35ad7fd609",Kanal 5 Plus
+http://86.61.39.253:9981/stream/channelid/1957275159?ticket=159E6005DC2A18163612157B45097D55A65A3182&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mktv1.png" tvg-id="c3d68f2316344e66b7f52921cb2dff04",MPT 1
+http://86.61.39.253:9981/stream/channelid/596629187?ticket=2A57DF7E5D65ED838CD5B890C7C45E542A8B65D9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mktv2.png" tvg-id="689393b7b4b94c5b859b295e92e2d7d2",MPT 2
+http://86.61.39.253:9981/stream/channelid/932418408?ticket=984AF9CF42CED8F8BCB7DF62D8BE6D3515DEE727&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/mktv3.png" tvg-id="9e15fbc59115498ea7484e6b74319527",MPT 3
+http://86.61.39.253:9981/stream/channelid/1174082974?ticket=0D245CB929EE8BE369852374CE2692024C05D2DF&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/nasatv.png" tvg-id="827bd37c85d84157bd3c1c44d09200f7",NAŠA TV
+http://86.61.39.253:9981/stream/channelid/2094234498?ticket=9BA80AD73F3BC961E99C0E41D762910617DD8CDA&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sitel3.png" tvg-id="ec6e1d29e8904a348615a3a2c6b57edd",Sitel 3
+http://86.61.39.253:9981/stream/channelid/689794796?ticket=D61BDA4950CD87F659EA6793D142174AA542A349&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/telma.png" tvg-id="7b016c688b6545e99a1dd01cb854b706",Telma TV
+http://86.61.39.253:9981/stream/channelid/1751908731?ticket=04B7DF5245D7E8328EFB22006FF31E2842F0178D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sitel.png" tvg-id="738a15b00a1b4c728627a244dbc026ac",TV Sitel
+http://86.61.39.253:9981/stream/channelid/806718067?ticket=DFEDD00BA9D002A508CC299CAE4517BFAA4184C8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/b92.png" tvg-id="d0e3118095a04657b32584c4c5fc523d",B 92
+http://86.61.39.253:9981/stream/channelid/1172432?ticket=3AD91D3059120B441C39DD006492CEB47B81B2D6&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/b92i.png" tvg-id="30c90f39be9e44bda976775639289337",B 92 Info
+http://86.61.39.253:9981/stream/channelid/957335856?ticket=6FB20A8B19FD102F1604C16BD350ACDE1006816A&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/happy.png" tvg-id="2ad42b328e15467e912ae1a96e631db6",Happy TV
+http://86.61.39.253:9981/stream/channelid/841733162?ticket=302F2A23E406A060A9C2FB5E07881A80DFEA1F38&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/hdmusic.png" tvg-id="399976019f1546f9b64b00fa2e2f18b3",Vikom
+http://86.61.39.253:9981/stream/channelid/24549689?ticket=A8C6DBBF7E69BA7A137E4A63E346A2EA8C8CE10B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kcn.png" tvg-id="a20d40e4acb94fd0af597ebd8b71b537",KCN 1
+http://86.61.39.253:9981/stream/channelid/1681919394?ticket=E42C2812F60B4A564D7B3C59E0F50869A7F83BBD&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kcnm.png" tvg-id="925657ca22334fa9ba02b8ba122d71fb",KCN 2
+http://86.61.39.253:9981/stream/channelid/1247237778?ticket=26537EAF209681EBA2C6F0DF38BBF39E2DF79F97&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/prvasrb.png" tvg-id="87630bce366f42edbbb9691dfda25795",PRVA Srbska TV
+http://86.61.39.253:9981/stream/channelid/1309369223?ticket=954A9EC0E5159F9A1C4F7C9C8FAF3051B342C0FE&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rts1.png" tvg-id="84921023f7494d42a03ca93bb4d2bd19",RTS 1
+http://86.61.39.253:9981/stream/channelid/588288644?ticket=6F1BC499E11AAE3169F0A58AB63796A130C7C8A9&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/rts2.png" tvg-id="3ef7ea3c52344cbfa97f03c6d2f942ed",RTS 2
+http://86.61.39.253:9981/stream/channelid/1022031678?ticket=D28A88B3207DF39025BFAC3F344F5E7ED227649B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/dugans.png" tvg-id="6b8acd8a1fc54fbaa1ae8d8e67b2fdad",TV Duga Novi sad
+http://86.61.39.253:9981/stream/channelid/181242475?ticket=F8520CB79427ADFB0E52AE783045B4E3007C97E1&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/spbeograd.png" tvg-id="3cddbaf8f68e48928252fae250bf7c2c",KCN 3
+http://86.61.39.253:9981/stream/channelid/2025512252?ticket=A4FF2966613AEE3485945CB4971D7FB0F3FA7449&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/playboytv.png" tvg-id="57b7f45f40d6491cb0171a8a5955eec9",Playboy TV
+http://86.61.39.253:9981/stream/channelid/1609873239?ticket=912D8047A429C8CEDE357322A8A621E5FA9ABFF8&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/dorcelhd.png" tvg-id="ead44bcacb5645adad3b5d98ba5f4da8",Dorcel HD
+http://86.61.39.253:9981/stream/channelid/1246483690?ticket=FC343E0C4B5E198C35BD741348F51AB6A22DCF9C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/hustlerhd.png" tvg-id="a3d878dc65d04dc38c7f1d88c637abc5",Hustler TV HD
+http://86.61.39.253:9981/stream/channelid/1551423651?ticket=932B8C8FEF06A6501DEA71DE7E3FEA6626A8B02C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/sct.png" tvg-id="118dd4a259b14615ab330e830058f507",SCT
+http://86.61.39.253:9981/stream/channelid/584355089?ticket=513D3409B59E438B8A266273FF50738C0E679F80&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/freex.png" tvg-id="5ae13daa26174c49a9fe17b1cbbdb239",Private TV
+http://86.61.39.253:9981/stream/channelid/708698458?ticket=BEFF49DCB78808B80F2BD2E7950AF156F7039857&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eroxhd.png" tvg-id="5e3aca1a906d41fe9516a03c24601ca4",Erox HD
+http://86.61.39.253:9981/stream/channelid/449460830?ticket=AC8A1DACAD66079EBBBDA8E04C2A8A7D035AEF20&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/eroxxxhd.png" tvg-id="9196e85cd253462aa2532da4092013aa",Eroxxx HD
+http://86.61.39.253:9981/stream/channelid/1558746769?ticket=AFFC6D174A0E9F548DECED8AF13B8A37221C4185&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/ansat.png" tvg-id="dd4e9fd75079472e9b5e452bbf0cc8f7",Ansat TV
+http://86.61.39.253:9981/stream/channelid/1470058205?ticket=1516285A4877D3C42683845675C8CE4FBC86569B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/arte.png" tvg-id="c54ffbb8ecd4496c975a424cd5f5aa9e",Arte
+http://86.61.39.253:9981/stream/channelid/955994053?ticket=344AA95EA925887F37F6546533363B2FDE41C14C&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/axn.png" tvg-id="9033d5896dc34bd1ba6dd15a512160f6",AXN
+http://86.61.39.253:9981/stream/channelid/164967312?ticket=561C22B1F6EA13E568658A9201E2B57C9FDC7642&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cinestarpr1hd.png" tvg-id="4688cd1bc0974feca004d6bf84c22ddf",CineStar Premiere HD 1
+http://86.61.39.253:9981/stream/channelid/466454598?ticket=BC677D4BB613F6F7BA635D2B645FDEF4B509D71E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/cinestarpr2hd.png" tvg-id="e8ce951cd5344919bfed094b8c970140",CineStar Premiere HD 2
+http://86.61.39.253:9981/stream/channelid/479579880?ticket=87430A3319204B132CD37394361063304607C41F&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fightchannel.png" tvg-id="99ef47e4f3ba4d11910e68ac239412ff",Fight Channel
+http://86.61.39.253:9981/stream/channelid/1682435993?ticket=66117A03624F94BE87DA67D035744DC9E5FAA027&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/fln.png" tvg-id="27b6386c5c7a4ec2a88588119b429521",Fine Living Network
+http://86.61.39.253:9981/stream/channelid/1815655975?ticket=31E1EFD5BB24EE69027BF5B27B5A1FEF138E9970&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/gotv.png" tvg-id="a7a16a824ef5443b9f92d28fdd0cd334",GO TV
+http://86.61.39.253:9981/stream/channelid/40542631?ticket=49E98C0AA22812BFDDA3C47197E70E2EB60DF145&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/kortv.png" tvg-id="4bc6171c2ffa4877af66177c4cdae3b7",KOROSKA TV
+http://86.61.39.253:9981/stream/channelid/471320139?ticket=57409AEFB6E224960B50117AFAE1902308A51F3B&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/stv.png" tvg-id="c042663d27f64fd98cd7ce0ffe8a2ee6",SAVINJSKA TV
+http://86.61.39.253:9981/stream/channelid/1030111936?ticket=379B5D5F47A3FF2D0BD3BAD2FAFCC1E7DE3BC698&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/tv1000.png" tvg-id="e6bb10b93b544efc8ad5e45599665bb7",TV 1000
+http://86.61.39.253:9981/stream/channelid/957397990?ticket=BB17DC35C1065A52C64035303646787FF510376E&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/history.png" tvg-id="f50737a823b1422ea08ebd933d34a879",Viasat History
+http://86.61.39.253:9981/stream/channelid/674695157?ticket=0B043ACC08B30924DA69A8615D6D6111FC70553D&profile=pass
+#EXTINF:-1 logo="http://bite-in.com/siol/logos/planet1.png" tvg-id="5f7a38f41fff0c010f94b0b4f9877614",Planet +1
+http://86.61.39.253:9981/stream/channelid/1949858399?ticket=17BF9237BA9BF53EAD02A6A94A5BD73CA06E2E4B&profile=pass

@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 logo="http://i.imgur.com/ZhYaqpt.png" tvg-id="7ba97418b1b0360634c30d60bd066adc",신세계쇼핑
+http://59.31.90.220:9981/stream/channelid/410298747?ticket=CFD47CFF521D7F02F6AEC015948414980837DD34&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ZhYaqpt.png" tvg-id="291322a14e88a051ffd8633439187a2a",신세계쇼핑
+http://59.31.90.220:9981/stream/channelid/555881257?ticket=176D8219BEDA4F697839DB853BFE8FF9779B9D0B&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" tvg-id="21ba618f48dd37cf2fee6ed516974891",MBC Dramanet
+http://59.31.90.220:9981/stream/channelid/258062881?ticket=4229245AFCB4A8129C0403BB76C0034CEB8F3A3B&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/oOnpFes.png" tvg-id="5a361bbb9f126e548efe9a7a785994ff",MBC Every1
+http://59.31.90.220:9981/stream/channelid/991639130?ticket=28B91BF752A21FA3B292BE7D960C517E86FD59D1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xT7pVuI.png" tvg-id="1c3054c5fce758ce999aa0cc48c178c1",드라마H
+http://59.31.90.220:9981/stream/channelid/1163145244?ticket=3803D6CFED1FC125E7AED7B78C55A99FC271A9F3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/uBClUx6.png" tvg-id="b574b69c8702a31049b9b1ee00c44353",CJ오쇼핑
+http://59.31.90.220:9981/stream/channelid/481719477?ticket=D31F380CCBEDF880EB0DB0E11D1964A68A4A7DE3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/uBClUx6.png" tvg-id="459164422b6d29c90b4792884684beb2",CJ오쇼핑
+http://59.31.90.220:9981/stream/channelid/1113887045?ticket=AF20321E5D3412207FED1133B4DA79D9D7B01C9A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/J6zQfQu.png" tvg-id="013b61000673c6b40f662186dd18aba5",CJB 청주방송
+http://59.31.90.220:9981/stream/channelid/6372097?ticket=607F96414E377F55575BE668EF7009B696B2A5CB&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/vri0qlq.png" tvg-id="bf3293c07e3bbbe2753fe13d1734e87a",롯데원티비
+http://59.31.90.220:9981/stream/channelid/1083388607?ticket=43A283F87977724F638CA9068DE69433E4E47239&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/2bCfj0y.png" tvg-id="168b3a8451961f2e05dd783c57ffa1b4",롯데홈쇼핑
+http://59.31.90.220:9981/stream/channelid/70945558?ticket=7A2DD09DE7923865C4DC493B7F13779F87B4AC41&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="5f6a538e50edb446284ef47da6a8e42a",KBS2
+http://59.31.90.220:9981/stream/channelid/240347743?ticket=435A957F45FFF864797D66C30829980297D95551&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="bbde5ad3bac91164fb8a1799ca9c2f75",KBS2
+http://59.31.90.220:9981/stream/channelid/1398464187?ticket=1E07BC5E5C24E26D25363AE7BAF906513E394607&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/tz88mYd.png" tvg-id="e80a55a79bf69d58a41f85cd3715b084",GS SHOP
+http://59.31.90.220:9981/stream/channelid/659884776?ticket=F34B24A1D9A78F489A015453A41136A0347D3D6E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="167a72e60558c54c756e80a907ab8078",KBS1
+http://59.31.90.220:9981/stream/channelid/1718778390?ticket=3C70D19B88F2488002C91834948566B949F7239F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="93974103e2f071af26e65a59bbfb7be1",KBS1
+http://59.31.90.220:9981/stream/channelid/54630291?ticket=5EDE0D2B81F781297EBFED8B420A17F97944B804&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/87fdrA5.png" tvg-id="7f1b0e2245014f5aa89e4acb2df98305",현대홈쇼핑
+http://59.31.90.220:9981/stream/channelid/571349887?ticket=79338FC8AE5A268ED0311B44125316865151F98E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/COo8Bcm.png" tvg-id="0919f32ecabb61b66fd0136610e9b3df",현대홈쇼핑+샵
+http://59.31.90.220:9981/stream/channelid/787683593?ticket=903AEF0AA26F5F6604107AE08BA4FD04998B7FDF&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="ede9f4e33c93b64d570867cdf1e6af39",MBC
+http://59.31.90.220:9981/stream/channelid/1676995053?ticket=360E1E87461879922940F98FD59C72EFA2AA155E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/PR4w3i2.png" tvg-id="7a03f1aae08e62a97491307bb5f0c220",MBC
+http://59.31.90.220:9981/stream/channelid/720438138?ticket=7773E4DE65436CC931D930A9D609060CAB95975C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="056102461993acb5a60353e59a2b4447",MBC
+http://59.31.90.220:9981/stream/channelid/1174561029?ticket=B18C59A06BC37B5579347BF002276E31039960E8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/UD1yoj1.png" tvg-id="1117f9a0fccb55050e26bb76c8b03128",NS홈쇼핑
+http://59.31.90.220:9981/stream/channelid/553195281?ticket=13298428CAC7C1B7C9BE134357671731A13032E0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="dcb28e796a2c5ae602a4eb40cca53db0",EBS
+http://59.31.90.220:9981/stream/channelid/2039395036?ticket=DE81B0759C887163B142D924A951AC4CA4340437&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="c88eedb2af543195795824d5260f6a11",EBS
+http://59.31.90.220:9981/stream/channelid/854429384?ticket=23AFE5C4845011B76974AD67C42E7ED76FFD03F5&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/nLxw0LW.png" tvg-id="a896f026b9062d8023fea0f42f04d814",홈&쇼핑
+http://59.31.90.220:9981/stream/channelid/653301416?ticket=79BEA41CE208D2116CED15CE2D9425FD2B06C098&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="9321ab5ba7367348cbcdb3547f12199c",JTBC
+http://59.31.90.220:9981/stream/channelid/1537941907?ticket=F529561472CF19C891866487202BF554BB1D7E60&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="d737d3f25498d1580268cf2eeadd2b0c",JTBC
+http://59.31.90.220:9981/stream/channelid/1926445015?ticket=9E0B50DD83DB74732F31C07AA94360BA434590E0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="a53d1a1d3ad2f4c3099425a68c09aa5a",MBN
+http://59.31.90.220:9981/stream/channelid/488258981?ticket=2150B15F32151B304287A9A37D1550B7BB7FD062&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="99f1c32a9966fa2ab4ba2016f8e49a03",MBN
+http://59.31.90.220:9981/stream/channelid/717484441?ticket=AE11182CFFB907BDB1E3E91725739E78D260F5EF&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="12175b5d4d8bdd12f8b0e8d4c089701b",tvN
+http://59.31.90.220:9981/stream/channelid/1566250770?ticket=3D92661F468207A2B6DA066613A5CCD8A165DEAE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="cec4fd620c17c35aee96a0bc66fd5bc2",채널A
+http://59.31.90.220:9981/stream/channelid/1660798158?ticket=E453B27EC6B45202B2B880EDA38F3575AD5747DE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="13e34787d4fdaa235627152b58aa2042",채널A
+http://59.31.90.220:9981/stream/channelid/122151699?ticket=D42593D0EF1E69FA22A30D16FE9B30E2A8794552&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="d7a1c6dbc2ab6b6b0476fa61dd6e7e0f",TV조선
+http://59.31.90.220:9981/stream/channelid/1539744215?ticket=FC99A77D772CABC0E4616D391AA77AB6BDC2D2E6&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="c4e0cae510ec2b6042ffb3cbc9e8982f",TV조선
+http://59.31.90.220:9981/stream/channelid/1707794628?ticket=2C952ED80AD96E650E24EA9AE786F3C40452C633&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="d6272f18b766790f268e2b45d887e3b1",K쇼핑
+http://59.31.90.220:9981/stream/channelid/405743574?ticket=F0085418656A6E030AB1805B9EC49BA308F27516&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="f5eae47493d28cefee6c30ad080c56a6",K쇼핑
+http://59.31.90.220:9981/stream/channelid/1961159413?ticket=FDF52B4F0FB7CAE2808485691F9343F8269A998F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/KlTCP8V.png" tvg-id="6b4b8a526ee53450e9e17052afa75c45",연합뉴스TV
+http://59.31.90.220:9981/stream/channelid/1384794987?ticket=32D824E92BB7D4F0005F31892ED3CFBB6CBFDAC9&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ByeeX5e.png" tvg-id="ec415467c8fa704311e0e5612b61e13c",YTN
+http://59.31.90.220:9981/stream/channelid/1733575148?ticket=03D2EC615113A45CCBF36C42544529B0682E53A8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/putHm2b.png" tvg-id="6834b9f3daa4b3d40f6ce5ff6865504a",Mnet
+http://59.31.90.220:9981/stream/channelid/1941517416?ticket=A6396E4AB4EA15137753446E07D8F543596FDC55&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/WlK2YDk.png" tvg-id="c72aaa6a6ef2043cc62c13fd36114b4f",CJ오쇼핑 플러스
+http://59.31.90.220:9981/stream/channelid/1789536967?ticket=F2828ED10996CB3E9B4717793F3ED90241CF2668&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/8pwPc5R.png" tvg-id="70b0fcd8417d5b5663bd984370270026",SK stoa
+http://59.31.90.220:9981/stream/channelid/1492955248?ticket=FC35C06DE8053965A4894591577F6D3AA015CC1F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Q7FHxYB.png" tvg-id="28ff4ef7b6c8676fb1e327b48d3766cb",쇼핑엔T
+http://59.31.90.220:9981/stream/channelid/2001665832?ticket=27F773B068E93760CA0933C92C9EA5914CB00AF8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/5kF0Ypt.png" tvg-id="6425fa71d946673f70605d78390dda38",올리브
+http://59.31.90.220:9981/stream/channelid/1912218980?ticket=79F47B2F9C2A18A96645514E7A4FFEE227FC9171&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/0Y0pRW4.png" tvg-id="608f7fad08a2f638c730e385783b02fa",GS MY SHOP
+http://59.31.90.220:9981/stream/channelid/763334496?ticket=559E1D9AECEB75267C1EDEB5D504760029920187&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Cged9ve.png" tvg-id="527376492a80ab940a77d1378899d3f8",W 쇼핑
+http://59.31.90.220:9981/stream/channelid/1232499538?ticket=378ACFFD02B40605CDE319F8B34CA8968E6358AD&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ipGXgEK.png" tvg-id="4ab2ef4dd257ba337365746dc7061648",NS Shop+
+http://59.31.90.220:9981/stream/channelid/1307554378?ticket=972E2BD2319585E7054F451FDC3AA4C37B88CAE1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/UD1yoj1.png" tvg-id="38ff337d097392baf20d0987655ff358",NS홈쇼핑
+http://59.31.90.220:9981/stream/channelid/2100559672?ticket=79C0C6F7322274326F099954BEEFAD26BC57DFE9&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/0SMl3O5.png" tvg-id="b21948ef1b1ed3065550dbbaf7f9dace",O tvN
+http://59.31.90.220:9981/stream/channelid/1866996146?ticket=B7A8CF187EE5456A3BA2F22AED0D1594C8508D1D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/cIpIf6b.png" tvg-id="cfde4f3c13b44fa36ae2319fe282f9c2",SPOTV
+http://59.31.90.220:9981/stream/channelid/1011867343?ticket=D8111CAC79FF25E88D6C9D7BCA4DBB3CBE6DACDE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/QHV9bdA.png" tvg-id="6c694b8f7970e38739184b2c769ad823",SkySports
+http://59.31.90.220:9981/stream/channelid/256600428?ticket=56F946A1AB9C61F53FB55B87E2059E60ED9A9DD5&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/j1vHAu6.png" tvg-id="e98244189f5464731569f0c15b340007",SBS Sports
+http://59.31.90.220:9981/stream/channelid/407143145?ticket=34FC113EB9CB759E1F3ED4DE79CC70628341A7DE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xspD7UE.png" tvg-id="64cc1b5eda7b9354829b3914e7e3d26d",KBS N Sports
+http://59.31.90.220:9981/stream/channelid/1578880100?ticket=2B3BEEE9E1AB6C2E26D5047219AC4D18B2618E05&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Su21uj3.png" tvg-id="a0900f388d60a8ebe289a0ea53bf353c",MBC SPORTS+
+http://59.31.90.220:9981/stream/channelid/940544160?ticket=025F5235867E37F0B8E397D5A14DF969849948E3&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gGqDBjb.png" tvg-id="5d1803e1f3ab09c086573908af831657",XtvN
+http://59.31.90.220:9981/stream/channelid/1627592797?ticket=89A2A76CEEDD0D83FAD6B56AD36F063FBA32F369&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/9brMDfR.png" tvg-id="3590c3959f21f62ffeac7228c8e9afe3",온스타일
+http://59.31.90.220:9981/stream/channelid/365137973?ticket=C2216C36628B6258BAAE1D911EE71B3A8560D236&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="ca6a7c749c02bb944745f507f16df8ca",EBS2
+http://59.31.90.220:9981/stream/channelid/1954310858?ticket=30B45E185D42C5C7B4298A3B761810C5DDC6534A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6g56RDx.png" tvg-id="623412d9a3bca0cfc0e6870da2601008",MBC MUSIC
+http://59.31.90.220:9981/stream/channelid/1494365282?ticket=8A1E754F78FFCAB299240E32ED1028C5FAC632A8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/eI9wGgS.png" tvg-id="0da12b74f6ac0b0c1f3fc3a6729b0e8e",FTV
+http://59.31.90.220:9981/stream/channelid/1949016333?ticket=66D388C0929F8B3B470C95840C270BA56ECD26AD&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/jbRu8T2.png" tvg-id="1de90fc99047f969a1111c1c33f3d6e2",바둑TV
+http://59.31.90.220:9981/stream/channelid/1225779485?ticket=313C9F80D95A1501D205FD0BD83BBE22109E7987&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/tLtSTaq.png" tvg-id="eecc703002995760d0ff5913ef5da58b",OGN
+http://59.31.90.220:9981/stream/channelid/812698862?ticket=4A3E69D4872D6A441A4B4062EE89DA3432E8DDE1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/7RKoOZq.png" tvg-id="4aa065969db2128ac9c88558cb475a14",애니플러스
+http://59.31.90.220:9981/stream/channelid/375758922?ticket=78BFD5E5AEF2D1B4B74A1AD49273D73BC80019B4&profile=pass
+#EXTINF:-1 tvg-id="7a8fc87e16159b0319b53b1128ea1d74",핑크퐁
+http://59.31.90.220:9981/stream/channelid/2127073146?ticket=D102472A93F084C0A747FC78F6434D4BDFF9B500&profile=pass
+#EXTINF:-1 tvg-id="db8258188876530115bc6c9cedc49eb2",핑크퐁
+http://59.31.90.220:9981/stream/channelid/408453851?ticket=8C318D7BEC7ACF19D7BE4C6C980CB9EF0CEB79A1&profile=pass
+#EXTINF:-1 tvg-id="400ca8d7d4d9d5823113e3ff3e96566d",핑크퐁
+http://59.31.90.220:9981/stream/channelid/1470630976?ticket=A1142C7ED13ABCB1E55285D78B88EB64814BBC38&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/NoNRdSt.png" tvg-id="790a8388e415f3602dcbe06f421be694",JEI 재능TV
+http://59.31.90.220:9981/stream/channelid/142805625?ticket=AD707CCF36A89BD07C732C46A98F00BA70829216&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/AVCSEdn.png" tvg-id="63b45d09976f709ac80a731b22eaf1fa",대교상상kids
+http://59.31.90.220:9981/stream/channelid/157135971?ticket=CA9EA83A2C10F0936397716B2BACDF6087CA1271&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/AVCSEdn.png" tvg-id="715ed5022e9e8663f3782bfd1449fd7d",키즈원
+http://59.31.90.220:9981/stream/channelid/47537777?ticket=F794C6060A88FA4F812B5B04F8E3CEF1CB031F5B&profile=pass
+#EXTINF:-1 tvg-id="e5c6e1c58c62bfb634b33b41075139ea",포커스키즈
+http://59.31.90.220:9981/stream/channelid/1172424421?ticket=5ED7C9BCCB1C1831FB66C81F4C0A3611D11F50BD&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/qZdqeZo.png" tvg-id="e90f1f1a0958af7e40088e4df5d4b8a3",Disney Channel
+http://59.31.90.220:9981/stream/channelid/438243305?ticket=49813451E98259302AD7BF21741D0AA96D5B7027&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/4bIQeie.png" tvg-id="d3a454fcf7de39967f1e75e990cb53fb",Cbeebies
+http://59.31.90.220:9981/stream/channelid/2085922003?ticket=585D60E351E8593916E6205B68BC175B0C6AC1A7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/RxsYny9.png" tvg-id="05381ef62f776fd62794eded5720c591",CNN International
+http://59.31.90.220:9981/stream/channelid/1981691909?ticket=253D704735A58088DC1AEBC4BBA351230EFD9F99&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/B34jpmo.png" tvg-id="c21d116a84b80e3b1ec4ad8fae937cea",BBS 불교방송
+http://59.31.90.220:9981/stream/channelid/1779506626?ticket=99C0AFB8DA4A4A777EA969AB3E963C8425ED68EF&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XU4pwpC.png" tvg-id="67ca142d86d5575faa2e94920e433171",BTN불교TV
+http://59.31.90.220:9981/stream/channelid/756337255?ticket=4114C37F46150790777187E22528FA0DD09678C4&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/fFN1YJb.png" tvg-id="e2890254620ff4902203f350ad75776d",Good TV
+http://59.31.90.220:9981/stream/channelid/1409452514?ticket=01E0A29A202E0282557735B159387C0FB19114A5&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/SFouN1c.png" tvg-id="57c63160f91a7861b8103fae79a28abc",C channel
+http://59.31.90.220:9981/stream/channelid/1613874775?ticket=FC14D90F1117000BEFF50E832CF76C3583CDC513&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/lW9nvaB.png" tvg-id="846a361e5b4600bdd1392398aa6fe82e",CTS기독교TV
+http://59.31.90.220:9981/stream/channelid/506882692?ticket=54F23D924DD17A3209E3C33901D97DB0E4CC2F6D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/9fNvKEX.png" tvg-id="1e7768dad75f4653e27d2a12a3e6ae8f",CGNTV
+http://59.31.90.220:9981/stream/channelid/1516795678?ticket=2F668A575AF96AB05E8C4CA7DFBE0F6710CDB070&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/yBNo2mS.png" tvg-id="a0f809e10e5a33ac118fb7be15a98346",CBS
+http://59.31.90.220:9981/stream/channelid/1628043424?ticket=00B8E876FB854439AC192AB2EAED48AC478DBC4F&profile=pass
